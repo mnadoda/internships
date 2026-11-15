@@ -1,7 +1,155 @@
 {
-"generated_at": "2026-11-15T07:07Z",
-"count": 250,
+"generated_at": "2026-11-15T08:07Z",
+"count": 259,
 "jobs": [
+{
+"id": "4489380177",
+"source": "LinkedIn",
+"title": "Finance Intern",
+"company": "TechMore",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/finance-intern-at-techmore-4489380177",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4491232282",
+"source": "LinkedIn",
+"title": "POOL: RedTire Program Finance Analyst Student Intern",
+"company": "Center for Public Partnerships & Research",
+"location": "Topeka Metropolitan Area",
+"url": "https://www.linkedin.com/jobs/view/pool-redtire-program-finance-analyst-student-intern-at-center-for-public-partnerships-research-4491232282",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Volunteer"
+},
+{
+"id": "4489381137",
+"source": "LinkedIn",
+"title": "\"'Technical Sales & Consulting Intern'\"",
+"company": "Belenor",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/technical-sales-consulting-intern-at-belenor-4489381137",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4489372615",
+"source": "LinkedIn",
+"title": "Intern, Engineering Co-Op Summer 2027 - (SDKY)",
+"company": "U.S. Tsubaki Power Transmission, LLC",
+"location": "Sandusky, OH",
+"url": "https://www.linkedin.com/jobs/view/intern-engineering-co-op-summer-2027-sdky-at-u-s-tsubaki-power-transmission-llc-4489372615",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489376581",
+"source": "LinkedIn",
+"title": "FInanace Intern",
+"company": "Aldenaire",
+"location": "San Fernando, CA",
+"url": "https://www.linkedin.com/jobs/view/finanace-intern-at-aldenaire-4489376581",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489377478",
+"source": "LinkedIn",
+"title": "Intern (Communications) Posting",
+"company": "Orion Policy Institute",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/intern-communications-posting-at-orion-policy-institute-4489377478",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Volunteer"
+},
+{
+"id": "4489387085",
+"source": "LinkedIn",
+"title": "Manufacturing Digital Systems Intern",
+"company": "VertoTech",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/manufacturing-digital-systems-intern-at-vertotech-4489387085",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489376424",
+"source": "LinkedIn",
+"title": "Materials Engineering Interns",
+"company": "BeamSphere",
+"location": "Los Angeles, CA",
+"url": "https://www.linkedin.com/jobs/view/materials-engineering-interns-at-beamsphere-4489376424",
+"posted_at": "2026-11-15T08:07Z",
+"found_at": "2026-11-15T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
 {
 "id": "4486808386",
 "source": "LinkedIn",
@@ -4322,6 +4470,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": ""
+},
+{
+"id": "6af3ab8910c7aed77861d199",
+"source": "Jobright",
+"title": "Summer 2027 Intern - Applied AI Strategy & Research",
+"company": "Salesforce",
+"location": "San Francisco, CA",
+"url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1",
+"posted_at": "2026-11-11T04:02:36Z",
+"found_at": "2026-11-15T08:07Z",
+"score": 89,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "6ad6725ee4b94611ab83ec86",
