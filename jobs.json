@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-15T13:07Z",
-"count": 294,
+"generated_at": "2026-11-15T14:07Z",
+"count": 295,
 "jobs": [
 {
 "id": "4465172518",
@@ -4195,6 +4195,24 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": ""
+},
+{
+"id": "6af6676a80054650a5e7ebb8",
+"source": "Jobright",
+"title": "Consulting Master's Intern",
+"company": "Kaiser Permanente",
+"location": "Pasadena, CA",
+"url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=3429845&tz=UTC-05%3A00&tzname=America%2FNew_York",
+"posted_at": "2026-11-13T18:36:44Z",
+"found_at": "2026-11-15T14:07Z",
+"score": 78,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "4465058821",
