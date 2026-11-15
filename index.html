@@ -67,7 +67,7 @@
   <div class="meta"><span id="count"></span><button id="clear" hidden>Clear filters</button></div>
   <div id="list"></div>
 </main>
-<footer class="wrap"><p id="updated"></p><p>Degree and work-authorization labels are read from each posting with keyword rules; confirm in the posting itself. Match % is Jobright's score for one profile.</p></footer>
+<footer class="wrap"><p id="updated"></p><p>Degree and work-authorization labels are read from each posting with keyword rules; confirm in the posting itself.</p></footer>
 <script src="core.js"></script>
 <script>
 (() => {
@@ -95,7 +95,6 @@
             ${j.degrees.length ? `<span class="tag deg">${B.esc(j.degree)}</span>` : ""}
             ${j.work_auth === "Authorization required" ? `<span class="tag req">Authorization required</span>` : j.work_auth === "Sponsorship available" ? `<span class="tag spon">Sponsorship available</span>` : ""}
             ${j.work_model !== "Not specified" ? `<span class="tag">${B.esc(j.work_model)}</span>` : ""}
-            ${j.score ? `<span class="tag score">${j.score}% match</span>` : ""}
             <span class="tag src">${B.esc(j.source)}</span>
           </div></article>`;
       }
