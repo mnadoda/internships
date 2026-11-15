@@ -1,7 +1,134 @@
 {
-"generated_at": "2026-11-15T18:07Z",
-"count": 323,
+"generated_at": "2026-11-15T19:07Z",
+"count": 330,
 "jobs": [
+{
+"id": "4465116621",
+"source": "LinkedIn",
+"title": "Transmission & Distribution Engineer Intern - Grid (Summer 2027)",
+"company": "Sargent & Lundy",
+"location": "Chattanooga, TN",
+"url": "https://www.linkedin.com/jobs/view/transmission-distribution-engineer-intern-grid-summer-2027-at-sargent-lundy-4465116621",
+"posted_at": "2026-11-15T19:07Z",
+"found_at": "2026-11-15T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Temporary"
+},
+{
+"id": "4491234551",
+"source": "LinkedIn",
+"title": "Thixomolding Process Engineer Intern- Summer 2027",
+"company": "Shape Corp.",
+"location": "Tanner, AL",
+"url": "https://www.linkedin.com/jobs/view/thixomolding-process-engineer-intern-summer-2027-at-shape-corp-4491234551",
+"posted_at": "2026-11-15T19:07Z",
+"found_at": "2026-11-15T19:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491245103",
+"source": "LinkedIn",
+"title": "Product Development Engineering Intern- Summer 2027",
+"company": "Shape Corp.",
+"location": "Grand Haven, MI",
+"url": "https://www.linkedin.com/jobs/view/product-development-engineering-intern-summer-2027-at-shape-corp-4491245103",
+"posted_at": "2026-11-15T19:07Z",
+"found_at": "2026-11-15T19:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4475086206",
+"source": "LinkedIn",
+"title": "Technical Business Analyst Intern",
+"company": "Cboe Global Markets",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/technical-business-analyst-intern-at-cboe-global-markets-4475086206",
+"posted_at": "2026-11-15T19:07Z",
+"found_at": "2026-11-15T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4491256483",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship - Game Design Intern",
+"company": "Fanatics",
+"location": "Seattle, WA",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-game-design-intern-at-fanatics-4491256483",
+"posted_at": "2026-11-15T19:07Z",
+"found_at": "2026-11-15T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4491250717",
+"source": "LinkedIn",
+"title": "Intern Associate Portfolio Executive- Summer 2027",
+"company": "C.H. Robinson",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/intern-associate-portfolio-executive-summer-2027-at-c-h-robinson-4491250717",
+"posted_at": "2026-11-15T19:07Z",
+"found_at": "2026-11-15T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4470194904",
+"source": "LinkedIn",
+"title": "Summer 2027 - Validation Engineering Intern",
+"company": "onsemi",
+"location": "Nampa, ID",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-validation-engineering-intern-at-onsemi-4470194904",
+"posted_at": "2026-11-15T19:07Z",
+"found_at": "2026-11-15T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
 {
 "id": "4465116622",
 "source": "LinkedIn",
