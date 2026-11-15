@@ -1,7 +1,225 @@
 {
-"generated_at": "2026-11-15T04:07Z",
-"count": 228,
+"generated_at": "2026-11-15T05:07Z",
+"count": 241,
 "jobs": [
+{
+"id": "4491222238",
+"source": "LinkedIn",
+"title": "Paid Summer Sales Internship - No Experience + Training",
+"company": "Lotus Sales",
+"location": "Mehlville, MO",
+"url": "https://www.linkedin.com/jobs/view/paid-summer-sales-internship-no-experience-%2B-training-at-lotus-sales-4491222238",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4491219354",
+"source": "LinkedIn",
+"title": "Paid Summer Sales Internship - No Experience + Training",
+"company": "Lotus Sales",
+"location": "Wentzville, MO",
+"url": "https://www.linkedin.com/jobs/view/paid-summer-sales-internship-no-experience-%2B-training-at-lotus-sales-4491219354",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4490203818",
+"source": "LinkedIn",
+"title": "Transportation Engineering and Planning Intern (Summer 2027)",
+"company": "Kittelson & Associates, Inc.",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/transportation-engineering-and-planning-intern-summer-2027-at-kittelson-associates-inc-4490203818",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4441433556",
+"source": "LinkedIn",
+"title": "2027 IT Intern",
+"company": "Solar Turbines",
+"location": "San Diego, CA",
+"url": "https://www.linkedin.com/jobs/view/2027-it-intern-at-solar-turbines-4441433556",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4489365848",
+"source": "LinkedIn",
+"title": "Civil Engineering Internship - Summer 2027",
+"company": "AE2S (Advanced Engineering and Environmental Services, LLC)",
+"location": "Bismarck, ND",
+"url": "https://www.linkedin.com/jobs/view/civil-engineering-internship-summer-2027-at-ae2s-advanced-engineering-and-environmental-services-llc-4489365848",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489366862",
+"source": "LinkedIn",
+"title": "Industrial Engineering Intern",
+"company": "Jabil",
+"location": "St. Petersburg, FL",
+"url": "https://www.linkedin.com/jobs/view/industrial-engineering-intern-at-jabil-4489366862",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491216357",
+"source": "LinkedIn",
+"title": "Environmental Services Intern / Crothall Healthcare, UC-Irvine Medical Center",
+"company": "Crothall Healthcare",
+"location": "Orange, CA",
+"url": "https://www.linkedin.com/jobs/view/environmental-services-intern-crothall-healthcare-uc-irvine-medical-center-at-crothall-healthcare-4491216357",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4491232107",
+"source": "LinkedIn",
+"title": "Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)",
+"company": "Collins Aerospace",
+"location": "Burnsville, MN",
+"url": "https://www.linkedin.com/jobs/view/advanced-manufacturing-engineering-co-op-spring-summer-2027-at-collins-aerospace-4491232107",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4491209665",
+"source": "LinkedIn",
+"title": "Paid Summer Sales Internship - No Experience + Training",
+"company": "Lotus Sales",
+"location": "Ballwin, MO",
+"url": "https://www.linkedin.com/jobs/view/paid-summer-sales-internship-no-experience-%2B-training-at-lotus-sales-4491209665",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4491220362",
+"source": "LinkedIn",
+"title": "Paid Summer Sales Internship - No Experience + Training",
+"company": "Lotus Sales",
+"location": "Raytown, MO",
+"url": "https://www.linkedin.com/jobs/view/paid-summer-sales-internship-no-experience-%2B-training-at-lotus-sales-4491220362",
+"posted_at": "2026-11-15T05:07Z",
+"found_at": "2026-11-15T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "6af939a848f3528e5a72ef37",
+"source": "Jobright",
+"title": "Associate Intern",
+"company": "McKinsey & Company",
+"location": "Atlanta, GA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/14918",
+"posted_at": "2026-11-15T04:48:40Z",
+"found_at": "2026-11-15T05:07Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6af9399b9501ee962015e428",
+"source": "Jobright",
+"title": "Business Analyst Intern",
+"company": "McKinsey & Company",
+"location": "Atlanta, GA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/15275",
+"posted_at": "2026-11-15T04:48:27Z",
+"found_at": "2026-11-15T05:07Z",
+"score": 92,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6af93999a68705504beb994f",
+"source": "Jobright",
+"title": "Fellow Intern",
+"company": "McKinsey & Company",
+"location": "San Jose, CA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/20421",
+"posted_at": "2026-11-15T04:48:25Z",
+"found_at": "2026-11-15T05:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4491214445",
 "source": "LinkedIn",
@@ -383,8 +601,10 @@
 "posted_at": "2026-11-14T23:07Z",
 "found_at": "2026-11-14T23:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Full-time"
@@ -509,8 +729,10 @@
 "posted_at": "2026-11-14T22:07Z",
 "found_at": "2026-11-14T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Internship"
@@ -663,8 +885,10 @@
 "posted_at": "2026-11-14T20:07Z",
 "found_at": "2026-11-14T20:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Volunteer"
@@ -1888,9 +2112,10 @@
 "found_at": "2026-11-14T07:07Z",
 "score": null,
 "degrees": [
+"Bachelor's",
 "Master's"
 ],
-"degree": "Master's",
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Volunteer"
@@ -2363,8 +2588,10 @@
 "posted_at": "2026-11-14T03:07Z",
 "found_at": "2026-11-14T03:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Internship"
@@ -2610,9 +2837,10 @@
 "found_at": "2026-11-13T23:07Z",
 "score": null,
 "degrees": [
+"Bachelor's",
 "Master's"
 ],
-"degree": "Master's",
+"degree": "Bachelor's or Master's",
 "work_auth": "Authorization required",
 "work_model": "Hybrid",
 "employment": "Full-time"
@@ -2697,8 +2925,10 @@
 "posted_at": "2026-11-13T23:07Z",
 "found_at": "2026-11-13T23:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Full-time"
