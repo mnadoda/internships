@@ -1,269 +1,116 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Internship radar</title>
-<meta name="description" content="New internships from LinkedIn and Jobright, refreshed every hour.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-  :root{
-    --bg:#F2F4F3; --surface:#FFFFFF; --ink:#15201D; --muted:#5E6E68; --faint:#8E9B96;
-    --line:#D9DFDC; --line-soft:#E8ECEA; --fresh:#1D7A55; --fresh-soft:#E1F0E8; --focus:#1D7A55;
-    --radius:10px;
-  }
-  @media (prefers-color-scheme: dark){
-    :root{ --bg:#111716; --surface:#171E1C; --ink:#EDF2F0; --muted:#9FB0AA; --faint:#6F7F79;
-      --line:#2A3431; --line-soft:#222B29; --fresh:#5CC695; --fresh-soft:#1A2F27; --focus:#5CC695; }
-  }
+  :root{--paper:#FFFFFF;--ink:#101316;--muted:#5F6670;--faint:#9AA1A9;--rule:#E6E8EB;--accent:#1B49D6;--accent-soft:#EEF2FD;--amber:#8A5A00;--amber-soft:#FFF4DC;--green:#1E7A4E;--green-soft:#E6F4EC}
   *{box-sizing:border-box}
-  html{-webkit-text-size-adjust:100%}
-  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "Instrument Sans",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;font-feature-settings:"tnum" 1}
+  body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
   a{color:inherit}
-  button,input,select{font:inherit;color:inherit}
-  :focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:6px}
-
-  .wrap{max-width:920px;margin:0 auto;padding:0 20px}
-
-  header{padding:44px 0 20px}
-  h1{font-size:30px;font-weight:600;letter-spacing:-.015em;margin:0 0 8px}
-  .lede{margin:0;color:var(--muted);max-width:60ch}
-  .lede b{color:var(--ink);font-weight:500}
-
-  /* filters */
-  .filters{position:static;z-index:5;background:var(--bg);padding:12px 0 10px;border-bottom:1px solid var(--line)}
-  .filters .wrap{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center}
-  .search{flex:1 1 220px;min-width:180px;position:relative}
-  .search input{width:100%;padding:8px 12px 8px 34px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink)}
-  .search input::placeholder{color:var(--faint)}
-  .search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:15px;height:15px;color:var(--faint)}
-  .group{display:flex;align-items:center;gap:8px;flex-wrap:nowrap}
-  .group .name{color:var(--muted);font-size:13px;white-space:nowrap}
-  .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;background:var(--surface);padding:2px;max-width:100%;overflow-x:auto;scrollbar-width:none}
-  .seg::-webkit-scrollbar{display:none}
-  .seg button{border:0;background:transparent;padding:4px 11px;border-radius:999px;color:var(--muted);cursor:pointer;white-space:nowrap;font-size:13.5px;line-height:1.4}
-  .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
-  .seg button:hover:not([aria-pressed="true"]){color:var(--ink)}
-  .clear{margin-left:auto;border:0;background:none;color:var(--muted);cursor:pointer;text-decoration:underline;text-underline-offset:3px;font-size:13.5px;padding:4px 0}
-  .clear[hidden]{display:none}
-
-  /* list */
-  main{padding:8px 0 80px}
-  .count{color:var(--muted);font-size:13.5px;margin:18px 0 6px}
-  .day{position:sticky;top:0;z-index:1;margin:22px 0 4px;color:var(--muted);font-size:13px;font-weight:500}
-  .filters + main .day{top:var(--filters-h,110px)}
-  ol{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
-  li{display:grid;grid-template-columns:64px 1fr auto;gap:0 14px;padding:13px 16px 13px 14px;border-top:1px solid var(--line-soft);align-items:start}
-  li:first-child{border-top:0}
-  .when{color:var(--muted);font-size:13px;padding-top:2px;position:relative;white-space:nowrap}
-  .when.fresh{color:var(--fresh);font-weight:500}
-  .when.fresh::before{content:"";position:absolute;left:-14px;top:9px;width:7px;height:7px;border-radius:50%;background:var(--fresh);box-shadow:0 0 0 0 var(--fresh);animation:pulse 2.4s ease-out infinite}
-  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(29,122,85,.45)}70%{box-shadow:0 0 0 9px rgba(29,122,85,0)}100%{box-shadow:0 0 0 0 rgba(29,122,85,0)}}
-  @media (prefers-reduced-motion: reduce){.when.fresh::before{animation:none}}
-  .what{min-width:0}
-  .title{font-weight:500;font-size:16px;letter-spacing:-.005em;text-decoration:none;display:inline}
-  .title:hover{text-decoration:underline;text-underline-offset:3px}
-  .co{color:var(--muted);font-size:14px;margin-top:1px}
-  .co span+span::before{content:"  ·  ";white-space:pre;color:var(--faint)}
-  .tags{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:6px;font-size:13px;color:var(--muted)}
-  .tags .auth-req{color:var(--ink)}
-  .tags .unspec{color:var(--faint)}
-  .side{text-align:right;font-size:13px;color:var(--muted);white-space:nowrap;padding-top:2px}
-  .side .score{display:block;color:var(--ink);font-weight:500;font-size:14px}
-  .side .src{display:inline-block;margin-top:4px;padding:1px 7px;border:1px solid var(--line);border-radius:999px;font-size:12px}
-  .side .src.jr{background:var(--fresh-soft);border-color:transparent;color:var(--fresh)}
-
-  .empty{padding:48px 20px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:var(--radius)}
-  .empty button{margin-top:10px;border:1px solid var(--line);background:transparent;border-radius:999px;padding:6px 14px;cursor:pointer}
-  .error{padding:16px;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);color:var(--muted)}
-
-  footer{color:var(--faint);font-size:13px;padding:0 0 40px}
-  footer p{margin:4px 0}
-
-  @media (min-width:641px){ .filters{position:sticky;top:0} }
-  @media (max-width:640px){
-    .filters + main .day{top:0}
-    header{padding:28px 0 14px} h1{font-size:25px}
-    .filters .wrap{gap:8px 12px}
-    .group{width:100%;overflow:hidden}
-    .group .name{min-width:68px}
-    .clear{margin-left:0}
-    li{grid-template-columns:50px 1fr;padding:12px 12px 12px 14px}
-    .side{grid-column:2;text-align:left;padding-top:4px}
-    .side .score{display:inline;margin-right:8px}
-  }
+  .wrap{max-width:1080px;margin:0 auto;padding:0 28px}
+  header{padding:56px 0 28px;border-bottom:1px solid var(--ink)}
+  h1{font:600 64px/1 Fraunces,Georgia,serif;letter-spacing:-.02em;margin:0 0 18px;font-variation-settings:"opsz" 144}
+  .lede{display:flex;gap:28px;flex-wrap:wrap;color:var(--muted);margin:0}
+  .lede b{display:block;font:500 28px/1.1 Fraunces,Georgia,serif;color:var(--ink)}
+  .toolbar{display:flex;flex-wrap:wrap;gap:14px 32px;align-items:flex-start;padding:18px 28px;border-bottom:1px solid var(--rule)}
+  .search{flex:1 1 100%;max-width:520px}
+  .search input{width:100%;border:0;border-bottom:1px solid var(--ink);padding:8px 0;font-size:17px;background:transparent;color:var(--ink);border-radius:0}
+  .search input:focus{outline:none;border-bottom-color:var(--accent)}
+  .controls{display:contents}
+  .f{display:flex;flex-direction:column;gap:2px}
+  .f-name{font-size:12px;color:var(--faint)}
+  .f-opts{display:flex;gap:2px 14px;flex-wrap:wrap}
+  .f-opts button{border:0;background:none;padding:2px 0;color:var(--muted);cursor:pointer;font:inherit;font-size:14px;border-bottom:2px solid transparent}
+  .f-opts button[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--accent);font-weight:500}
+  .f-opts button:hover{color:var(--ink)}
+  .meta{display:flex;justify-content:space-between;align-items:baseline;padding:16px 0 0;color:var(--muted);font-size:14px}
+  .meta button{border:0;background:none;color:var(--accent);cursor:pointer;font:inherit;padding:0}
+  .day{display:flex;align-items:baseline;gap:14px;margin:40px 0 14px}
+  .day h2{font:500 30px/1 Fraunces,Georgia,serif;margin:0}
+  .day span{color:var(--faint);font-size:14px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+  .card{background:var(--paper);padding:20px 20px 18px;display:flex;flex-direction:column;gap:8px;min-height:170px;position:relative}
+  .card .co{font-size:13px;color:var(--muted);display:flex;justify-content:space-between;gap:10px}
+  .card .co .t{color:var(--faint)}
+  .card .co .t.fresh{color:var(--accent);font-weight:500}
+  .card h3{margin:0;font:500 21px/1.25 Fraunces,Georgia,serif;letter-spacing:-.005em}
+  .card h3 a{text-decoration:none}
+  .card h3 a:hover{color:var(--accent)}
+  .card .loc{color:var(--muted);font-size:14px}
+  .card .tags{margin-top:auto;display:flex;flex-wrap:wrap;gap:6px;padding-top:8px}
+  .tag{font-size:12px;padding:3px 8px;border-radius:4px;background:#F3F4F6;color:var(--muted)}
+  .tag.req{background:var(--amber-soft);color:var(--amber)}
+  .tag.spon{background:var(--green-soft);color:var(--green)}
+  .tag.deg{background:var(--accent-soft);color:var(--accent)}
+  .tag.score{background:var(--ink);color:#fff}
+  .tag.src{margin-left:auto;background:transparent;border:1px solid var(--rule)}
+  .empty{padding:60px 0;text-align:center;color:var(--muted)}
+  .empty button{margin-top:10px;border:1px solid var(--ink);background:none;padding:7px 14px;cursor:pointer;font:inherit}
+  footer{padding:50px 0 60px;color:var(--faint);font-size:13px;max-width:70ch}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  @media (max-width:640px){h1{font-size:44px}.lede b{font-size:22px}.card{min-height:0}}
 </style>
 </head>
 <body>
 <header class="wrap">
   <h1>Internship radar</h1>
-  <p class="lede" id="lede">New internships from LinkedIn and Jobright, checked every hour.</p>
+  <p class="lede"><span><b id="n-today">–</b>posted today</span><span><b id="n-hour">–</b>in the last hour</span><span><b id="n-all">–</b>open postings</span></p>
 </header>
-
-<section class="filters" aria-label="Filters" id="filters">
-  <div class="wrap">
-    <label class="search">
-      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="9" cy="9" r="6"/><path d="M14 14l4 4" stroke-linecap="round"/></svg>
-      <input id="q" type="search" placeholder="Search title or company" autocomplete="off" aria-label="Search title or company">
-    </label>
-    <div class="group"><span class="name">Posted</span><div class="seg" data-key="posted" role="group" aria-label="Posted"></div></div>
-    <div class="group"><span class="name">Degree</span><div class="seg" data-key="degree" role="group" aria-label="Degree"></div></div>
-    <div class="group"><span class="name">Work auth</span><div class="seg" data-key="auth" role="group" aria-label="Work authorization"></div></div>
-    <div class="group"><span class="name">Work model</span><div class="seg" data-key="model" role="group" aria-label="Work model"></div></div>
-    <div class="group"><span class="name">Source</span><div class="seg" data-key="source" role="group" aria-label="Source"></div></div>
-    <button class="clear" id="clear" hidden>Clear filters</button>
-  </div>
+<section class="wrap toolbar">
+  <label class="search"><input id="q" type="search" placeholder="Search roles, companies, cities" aria-label="Search"></label>
+  <div class="controls" id="controls"></div>
 </section>
-
 <main class="wrap">
-  <p class="count" id="count"></p>
+  <div class="meta"><span id="count"></span><button id="clear" hidden>Clear filters</button></div>
   <div id="list"></div>
 </main>
-
-<footer class="wrap">
-  <p id="updated"></p>
-  <p>Degree and work-authorization labels are read from each posting's text with keyword rules, so treat them as a first pass and confirm in the posting. Jobright match % is Jobright's own score for one specific profile.</p>
-</footer>
-
+<footer class="wrap"><p id="updated"></p><p>Degree and work-authorization labels are read from each posting with keyword rules; confirm in the posting itself. Match % is Jobright's score for one profile.</p></footer>
+<script src="core.js"></script>
 <script>
 (() => {
-  const FILTERS = {
-    posted: [["all","All"],["hour","Last hour"],["today","Today"],["week","This week"]],
-    degree: [["any","Any"],["Bachelor's","Bachelor's"],["Master's","Master's"],["PhD","PhD"],["none","Not specified"]],
-    auth:   [["any","Any"],["Authorization required","Authorization required"],["Sponsorship available","Sponsorship available"],["Not specified","Not specified"]],
-    model:  [["any","Any"],["Remote","Remote"],["Hybrid","Hybrid"],["Onsite","Onsite"]],
-    source: [["any","Both"],["LinkedIn","LinkedIn"],["Jobright","Jobright"]],
-  };
-  const DEFAULTS = {q:"", posted:"all", degree:"any", auth:"any", model:"any", source:"any"};
-  const state = {...DEFAULTS};
-  const $ = s => document.querySelector(s);
-  const listEl = $("#list"), countEl = $("#count"), clearBtn = $("#clear"), qEl = $("#q");
-  let jobs = [], generatedAt = null;
-
-  // ----- URL <-> state
-  function readURL(){
-    const p = new URLSearchParams(location.search);
-    for (const k of Object.keys(DEFAULTS)) if (p.has(k)) state[k] = p.get(k);
-  }
-  function writeURL(){
-    const p = new URLSearchParams();
-    for (const k of Object.keys(DEFAULTS)) if (state[k] !== DEFAULTS[k]) p.set(k, state[k]);
-    const qs = p.toString();
-    history.replaceState(null, "", qs ? "?" + qs : location.pathname);
-  }
-
-  // ----- filter controls
-  for (const [key, opts] of Object.entries(FILTERS)) {
-    const seg = document.querySelector(`.seg[data-key="${key}"]`);
-    for (const [val, label] of opts) {
-      const b = document.createElement("button");
-      b.type = "button"; b.textContent = label; b.dataset.val = val;
-      b.addEventListener("click", () => { state[key] = val; render(); });
-      seg.appendChild(b);
-    }
-  }
-  qEl.addEventListener("input", () => { state.q = qEl.value; render(); });
-  clearBtn.addEventListener("click", () => { Object.assign(state, DEFAULTS); qEl.value = ""; render(); });
-
-  function syncControls(){
-    for (const key of Object.keys(FILTERS)) {
-      document.querySelectorAll(`.seg[data-key="${key}"] button`).forEach(b => b.setAttribute("aria-pressed", String(b.dataset.val === state[key])));
-    }
-    if (qEl.value !== state.q) qEl.value = state.q;
-    clearBtn.hidden = Object.keys(DEFAULTS).every(k => state[k] === DEFAULTS[k]);
-  }
-
-  // ----- time helpers (all in US Eastern)
-  const TZ = "America/New_York";
-  const dayKey = d => new Intl.DateTimeFormat("en-CA", {timeZone:TZ, year:"numeric", month:"2-digit", day:"2-digit"}).format(d);
-  const dayLabelFmt = new Intl.DateTimeFormat("en-US", {timeZone:TZ, weekday:"long", month:"long", day:"numeric"});
-  const timeFmt = new Intl.DateTimeFormat("en-US", {timeZone:TZ, hour:"numeric", minute:"2-digit"});
-  function rel(d, now){
-    const m = Math.max(0, Math.round((now - d) / 60000));
-    if (m < 60) return m <= 1 ? "just now" : `${m} min`;
-    const h = Math.round(m / 60);
-    if (h < 24) return `${h} h`;
-    return timeFmt.format(d);
-  }
-  function dayLabel(key, now){
-    if (key === dayKey(now)) return "Today";
-    if (key === dayKey(new Date(now - 86400000))) return "Yesterday";
-    const [y, mo, da] = key.split("-").map(Number);
-    return dayLabelFmt.format(new Date(Date.UTC(y, mo - 1, da, 17)));
-  }
-
-  // ----- filtering
-  function matches(j, now){
-    const q = state.q.trim().toLowerCase();
-    if (q && !(j.title + " " + j.company).toLowerCase().includes(q)) return false;
-    const age = now - new Date(j.posted_at);
-    if (state.posted === "hour" && age > 3600000) return false;
-    if (state.posted === "today" && dayKey(new Date(j.posted_at)) !== dayKey(now)) return false;
-    if (state.posted === "week" && age > 7 * 86400000) return false;
-    if (state.degree === "none" ? j.degrees.length : (state.degree !== "any" && !j.degrees.includes(state.degree))) return false;
-    if (state.auth !== "any" && j.work_auth !== state.auth) return false;
-    if (state.model !== "any" && j.work_model !== state.model) return false;
-    if (state.source !== "any" && j.source !== state.source) return false;
-    return true;
-  }
-
-  // ----- render
-  const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const B = window.Board, $ = s => document.querySelector(s);
+  let jobs = [], gen = null;
+  const ctl = $("#controls"), q = $("#q"), list = $("#list"), count = $("#count"), clear = $("#clear");
+  B.readURL(); B.mountControls(ctl, "chips", render, ["posted","degree","auth","model","source"]);
+  q.value = B.state.q; q.addEventListener("input", () => { B.state.q = q.value; render(); });
+  clear.addEventListener("click", () => { B.clear(); q.value = ""; render(); });
   function render(){
-    syncControls(); writeURL();
-    const now = new Date();
-    const shown = jobs.filter(j => matches(j, now));
-    countEl.textContent = jobs.length ? `${shown.length} of ${jobs.length} postings` : "";
-    if (!shown.length) {
-      listEl.innerHTML = `<div class="empty">Nothing matches these filters.<br><button type="button" id="clear2">Clear filters</button></div>`;
-      $("#clear2").addEventListener("click", () => clearBtn.click());
-      return;
-    }
-    const groups = new Map();
-    for (const j of shown) {
-      const k = dayKey(new Date(j.posted_at));
-      if (!groups.has(k)) groups.set(k, []);
-      groups.get(k).push(j);
-    }
+    B.syncControls(ctl); B.writeURL(); clear.hidden = B.isDefault();
+    const now = new Date(), shown = B.sort(jobs.filter(j => B.matches(j, now)));
+    count.textContent = `${shown.length} of ${jobs.length} postings`;
+    if (!shown.length) { list.innerHTML = `<div class="empty">Nothing matches these filters.<br><button id="c2">Clear filters</button></div>`; $("#c2").onclick = () => clear.click(); return; }
     let html = "";
-    for (const [k, items] of groups) {
-      html += `<h2 class="day">${esc(dayLabel(k, now))}</h2><ol>`;
+    for (const [k, items] of B.group(shown)) {
+      html += `<div class="day"><h2>${B.esc(B.dayLabel(k, now))}</h2><span>${items.length}</span></div><div class="grid">`;
       for (const j of items) {
         const d = new Date(j.posted_at), fresh = now - d < 3600000;
-        const tag = (v, cls = "") => v && v !== "Not specified" ? `<span class="${cls}">${esc(v)}</span>` : `<span class="unspec">${esc(v || "")}</span>`;
-        html += `<li>
-          <div class="when${fresh ? " fresh" : ""}" title="${esc(timeFmt.format(d))} ET">${esc(rel(d, now))}</div>
-          <div class="what">
-            <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
-            <div class="co"><span>${esc(j.company)}</span>${j.location ? `<span>${esc(j.location)}</span>` : ""}</div>
-            <div class="tags">${tag(j.degree)}${tag(j.work_auth, j.work_auth === "Authorization required" ? "auth-req" : "")}${tag(j.work_model)}</div>
-          </div>
-          <div class="side">${j.score ? `<span class="score">${esc(j.score)}% match</span>` : ""}<span class="src${j.source === "Jobright" ? " jr" : ""}">${esc(j.source)}</span></div>
-        </li>`;
+        html += `<article class="card">
+          <div class="co"><span>${B.esc(j.company)}</span><span class="t${fresh ? " fresh" : ""}">${B.esc(B.rel(d, now))}</span></div>
+          <h3><a href="${B.esc(j.url)}" target="_blank" rel="noopener">${B.esc(j.title)}</a></h3>
+          <div class="loc">${B.esc(j.location)}</div>
+          <div class="tags">
+            ${j.degrees.length ? `<span class="tag deg">${B.esc(j.degree)}</span>` : ""}
+            ${j.work_auth === "Authorization required" ? `<span class="tag req">Authorization required</span>` : j.work_auth === "Sponsorship available" ? `<span class="tag spon">Sponsorship available</span>` : ""}
+            ${j.work_model !== "Not specified" ? `<span class="tag">${B.esc(j.work_model)}</span>` : ""}
+            ${j.score ? `<span class="tag score">${j.score}% match</span>` : ""}
+            <span class="tag src">${B.esc(j.source)}</span>
+          </div></article>`;
       }
-      html += `</ol>`;
+      html += `</div>`;
     }
-    listEl.innerHTML = html;
+    list.innerHTML = html;
   }
-
-  // ----- load
-  readURL();
-  document.documentElement.style.setProperty("--filters-h", $("#filters").offsetHeight + "px");
-  fetch("jobs.json?t=" + Math.floor(Date.now() / 300000))
-    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(data => {
-      jobs = data.jobs || []; generatedAt = data.generated_at ? new Date(data.generated_at) : null;
-      const now = new Date();
-      const lastHour = jobs.filter(j => now - new Date(j.posted_at) < 3600000).length;
-      const today = jobs.filter(j => dayKey(new Date(j.posted_at)) === dayKey(now)).length;
-      $("#lede").innerHTML = `New internships from LinkedIn and Jobright, checked every hour. <b>${today}</b> posted today${lastHour ? `, <b>${lastHour}</b> in the last hour` : ""}.`;
-      if (generatedAt) $("#updated").textContent = `Last checked ${rel(generatedAt, now)} ago (${timeFmt.format(generatedAt)} ET).`.replace("just now ago", "just now");
-      render();
-    })
-    .catch(() => { listEl.innerHTML = `<div class="error">The job list could not be loaded. Try refreshing in a minute.</div>`; });
-  window.addEventListener("resize", () => document.documentElement.style.setProperty("--filters-h", $("#filters").offsetHeight + "px"));
+  B.load().then(d => {
+    jobs = d.jobs || []; const now = new Date();
+    $("#n-all").textContent = jobs.length;
+    $("#n-today").textContent = jobs.filter(j => B.dayKey(new Date(j.posted_at)) === B.dayKey(now)).length;
+    $("#n-hour").textContent = jobs.filter(j => now - new Date(j.posted_at) < 3600000).length;
+    if (d.generated_at) $("#updated").textContent = `Last checked ${B.rel(new Date(d.generated_at), now)}.`;
+    render();
+  }).catch(() => { list.innerHTML = `<div class="empty">The job list could not be loaded. Try again in a minute.</div>`; });
 })();
 </script>
 </body>

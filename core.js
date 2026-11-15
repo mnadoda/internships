@@ -3,7 +3,7 @@
 window.Board = (() => {
   const FILTERS = {
     posted: [["all","All"],["hour","Last hour"],["today","Today"],["week","This week"]],
-    degree: [["any","Any degree"],["Bachelor's","Bachelor's"],["Master's","Master's"],["PhD","PhD"],["none","Not specified"]],
+    degree: [["any","Any degree"],["Bachelor's","Bachelor's / Undergrad"],["Master's","Master's"],["PhD","PhD"],["none","Not specified"]],
     auth:   [["any","Any work auth"],["Authorization required","Authorization required"],["Sponsorship available","Sponsorship available"],["Not specified","Not specified"]],
     model:  [["any","Any work model"],["Remote","Remote"],["Hybrid","Hybrid"],["Onsite","Onsite"]],
     source: [["any","Both sources"],["LinkedIn","LinkedIn"],["Jobright","Jobright"]],
