@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-15T05:07Z",
-"count": 241,
+"generated_at": "2026-11-15T06:07Z",
+"count": 242,
 "jobs": [
 {
 "id": "4491222238",
@@ -4052,6 +4052,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": ""
+},
+{
+"id": "6aa168470ffb3d4fea6b4906",
+"source": "Jobright",
+"title": "Summer Associate Internship (Product Strategist/Business Analyst)",
+"company": "Navy Federal Credit Union",
+"location": "Pensacola, FL",
+"url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32453",
+"posted_at": "2026-11-12T19:03:35Z",
+"found_at": "2026-11-15T06:07Z",
+"score": 79,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "6af4c18e3a9a26aee70a0465",
