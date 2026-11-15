@@ -1,7 +1,147 @@
 {
-"generated_at": "2026-11-15T06:07Z",
-"count": 242,
+"generated_at": "2026-11-15T07:07Z",
+"count": 250,
 "jobs": [
+{
+"id": "4486808386",
+"source": "LinkedIn",
+"title": "Construction Internship - Summer 2027",
+"company": "ms consultants, inc.",
+"location": "Pittsburgh, PA",
+"url": "https://www.linkedin.com/jobs/view/construction-internship-summer-2027-at-ms-consultants-inc-4486808386",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4491231210",
+"source": "LinkedIn",
+"title": "2027 Summer Intern Finance (IOPS)",
+"company": "BioSpace",
+"location": "Rensselaer, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-finance-iops-at-biospace-4491231210",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4491237010",
+"source": "LinkedIn",
+"title": "Activision 2027 Summer Internships - Audio Engineering",
+"company": "videoga.me",
+"location": "Middleton, WI",
+"url": "https://www.linkedin.com/jobs/view/activision-2027-summer-internships-audio-engineering-at-videoga-me-4491237010",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491213946",
+"source": "LinkedIn",
+"title": "2027 Summer Intern New Product Launch Cambridge MA",
+"company": "BioSpace",
+"location": "Cambridge, MA",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-new-product-launch-cambridge-ma-at-biospace-4491213946",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4491215950",
+"source": "LinkedIn",
+"title": "Activision 2027 Summer Internships - Game Systems Engineering",
+"company": "videoga.me",
+"location": "Middleton, WI",
+"url": "https://www.linkedin.com/jobs/view/activision-2027-summer-internships-game-systems-engineering-at-videoga-me-4491215950",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4489362996",
+"source": "LinkedIn",
+"title": "Mechanical Engineering-Intern",
+"company": "RoboNex 88 Technologies",
+"location": "Sidney, OH",
+"url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-at-robonex-88-technologies-4489362996",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489364999",
+"source": "LinkedIn",
+"title": "Grad Engineering Intern",
+"company": "RoboNex 88 Technologies",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/grad-engineering-intern-at-robonex-88-technologies-4489364999",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491234191",
+"source": "LinkedIn",
+"title": "Summer and Winter 2027 Naval Engineering Intern - U.S. Navy Programs",
+"company": "Serco",
+"location": "Virginia, United States",
+"url": "https://www.linkedin.com/jobs/view/summer-and-winter-2027-naval-engineering-intern-u-s-navy-programs-at-serco-4491234191",
+"posted_at": "2026-11-15T07:07Z",
+"found_at": "2026-11-15T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
 {
 "id": "4491222238",
 "source": "LinkedIn",
