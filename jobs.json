@@ -1,7 +1,78 @@
 {
-"generated_at": "2026-11-15T11:07Z",
-"count": 282,
+"generated_at": "2026-11-15T12:07Z",
+"count": 287,
 "jobs": [
+{
+"id": "4464215395",
+"source": "LinkedIn",
+"title": "Transportation Intern - Environmental",
+"company": "Garver",
+"location": "Del City, OK",
+"url": "https://www.linkedin.com/jobs/view/transportation-intern-environmental-at-garver-4464215395",
+"posted_at": "2026-11-15T12:07Z",
+"found_at": "2026-11-15T12:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4465854660",
+"source": "LinkedIn",
+"title": "University Intern, Disputes & Economics - Healthcare and Life Sciences",
+"company": "Ankura",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/university-intern-disputes-economics-healthcare-and-life-sciences-at-ankura-4465854660",
+"posted_at": "2026-11-15T12:07Z",
+"found_at": "2026-11-15T12:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4465185173",
+"source": "LinkedIn",
+"title": "Summer 2027 Electrical Engineering Intern",
+"company": "HDR",
+"location": "Orlando, FL",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-electrical-engineering-intern-at-hdr-4465185173",
+"posted_at": "2026-11-15T12:07Z",
+"found_at": "2026-11-15T12:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4474782291",
+"source": "LinkedIn",
+"title": "Technical Intern, Fire Protection Engineering Summer 2027",
+"company": "Simpson Gumpertz & Heger (SGH)",
+"location": "Waltham, MA",
+"url": "https://www.linkedin.com/jobs/view/technical-intern-fire-protection-engineering-summer-2027-at-simpson-gumpertz-heger-sgh-4474782291",
+"posted_at": "2026-11-15T12:07Z",
+"found_at": "2026-11-15T12:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"PhD"
+],
+"degree": "Bachelor's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
 {
 "id": "4465176209",
 "source": "LinkedIn",
@@ -64,11 +135,13 @@
 "posted_at": "2026-11-15T11:07Z",
 "found_at": "2026-11-15T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4491234517",
@@ -84,7 +157,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4491232534",
@@ -99,8 +172,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Full-time"
 },
 {
 "id": "4473423861",
@@ -112,11 +185,13 @@
 "posted_at": "2026-11-15T11:07Z",
 "found_at": "2026-11-15T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4491230602",
@@ -132,7 +207,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4489380542",
@@ -144,11 +219,13 @@
 "posted_at": "2026-11-15T11:07Z",
 "found_at": "2026-11-15T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4490208778",
@@ -160,11 +237,13 @@
 "posted_at": "2026-11-15T11:07Z",
 "found_at": "2026-11-15T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4465195532",
@@ -4412,6 +4491,22 @@
 "degree": "Not specified",
 "work_auth": "Sponsorship available",
 "work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6af5284dcd7be4db20d8b1c6",
+"source": "Jobright",
+"title": "Process & Operations Transformation Intern",
+"company": "Hewlett Packard Enterprise",
+"location": "Spring, TX",
+"url": "https://careers.hpe.com/us/en/job/1218731/process-operations-transformation-intern",
+"posted_at": "2026-11-13T12:11:14Z",
+"found_at": "2026-11-15T12:07Z",
+"score": 81,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
 "employment": "Internship"
 },
 {
