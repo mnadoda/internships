@@ -1,7 +1,98 @@
 {
-"generated_at": "2026-11-15T17:07Z",
-"count": 318,
+"generated_at": "2026-11-15T18:07Z",
+"count": 323,
 "jobs": [
+{
+"id": "4465116622",
+"source": "LinkedIn",
+"title": "Transmission & Distribution Engineer Intern - Grid (Summer 2027)",
+"company": "Sargent & Lundy",
+"location": "Tampa, FL",
+"url": "https://www.linkedin.com/jobs/view/transmission-distribution-engineer-intern-grid-summer-2027-at-sargent-lundy-4465116622",
+"posted_at": "2026-11-15T18:07Z",
+"found_at": "2026-11-15T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Temporary"
+},
+{
+"id": "4466401287",
+"source": "LinkedIn",
+"title": "Engineering Intern (Summer 2027)",
+"company": "HBK Engineering, LLC",
+"location": "Oak Brook, IL",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-hbk-engineering-llc-4466401287",
+"posted_at": "2026-11-15T18:07Z",
+"found_at": "2026-11-15T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4466402307",
+"source": "LinkedIn",
+"title": "Engineering Intern (Summer 2027)",
+"company": "HBK Engineering, LLC",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-hbk-engineering-llc-4466402307",
+"posted_at": "2026-11-15T18:07Z",
+"found_at": "2026-11-15T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4465420580",
+"source": "LinkedIn",
+"title": "Intern - Associate Portfolio Executive Summer 2027",
+"company": "C.H. Robinson",
+"location": "Eden Prairie, MN",
+"url": "https://www.linkedin.com/jobs/view/intern-associate-portfolio-executive-summer-2027-at-c-h-robinson-4465420580",
+"posted_at": "2026-11-15T18:07Z",
+"found_at": "2026-11-15T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4466414007",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship - Phoenix, AZ - Card Services",
+"company": "Western Alliance Bank",
+"location": "Phoenix, AZ",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-phoenix-az-card-services-at-western-alliance-bank-4466414007",
+"posted_at": "2026-11-15T18:07Z",
+"found_at": "2026-11-15T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4464822348",
 "source": "LinkedIn",
