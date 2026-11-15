@@ -1,7 +1,182 @@
 {
-"generated_at": "2026-11-15T16:07Z",
-"count": 307,
+"generated_at": "2026-11-15T17:07Z",
+"count": 318,
 "jobs": [
+{
+"id": "4464822348",
+"source": "LinkedIn",
+"title": "Nevada Gold Mines - 2027 Summer Intern Program",
+"company": "Nevada Gold Mines",
+"location": "Elko, NV",
+"url": "https://www.linkedin.com/jobs/view/nevada-gold-mines-2027-summer-intern-program-at-nevada-gold-mines-4464822348",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4454672889",
+"source": "LinkedIn",
+"title": "Claims Intern",
+"company": "Acuity Insurance",
+"location": "Sheboygan, WI",
+"url": "https://www.linkedin.com/jobs/view/claims-intern-at-acuity-insurance-4454672889",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4489387873",
+"source": "LinkedIn",
+"title": "Customer Success Intern",
+"company": "TechVyne",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/customer-success-intern-at-techvyne-4489387873",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489393551",
+"source": "LinkedIn",
+"title": "Engineering Intern  2026-2027",
+"company": "AxoraQ",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-2026-2027-at-axoraq-4489393551",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4466389811",
+"source": "LinkedIn",
+"title": "Marketing Intern",
+"company": "Direct Supply",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/marketing-intern-at-direct-supply-4466389811",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4473356754",
+"source": "LinkedIn",
+"title": "Summer 2027 Urban Design Intern",
+"company": "Progressive Companies",
+"location": "Detroit, MI",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-urban-design-intern-at-progressive-companies-4473356754",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4465127598",
+"source": "LinkedIn",
+"title": "Transmission & Distribution Engineer Intern - Grid (Summer 2027)",
+"company": "Sargent & Lundy",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/transmission-distribution-engineer-intern-grid-summer-2027-at-sargent-lundy-4465127598",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Temporary"
+},
+{
+"id": "4475025444",
+"source": "LinkedIn",
+"title": "Intern, Yardi Administrator",
+"company": "Zekelman Industries",
+"location": "Chandler, AZ",
+"url": "https://www.linkedin.com/jobs/view/intern-yardi-administrator-at-zekelman-industries-4475025444",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4466394769",
+"source": "LinkedIn",
+"title": "Software Engineer Intern",
+"company": "Direct Supply",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-direct-supply-4466394769",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4465118562",
+"source": "LinkedIn",
+"title": "Transmission & Distribution Engineer Intern - Grid (Summer 2027)",
+"company": "Sargent & Lundy",
+"location": "Wilmington, DE",
+"url": "https://www.linkedin.com/jobs/view/transmission-distribution-engineer-intern-grid-summer-2027-at-sargent-lundy-4465118562",
+"posted_at": "2026-11-15T17:07Z",
+"found_at": "2026-11-15T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Temporary"
+},
 {
 "id": "4465181909",
 "source": "LinkedIn",
@@ -5021,6 +5196,25 @@
 "degree": "Master's",
 "work_auth": "Sponsorship available",
 "work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6a560d73e9b77f668bd61080",
+"source": "Jobright",
+"title": "Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)",
+"company": "TikTok",
+"location": "Los Angeles, CA",
+"url": "https://lifeattiktok.com/search/7563738064222095669",
+"posted_at": "2026-11-13T02:20:16Z",
+"found_at": "2026-11-15T17:07Z",
+"score": 93,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
 "employment": "Internship"
 },
 {
