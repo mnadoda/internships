@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-15T09:07Z",
-"count": 266,
+"generated_at": "2026-11-15T10:07Z",
+"count": 272,
 "jobs": [
 {
 "id": "4465195532",
@@ -410,6 +410,24 @@
 "work_auth": "Authorization required",
 "work_model": "Not specified",
 "employment": "Part-time"
+},
+{
+"id": "6af945a45c0a9086f3614934",
+"source": "Jobright",
+"title": "Emerging Technology & AI Internship",
+"company": "Northwell Health",
+"location": "United States",
+"url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746",
+"posted_at": "2026-11-15T05:39:48Z",
+"found_at": "2026-11-15T10:07Z",
+"score": 82,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4491222238",
@@ -3784,6 +3802,22 @@
 "employment": "Internship"
 },
 {
+"id": "6aa1631cdbc0e60e37e110f1",
+"source": "Jobright",
+"title": "Summer Associate Internship (Operations Strategist)",
+"company": "Navy Federal Credit Union",
+"location": "Vienna, VA",
+"url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32451",
+"posted_at": "2026-11-13T18:46:47Z",
+"found_at": "2026-11-15T10:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
 "id": "6af66769323c531f31e329ba",
 "source": "Jobright",
 "title": "Consulting Bachelor's Intern",
@@ -4201,6 +4235,22 @@
 "employment": "Internship"
 },
 {
+"id": "6af711e1e3d8d612bf41fdb3",
+"source": "Jobright",
+"title": "2027 Summer Intern (HYBRID)",
+"company": "Equitable",
+"location": "Charlotte, NC",
+"url": "https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=420486&tz=UTC-05%3A00&tzname=America%2FNew_York",
+"posted_at": "2026-11-13T13:34:25Z",
+"found_at": "2026-11-15T10:07Z",
+"score": 78,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
 "id": "6a73f27ce55c73319eb19c7c",
 "source": "Jobright",
 "title": "Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer",
@@ -4495,6 +4545,38 @@
 "employment": ""
 },
 {
+"id": "6af4b1351b2c5dcbbcd635bd",
+"source": "Jobright",
+"title": "Intern Strategy",
+"company": "Ahold Delhaize USA",
+"location": "Quincy, MA",
+"url": "https://aholddelhaizeusa.careerswithus.com/job/internship/intern-strategy/quincy/547337_external_USA-MA-Quincy",
+"posted_at": "2026-11-12T11:36:25Z",
+"found_at": "2026-11-15T10:07Z",
+"score": 78,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6af3d48d80020ca3a8979403",
+"source": "Jobright",
+"title": "Corporate Strategy Associate Intern 2027",
+"company": "Cargill",
+"location": "Wayzata, MN",
+"url": "https://careers.cargill.com/en/job/wayzata/corporate-strategy-associate-intern-2027/23251/103140574080",
+"posted_at": "2026-11-12T00:20:28Z",
+"found_at": "2026-11-15T10:07Z",
+"score": 77,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
 "id": "6af4f3bf9144106c56a230d0",
 "source": "Jobright",
 "title": "Summer 2027 Intern - Business Operations",
@@ -4673,6 +4755,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": ""
+},
+{
+"id": "6abb0a051acb8fc6f09c2a52",
+"source": "Jobright",
+"title": "Commercial Strategy Intern Job Details | our team",
+"company": "SPX Technologies",
+"location": "Burr Ridge, IL",
+"url": "https://careers.spx.com/job/Burr-Ridge-Commercial-Strategy-Intern-Illi-60527/1433973900/",
+"posted_at": "2026-11-08T11:08:20Z",
+"found_at": "2026-11-15T10:07Z",
+"score": 90,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
 }
 ]
 }
