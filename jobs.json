@@ -1,7 +1,166 @@
 {
-"generated_at": "2026-11-15T20:07Z",
-"count": 330,
+"generated_at": "2026-11-15T21:07Z",
+"count": 339,
 "jobs": [
+{
+"id": "4489398533",
+"source": "LinkedIn",
+"title": "Technical Sales & Consulting Intern",
+"company": "Cliffton Verge",
+"location": "Mayfield Heights, OH",
+"url": "https://www.linkedin.com/jobs/view/technical-sales-consulting-intern-at-cliffton-verge-4489398533",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4491268388",
+"source": "LinkedIn",
+"title": "SOC Analyst Internship Program - LSU Students Only",
+"company": "C3",
+"location": "Baton Rouge, LA",
+"url": "https://www.linkedin.com/jobs/view/soc-analyst-internship-program-lsu-students-only-at-c3-4491268388",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4489392719",
+"source": "LinkedIn",
+"title": "Business Analyst Intern",
+"company": "VoltEdge Pro Systems",
+"location": "New York, United States",
+"url": "https://www.linkedin.com/jobs/view/business-analyst-intern-at-voltedge-pro-systems-4489392719",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489708106",
+"source": "LinkedIn",
+"title": "Finance Intern (Remote)",
+"company": "Mechronix",
+"location": "St Paul, MN",
+"url": "https://www.linkedin.com/jobs/view/finance-intern-remote-at-mechronix-4489708106",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4490231756",
+"source": "LinkedIn",
+"title": "RF Engineer Intern with Security Clearance",
+"company": "Integration Innovation, Inc.",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/rf-engineer-intern-with-security-clearance-at-integration-innovation-inc-4490231756",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4490250156",
+"source": "LinkedIn",
+"title": "Marketing Co-op",
+"company": "Boston Agent House",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/marketing-co-op-at-boston-agent-house-4490250156",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4489390958",
+"source": "LinkedIn",
+"title": "Supply Chain Transformation Intern",
+"company": "SmartMove Solutions",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/supply-chain-transformation-intern-at-smartmove-solutions-4489390958",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4490231731",
+"source": "LinkedIn",
+"title": "Bilingual Seller Onboarding & Outreach Intern (Spanish or Portuguese) – Remote",
+"company": "Amatrise",
+"location": "Chester County, PA",
+"url": "https://www.linkedin.com/jobs/view/bilingual-seller-onboarding-outreach-intern-spanish-or-portuguese-%E2%80%93-remote-at-amatrise-4490231731",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4489700597",
+"source": "LinkedIn",
+"title": "Mechanical Engineering Intern · Full Time",
+"company": "Infrasynk Engineering",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-%C2%B7-full-time-at-infrasynk-engineering-4489700597",
+"posted_at": "2026-11-15T21:07Z",
+"found_at": "2026-11-15T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
 {
 "id": "4465116621",
 "source": "LinkedIn",
