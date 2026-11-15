@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-15T21:07Z",
-"count": 339,
+"generated_at": "2026-11-15T22:07Z",
+"count": 340,
 "jobs": [
 {
 "id": "4489398533",
@@ -5905,6 +5905,24 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": ""
+},
+{
+"id": "6af63429f10ae27369e17abf",
+"source": "Jobright",
+"title": "Strategy MBA Internship, Summer 2027",
+"company": "Netflix",
+"location": "Los Angeles, CA",
+"url": "https://explore.jobs.netflix.net/careers/job/790319427586?microsite=netflix.com",
+"posted_at": "2026-11-09T21:46:54Z",
+"found_at": "2026-11-15T22:07Z",
+"score": 83,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "6af1df5c1116f6f0a076317c",
