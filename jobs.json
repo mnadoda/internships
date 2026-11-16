@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-16T01:07Z",
-"count": 359,
+"generated_at": "2026-11-16T02:07Z",
+"count": 360,
 "jobs": [
 {
 "id": "4491282242",
@@ -5913,6 +5913,25 @@
 "posted_at": "2026-11-13T02:20:16Z",
 "found_at": "2026-11-15T17:07Z",
 "score": 93,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6a3c0978d261407de97fc079",
+"source": "Jobright",
+"title": "Strategy Analysis Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)",
+"company": "TikTok",
+"location": "Los Angeles, CA",
+"url": "https://lifeattiktok.com/search/7632085581813827845",
+"posted_at": "2026-11-13T02:19:02Z",
+"found_at": "2026-11-16T02:07Z",
+"score": 91,
 "degrees": [
 "Bachelor's",
 "Master's"
