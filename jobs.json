@@ -1,7 +1,186 @@
 {
-"generated_at": "2026-11-16T10:07Z",
-"count": 397,
+"generated_at": "2026-11-16T11:07Z",
+"count": 407,
 "jobs": [
+{
+"id": "4465173335",
+"source": "LinkedIn",
+"title": "2027 Summer Power Intern",
+"company": "HDR",
+"location": "Orlando, FL",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-power-intern-at-hdr-4465173335",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4465182165",
+"source": "LinkedIn",
+"title": "Summer 2027 Water Intern",
+"company": "HDR",
+"location": "Fort Lauderdale, FL",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-water-intern-at-hdr-4465182165",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4455034863",
+"source": "LinkedIn",
+"title": "Consumer Business Unit - AI Analyst Internship - Summer 2027",
+"company": "Springs Window Fashions",
+"location": "Middleton, WI",
+"url": "https://www.linkedin.com/jobs/view/consumer-business-unit-ai-analyst-internship-summer-2027-at-springs-window-fashions-4455034863",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4464860941",
+"source": "LinkedIn",
+"title": "DESIGNER SKILLBRIDGE INTERN",
+"company": "Newport News Shipbuilding, A Division of HII",
+"location": "Newport News, VA",
+"url": "https://www.linkedin.com/jobs/view/designer-skillbridge-intern-at-newport-news-shipbuilding-a-division-of-hii-4464860941",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4465111645",
+"source": "LinkedIn",
+"title": "Customer Service Intern",
+"company": "Bühler Group",
+"location": "Owatonna, MN",
+"url": "https://www.linkedin.com/jobs/view/customer-service-intern-at-b%C3%BChler-group-4465111645",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Temporary"
+},
+{
+"id": "4466384696",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Site/Civil Engineering (Summer 2027)",
+"company": "Langan Engineering & Environmental Services",
+"location": "Arlington, VA",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-site-civil-engineering-summer-2027-at-langan-engineering-environmental-services-4466384696",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Temporary"
+},
+{
+"id": "4489733322",
+"source": "LinkedIn",
+"title": "Consultrepreneurship Intern",
+"company": "DIFFvelopment",
+"location": "New Jersey, United States",
+"url": "https://www.linkedin.com/jobs/view/consultrepreneurship-intern-at-diffvelopment-4489733322",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4455034865",
+"source": "LinkedIn",
+"title": "Product Management Dashboard Analytic Internship - Summer 2027",
+"company": "Springs Window Fashions",
+"location": "Middleton, WI",
+"url": "https://www.linkedin.com/jobs/view/product-management-dashboard-analytic-internship-summer-2027-at-springs-window-fashions-4455034865",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4466476967",
+"source": "LinkedIn",
+"title": "2027 Summer Internship Opportunities Cambridge MA",
+"company": "Sanofi",
+"location": "Cambridge, MA",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-internship-opportunities-cambridge-ma-at-sanofi-4466476967",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4466445631",
+"source": "LinkedIn",
+"title": "Mechanical Engineering Intern - Ditch Witch",
+"company": "The Toro Company",
+"location": "Noble County, OK",
+"url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-ditch-witch-at-the-toro-company-4466445631",
+"posted_at": "2026-11-16T11:07Z",
+"found_at": "2026-11-16T11:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4465471495",
 "source": "LinkedIn",
