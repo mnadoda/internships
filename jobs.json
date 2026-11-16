@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-16T18:07Z",
-"count": 449,
+"generated_at": "2026-11-16T19:07Z",
+"count": 450,
 "jobs": [
 {
 "id": "4483573604",
@@ -128,6 +128,22 @@
 "degree": "Not specified",
 "work_auth": "Sponsorship available",
 "work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6afb04f47f9ead6668e9d9a5",
+"source": "Jobright",
+"title": "Intern Commercial Strategy",
+"company": "Refresco",
+"location": "Tampa, FL",
+"url": "https://recruiting.ultipro.com/ref1001rbus/JobBoard/9dc59b6d-6dab-454e-883b-4c8c6d36d52d/OpportunityDetail?opportunityId=31e5890a-0bed-4b4f-a74c-12ddc6f96233",
+"posted_at": "2026-11-16T17:37:53Z",
+"found_at": "2026-11-16T19:07Z",
+"score": 82,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
 "employment": "Internship"
 },
 {
@@ -332,11 +348,15 @@
 "posted_at": "2026-11-16T14:07Z",
 "found_at": "2026-11-16T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4489758137",
@@ -652,11 +672,14 @@
 "posted_at": "2026-11-16T12:07Z",
 "found_at": "2026-11-16T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4465173335",
