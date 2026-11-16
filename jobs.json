@@ -1,7 +1,188 @@
 {
-"generated_at": "2026-11-16T08:07Z",
-"count": 387,
+"generated_at": "2026-11-16T09:07Z",
+"count": 397,
 "jobs": [
+{
+"id": "4465471495",
+"source": "LinkedIn",
+"title": "Talent Growth and Inclusion Intern- Summer 2027",
+"company": "Veeam Software",
+"location": "Washington, United States",
+"url": "https://www.linkedin.com/jobs/view/talent-growth-and-inclusion-intern-summer-2027-at-veeam-software-4465471495",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4465188541",
+"source": "LinkedIn",
+"title": "CoE Program & Content Intern - Summer 2027",
+"company": "Veeam Software",
+"location": "Georgia, United States",
+"url": "https://www.linkedin.com/jobs/view/coe-program-content-intern-summer-2027-at-veeam-software-4465188541",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4466360751",
+"source": "LinkedIn",
+"title": "Plant Quality Intern",
+"company": "CNH",
+"location": "New Holland, PA",
+"url": "https://www.linkedin.com/jobs/view/plant-quality-intern-at-cnh-4466360751",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4463996074",
+"source": "LinkedIn",
+"title": "Product Design, Intern (Summer 2027)",
+"company": "DoorDash",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/product-design-intern-summer-2027-at-doordash-4463996074",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4456207831",
+"source": "LinkedIn",
+"title": "Intern - Yield Technology Equipment",
+"company": "Micron Technology",
+"location": "Boise, ID",
+"url": "https://www.linkedin.com/jobs/view/intern-yield-technology-equipment-at-micron-technology-4456207831",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4466348747",
+"source": "LinkedIn",
+"title": "Cross Product Technology Specialist Intern",
+"company": "CNH",
+"location": "Sioux Falls, SD",
+"url": "https://www.linkedin.com/jobs/view/cross-product-technology-specialist-intern-at-cnh-4466348747",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4488879199",
+"source": "LinkedIn",
+"title": "Validation Intern",
+"company": "Renesas Electronics",
+"location": "San Jose, CA",
+"url": "https://www.linkedin.com/jobs/view/validation-intern-at-renesas-electronics-4488879199",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4473854973",
+"source": "LinkedIn",
+"title": "Fundraising and Development Intern, Private Sector and Civil Society Branch",
+"company": "United Nations Population Fund (UNFPA)",
+"location": "New York, United States",
+"url": "https://www.linkedin.com/jobs/view/fundraising-and-development-intern-private-sector-and-civil-society-branch-at-united-nations-population-fund-unfpa-4473854973",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Volunteer"
+},
+{
+"id": "4490784424",
+"source": "LinkedIn",
+"title": "PMIC Analog Intern",
+"company": "Renesas Electronics",
+"location": "San Jose, CA",
+"url": "https://www.linkedin.com/jobs/view/pmic-analog-intern-at-renesas-electronics-4490784424",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"PhD"
+],
+"degree": "PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4466048489",
+"source": "LinkedIn",
+"title": "Manufacturing Internship - Plainfield",
+"company": "Niagara Bottling",
+"location": "Plainfield, IN",
+"url": "https://www.linkedin.com/jobs/view/manufacturing-internship-plainfield-at-niagara-bottling-4466048489",
+"posted_at": "2026-11-16T09:07Z",
+"found_at": "2026-11-16T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4488937542",
 "source": "LinkedIn",
