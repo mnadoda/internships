@@ -1,7 +1,41 @@
 {
-"generated_at": "2026-11-16T20:07Z",
-"count": 461,
+"generated_at": "2026-11-16T21:07Z",
+"count": 464,
 "jobs": [
+{
+"id": "6afb6db306c0aac84dd958e5",
+"source": "Jobright",
+"title": "Customer Strategy & Analytics MBA Intern (Summer 2027)",
+"company": "Formlabs",
+"location": "Somerville, MA",
+"url": "https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574",
+"posted_at": "2026-11-16T20:55:15Z",
+"found_at": "2026-11-16T21:07Z",
+"score": 85,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6afb67df5305ed998d91d79e",
+"source": "Jobright",
+"title": "Business Analyst Intern",
+"company": "McKinsey & Company",
+"location": "Atlanta, GA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/15275",
+"posted_at": "2026-11-16T20:30:23Z",
+"found_at": "2026-11-16T21:07Z",
+"score": 89,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4490131507",
 "source": "LinkedIn",
@@ -144,6 +178,22 @@
 "degree": "Not specified",
 "work_auth": "Sponsorship available",
 "work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6afb56597d1820d918c29196",
+"source": "Jobright",
+"title": "Management Consultancy Intern - Summer 2027",
+"company": "WSP",
+"location": "New York, NY",
+"url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99095",
+"posted_at": "2026-11-16T19:15:37Z",
+"found_at": "2026-11-16T21:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
 "employment": "Internship"
 },
 {
@@ -580,11 +630,13 @@
 "posted_at": "2026-11-16T14:07Z",
 "found_at": "2026-11-16T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Part-time"
 },
 {
 "id": "4464251549",
@@ -598,9 +650,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4466770557",
@@ -612,11 +664,13 @@
 "posted_at": "2026-11-16T14:07Z",
 "found_at": "2026-11-16T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4475712936",
@@ -632,7 +686,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4464885486",
@@ -644,11 +698,13 @@
 "posted_at": "2026-11-16T14:07Z",
 "found_at": "2026-11-16T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4467039254",
@@ -660,11 +716,13 @@
 "posted_at": "2026-11-16T14:07Z",
 "found_at": "2026-11-16T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4466433011",
