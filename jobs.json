@@ -1,7 +1,190 @@
 {
-"generated_at": "2026-11-16T06:07Z",
-"count": 377,
+"generated_at": "2026-11-16T07:07Z",
+"count": 387,
 "jobs": [
+{
+"id": "4488937542",
+"source": "LinkedIn",
+"title": "Technical Sales & Consulting Intern",
+"company": "Novareth",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/technical-sales-consulting-intern-at-novareth-4488937542",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4491280968",
+"source": "LinkedIn",
+"title": "Graduate Internship (Group Practice - Cooper Green - Summer 2027)",
+"company": "University of Alabama at Birmingham",
+"location": "Greater Birmingham, Alabama Area",
+"url": "https://www.linkedin.com/jobs/view/graduate-internship-group-practice-cooper-green-summer-2027-at-university-of-alabama-at-birmingham-4491280968",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4490271276",
+"source": "LinkedIn",
+"title": "Intern",
+"company": "Constellation",
+"location": "Kennett Square, PA",
+"url": "https://www.linkedin.com/jobs/view/intern-at-constellation-4490271276",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4490273212",
+"source": "LinkedIn",
+"title": "Intern",
+"company": "Constellation",
+"location": "Lusby, MD",
+"url": "https://www.linkedin.com/jobs/view/intern-at-constellation-4490273212",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4490274324",
+"source": "LinkedIn",
+"title": "Team Kentucky Internship Program - Public Protection - Kentucky Boxing and Wrestling Commission",
+"company": "Commonwealth of Kentucky",
+"location": "Frankfort, KY",
+"url": "https://www.linkedin.com/jobs/view/team-kentucky-internship-program-public-protection-kentucky-boxing-and-wrestling-commission-at-commonwealth-of-kentucky-4490274324",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4491279918",
+"source": "LinkedIn",
+"title": "Electrical Engineering Intern (Copy)",
+"company": "AscendArc",
+"location": "Beaverton, OR",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-intern-copy-at-ascendarc-4491279918",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4490256669",
+"source": "LinkedIn",
+"title": "Administrative Healthcare Summer Intern",
+"company": "Sutter Health",
+"location": "Sacramento, CA",
+"url": "https://www.linkedin.com/jobs/view/administrative-healthcare-summer-intern-at-sutter-health-4490256669",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4490278033",
+"source": "LinkedIn",
+"title": "Team Kentucky Internship Program - Kentucky Public Pensions Authority - Div of Internal Audit Admin",
+"company": "Commonwealth of Kentucky",
+"location": "Frankfort, KY",
+"url": "https://www.linkedin.com/jobs/view/team-kentucky-internship-program-kentucky-public-pensions-authority-div-of-internal-audit-admin-at-commonwealth-of-kentucky-4490278033",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4491293354",
+"source": "LinkedIn",
+"title": "Mechanical Engineer Intern",
+"company": "AscendArc",
+"location": "Portland, OR",
+"url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-at-ascendarc-4491293354",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489850974",
+"source": "LinkedIn",
+"title": "Spring Intern 2027",
+"company": "Smile Big Network",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/spring-intern-2027-at-smile-big-network-4489850974",
+"posted_at": "2026-11-16T07:07Z",
+"found_at": "2026-11-16T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
 {
 "id": "4491288415",
 "source": "LinkedIn",
