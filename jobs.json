@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-16T16:07Z",
-"count": 437,
+"generated_at": "2026-11-16T17:07Z",
+"count": 440,
 "jobs": [
+{
+"id": "6afb2ece7f9ead6668e9f1cf",
+"source": "Jobright",
+"title": "Intern - Year Round (Strategy & Innovation)",
+"company": "Navy Federal Credit Union",
+"location": "Pensacola, FL",
+"url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34095",
+"posted_at": "2026-11-16T16:26:54Z",
+"found_at": "2026-11-16T17:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6afb2d027f9ead6668e9f089",
+"source": "Jobright",
+"title": "Intern, Strategy and Analytics",
+"company": "Princess Cruises",
+"location": "Miami, FL",
+"url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/HAGroup/job/14449",
+"posted_at": "2026-11-16T16:19:14Z",
+"found_at": "2026-11-16T17:07Z",
+"score": 86,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4490677538",
 "source": "LinkedIn",
@@ -457,11 +489,14 @@
 "posted_at": "2026-11-16T12:07Z",
 "found_at": "2026-11-16T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4486195835",
@@ -1498,6 +1533,22 @@
 "Bachelor's"
 ],
 "degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "6afb2d745305ed998d91a96f",
+"source": "Jobright",
+"title": "Strategy and Corporate Development Summer Intern",
+"company": "LivaNova",
+"location": "United States",
+"url": "https://livanova.wd5.myworkdayjobs.com/search/job/US_Remote/Strategy-and-Corporate-Development-Summer-Intern_JR-14987",
+"posted_at": "2026-11-16T00:00:00Z",
+"found_at": "2026-11-16T17:07Z",
+"score": 85,
+"degrees": [],
+"degree": "Not specified",
 "work_auth": "Sponsorship available",
 "work_model": "Remote",
 "employment": "Internship"
