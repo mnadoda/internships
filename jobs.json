@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-16T14:07Z",
-"count": 427,
+"generated_at": "2026-11-16T15:07Z",
+"count": 428,
 "jobs": [
 {
 "id": "4489754236",
@@ -240,11 +240,13 @@
 "posted_at": "2026-11-16T12:07Z",
 "found_at": "2026-11-16T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4489750145",
@@ -1329,6 +1331,24 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6afb16505305ed998d919afc",
+"source": "Jobright",
+"title": "Undergrad Intern – R&D Execution, Operations & Strategy (Summer 2027)",
+"company": "Amgen",
+"location": "United States",
+"url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---R-D-Execution--Operations---Strategy--Summer-2027-_R-259964",
+"posted_at": "2026-11-16T00:00:00Z",
+"found_at": "2026-11-16T15:07Z",
+"score": 90,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Remote",
 "employment": "Internship"
 },
 {
