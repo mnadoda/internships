@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-17T01:07Z",
-"count": 486,
+"generated_at": "2026-11-17T02:07Z",
+"count": 488,
 "jobs": [
+{
+"id": "6afba995c96cba79575c1219",
+"source": "Jobright",
+"title": "Strategy Insights & Planning Associate - Intern (North America - University Students)",
+"company": "ZS",
+"location": "Princeton, NJ",
+"url": "https://private-zs.icims.com/jobs/63453/strategy-insights-%26-planning-associate---intern-%28north-america---university-students%29/job?in_iframe=1",
+"posted_at": "2026-11-17T01:10:45Z",
+"found_at": "2026-11-17T02:07Z",
+"score": 92,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4490160739",
 "source": "LinkedIn",
@@ -30,11 +46,13 @@
 "posted_at": "2026-11-17T01:07Z",
 "found_at": "2026-11-17T01:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4490954209",
@@ -641,6 +659,22 @@
 "posted_at": "2026-11-16T18:47:08Z",
 "found_at": "2026-11-16T20:07Z",
 "score": 89,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6aeea4fb676e3f91d32690d6",
+"source": "Jobright",
+"title": "Summer Internship, Corporate Strategy",
+"company": "Kestra Financial",
+"location": "Austin, TX",
+"url": "https://jobs.dayforcehcm.com/en-US/kestra/KESTRAHOLDINGS/jobs/9080?src=jobright",
+"posted_at": "2026-11-16T18:36:59Z",
+"found_at": "2026-11-17T02:07Z",
+"score": 86,
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Sponsorship available",
