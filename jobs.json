@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-17T11:07Z",
+"generated_at": "2026-11-17T12:07Z",
 "count": 538,
 "jobs": [
 {
@@ -60,11 +60,14 @@
 "posted_at": "2026-11-17T10:07Z",
 "found_at": "2026-11-17T10:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4480727138",
@@ -76,11 +79,14 @@
 "posted_at": "2026-11-17T10:07Z",
 "found_at": "2026-11-17T10:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4482036158",
@@ -92,11 +98,13 @@
 "posted_at": "2026-11-17T10:07Z",
 "found_at": "2026-11-17T10:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4483772934",
@@ -111,8 +119,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "4483247900",
@@ -124,11 +132,13 @@
 "posted_at": "2026-11-17T10:07Z",
 "found_at": "2026-11-17T10:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4474666271",
@@ -314,11 +324,13 @@
 "posted_at": "2026-11-17T08:07Z",
 "found_at": "2026-11-17T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4491118250",
