@@ -1,7 +1,115 @@
 {
-"generated_at": "2026-11-17T16:07Z",
-"count": 564,
+"generated_at": "2026-11-17T17:07Z",
+"count": 573,
 "jobs": [
+{
+"id": "4490361731",
+"source": "LinkedIn",
+"title": "Intern - Electric Distribution Grid Planning - Rotational Program",
+"company": "Dominion Energy",
+"location": "Richmond, VA",
+"url": "https://www.linkedin.com/jobs/view/intern-electric-distribution-grid-planning-rotational-program-at-dominion-energy-4490361731",
+"posted_at": "2026-11-17T17:07Z",
+"found_at": "2026-11-17T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4491178996",
+"source": "LinkedIn",
+"title": "2027 Summer Internship - Civil Engineering",
+"company": "Pape-Dawson",
+"location": "Chattanooga, TN",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-internship-civil-engineering-at-pape-dawson-4491178996",
+"posted_at": "2026-11-17T17:07Z",
+"found_at": "2026-11-17T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491191453",
+"source": "LinkedIn",
+"title": "2027 Summer Internship - Civil Engineering",
+"company": "Pape-Dawson",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-internship-civil-engineering-at-pape-dawson-4491191453",
+"posted_at": "2026-11-17T17:07Z",
+"found_at": "2026-11-17T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491599024",
+"source": "LinkedIn",
+"title": "Engineer Summer Intern - #3084",
+"company": "Wade Trim",
+"location": "Buford, GA",
+"url": "https://www.linkedin.com/jobs/view/engineer-summer-intern-%233084-at-wade-trim-4491599024",
+"posted_at": "2026-11-17T17:07Z",
+"found_at": "2026-11-17T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4491191114",
+"source": "LinkedIn",
+"title": "Field Applications Engineer (FAE) Intern - Summer 2027",
+"company": "NXP Semiconductors",
+"location": "Austin, TX",
+"url": "https://www.linkedin.com/jobs/view/field-applications-engineer-fae-intern-summer-2027-at-nxp-semiconductors-4491191114",
+"posted_at": "2026-11-17T17:07Z",
+"found_at": "2026-11-17T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491183762",
+"source": "LinkedIn",
+"title": "Publicis Media Summer 2027 Internship - Birmingham",
+"company": "Publicis Media",
+"location": "Birmingham, MI",
+"url": "https://www.linkedin.com/jobs/view/publicis-media-summer-2027-internship-birmingham-at-publicis-media-4491183762",
+"posted_at": "2026-11-17T17:07Z",
+"found_at": "2026-11-17T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Temporary"
+},
 {
 "id": "4483721139",
 "source": "LinkedIn",
@@ -119,6 +227,22 @@
 "degree": "Not specified",
 "work_auth": "Authorization required",
 "work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "6ae0b38e1f9d9308370a30b2",
+"source": "Jobright",
+"title": "Innovation Research Intern",
+"company": "Trace3",
+"location": "United States",
+"url": "https://boards.greenhouse.io/embed/job_app?token=8274770",
+"posted_at": "2026-11-17T15:48:56Z",
+"found_at": "2026-11-17T17:07Z",
+"score": 82,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Remote",
 "employment": "Internship"
 },
 {
@@ -1614,6 +1738,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Temporary"
+},
+{
+"id": "6afbe19b1c71d952627ef922",
+"source": "Jobright",
+"title": "Sales Strategy & Operations Intern",
+"company": "Bask Health",
+"location": "United States",
+"url": "https://apply.workable.com/bask-health-1/j/B0DFD40A99/",
+"posted_at": "2026-11-17T00:00:00Z",
+"found_at": "2026-11-17T17:07Z",
+"score": 77,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4464638994",
@@ -8475,6 +8615,22 @@
 "degree": "Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "6aad516d3dbb1f8967cecd37",
+"source": "Jobright",
+"title": "Summer Consultant, M&A, 2027",
+"company": "Investor Group Services (IGS)",
+"location": "Boston, MA",
+"url": "https://igsboston.pinpointhq.com/en/postings/629091e9-047a-48ca-9f0a-9eb694e09139",
+"posted_at": "2026-11-13T22:58:18Z",
+"found_at": "2026-11-17T17:07Z",
+"score": 78,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
 "employment": "Internship"
 },
 {
