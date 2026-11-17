@@ -1,7 +1,41 @@
 {
-"generated_at": "2026-11-17T00:07Z",
-"count": 484,
+"generated_at": "2026-11-17T01:07Z",
+"count": 486,
 "jobs": [
+{
+"id": "4490160739",
+"source": "LinkedIn",
+"title": "Intern - Finance Digital Transformation",
+"company": "Bread Financial",
+"location": "Frisco, TX",
+"url": "https://www.linkedin.com/jobs/view/intern-finance-digital-transformation-at-bread-financial-4490160739",
+"posted_at": "2026-11-17T01:07Z",
+"found_at": "2026-11-17T01:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4491533857",
+"source": "LinkedIn",
+"title": "Water/ Wastewater Engineering Intern – Summer 2027",
+"company": "Jacobs",
+"location": "Little Rock, AR",
+"url": "https://www.linkedin.com/jobs/view/water-wastewater-engineering-intern-%E2%80%93-summer-2027-at-jacobs-4491533857",
+"posted_at": "2026-11-17T01:07Z",
+"found_at": "2026-11-17T01:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4490954209",
 "source": "LinkedIn",
