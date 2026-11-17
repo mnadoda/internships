@@ -1,7 +1,201 @@
 {
-"generated_at": "2026-11-17T22:07Z",
-"count": 590,
+"generated_at": "2026-11-17T23:07Z",
+"count": 601,
 "jobs": [
+{
+"id": "4476841884",
+"source": "LinkedIn",
+"title": "Technology Design Intern - St. Louis, MO",
+"company": "IMEG",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/technology-design-intern-st-louis-mo-at-imeg-4476841884",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4491738736",
+"source": "LinkedIn",
+"title": "Field Application Engineer Intern",
+"company": "Garmin",
+"location": "Olathe, KS",
+"url": "https://www.linkedin.com/jobs/view/field-application-engineer-intern-at-garmin-4491738736",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4477330049",
+"source": "LinkedIn",
+"title": "2026–2027 Campus Internship – Information Technology",
+"company": "Dow",
+"location": "Houston, TX",
+"url": "https://www.linkedin.com/jobs/view/2026%E2%80%932027-campus-internship-%E2%80%93-information-technology-at-dow-4477330049",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491434435",
+"source": "LinkedIn",
+"title": "Intern",
+"company": "The Vertex Companies LLC",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/intern-at-the-vertex-companies-llc-4491434435",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4491756138",
+"source": "LinkedIn",
+"title": "ComEd Business Analyst (GIS) Intern",
+"company": "ComEd",
+"location": "Oakbrook Terrace, IL",
+"url": "https://www.linkedin.com/jobs/view/comed-business-analyst-gis-intern-at-comed-4491756138",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4491756502",
+"source": "LinkedIn",
+"title": "ComEd Business Analyst (GIS) Intern",
+"company": "Exelon",
+"location": "Villa Park, IL",
+"url": "https://www.linkedin.com/jobs/view/comed-business-analyst-gis-intern-at-exelon-4491756502",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4491754026",
+"source": "LinkedIn",
+"title": "Product Designer Intern",
+"company": "Garmin",
+"location": "Olathe, KS",
+"url": "https://www.linkedin.com/jobs/view/product-designer-intern-at-garmin-4491754026",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4491427689",
+"source": "LinkedIn",
+"title": "Intern",
+"company": "The Vertex Companies LLC",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/intern-at-the-vertex-companies-llc-4491427689",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4491745433",
+"source": "LinkedIn",
+"title": "National Accounts Summer Intern (Paid & Full-Time)",
+"company": "DH Pace Company, Inc.",
+"location": "Olathe, KS",
+"url": "https://www.linkedin.com/jobs/view/national-accounts-summer-intern-paid-full-time-at-dh-pace-company-inc-4491745433",
+"posted_at": "2026-11-17T23:07Z",
+"found_at": "2026-11-17T23:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "6afcdabdd86c15318a38f1e3",
+"source": "Jobright",
+"title": "Newmark Management Consulting Intern",
+"company": "Newmark",
+"location": "Ohio State",
+"url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250561",
+"posted_at": "2026-11-17T22:52:45Z",
+"found_at": "2026-11-17T23:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6afcda29e8a9612f4e0dc6af",
+"source": "Jobright",
+"title": "Solutions Consulting & Engineering- MBA Management Consulting Services Intern - 2027",
+"company": "World Wide Technology",
+"location": "Maryland Heights, MO",
+"url": "https://myjobs.adp.com/wwtexternalcareersite/cx/job-details?reqId=5001221103400",
+"posted_at": "2026-11-17T22:50:17Z",
+"found_at": "2026-11-17T23:07Z",
+"score": 86,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4484577385",
 "source": "LinkedIn",
