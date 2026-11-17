@@ -1,7 +1,119 @@
 {
-"generated_at": "2026-11-17T05:07Z",
-"count": 512,
+"generated_at": "2026-11-17T06:07Z",
+"count": 519,
 "jobs": [
+{
+"id": "4491118250",
+"source": "LinkedIn",
+"title": "Intern, Port Operations Data Analytics",
+"company": "Princess Cruises",
+"location": "Miami, FL",
+"url": "https://www.linkedin.com/jobs/view/intern-port-operations-data-analytics-at-princess-cruises-4491118250",
+"posted_at": "2026-11-17T06:07Z",
+"found_at": "2026-11-17T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4491104652",
+"source": "LinkedIn",
+"title": "Intern. Media Analytics & AI Innovation Intern",
+"company": "Princess Cruises",
+"location": "Miami, FL",
+"url": "https://www.linkedin.com/jobs/view/intern-media-analytics-ai-innovation-intern-at-princess-cruises-4491104652",
+"posted_at": "2026-11-17T06:07Z",
+"found_at": "2026-11-17T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4489508105",
+"source": "LinkedIn",
+"title": "2027 Summer Internship - Consulting Intern, Spend Insights & Services",
+"company": "Vizient",
+"location": "Cape Girardeau County, MO",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-internship-consulting-intern-spend-insights-services-at-vizient-4489508105",
+"posted_at": "2026-11-17T06:07Z",
+"found_at": "2026-11-17T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4491104646",
+"source": "LinkedIn",
+"title": "Intern, Energy Analytics & Decarbonization (CCL)",
+"company": "Carnival Cruise Line",
+"location": "Miami, FL",
+"url": "https://www.linkedin.com/jobs/view/intern-energy-analytics-decarbonization-ccl-at-carnival-cruise-line-4491104646",
+"posted_at": "2026-11-17T06:07Z",
+"found_at": "2026-11-17T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4491107561",
+"source": "LinkedIn",
+"title": "Georgia-Pacific Industrial Hygiene AND Emergency Management Engineering Internship - Brewton, AL (Summer 2027)",
+"company": "Georgia-Pacific LLC",
+"location": "Brewton, AL",
+"url": "https://www.linkedin.com/jobs/view/georgia-pacific-industrial-hygiene-and-emergency-management-engineering-internship-brewton-al-summer-2027-at-georgia-pacific-llc-4491107561",
+"posted_at": "2026-11-17T06:07Z",
+"found_at": "2026-11-17T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4491116094",
+"source": "LinkedIn",
+"title": "Summer 2027 Software Engineering Intern",
+"company": "T-Mobile",
+"location": "Overland Park, KS",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-t-mobile-4491116094",
+"posted_at": "2026-11-17T06:07Z",
+"found_at": "2026-11-17T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4490997839",
+"source": "LinkedIn",
+"title": "Summer 2027 Software Engineering Intern",
+"company": "T-Mobile",
+"location": "Frisco, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-at-t-mobile-4490997839",
+"posted_at": "2026-11-17T06:07Z",
+"found_at": "2026-11-17T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4490179947",
 "source": "LinkedIn",
@@ -108,11 +220,14 @@
 "posted_at": "2026-11-17T04:07Z",
 "found_at": "2026-11-17T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Temporary"
 },
 {
 "id": "4490984602",
@@ -379,11 +494,14 @@
 "posted_at": "2026-11-17T03:07Z",
 "found_at": "2026-11-17T03:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4490946731",
@@ -395,11 +513,14 @@
 "posted_at": "2026-11-17T03:07Z",
 "found_at": "2026-11-17T03:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "6afba995c96cba79575c1219",
