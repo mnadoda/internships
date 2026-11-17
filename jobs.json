@@ -1,7 +1,173 @@
 {
-"generated_at": "2026-11-17T18:07Z",
-"count": 573,
+"generated_at": "2026-11-17T19:07Z",
+"count": 582,
 "jobs": [
+{
+"id": "4489502607",
+"source": "LinkedIn",
+"title": "2027 Summer Internship - Consulting Intern, Spend Insights & Services",
+"company": "Vizient",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-internship-consulting-intern-spend-insights-services-at-vizient-4489502607",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4483278014",
+"source": "LinkedIn",
+"title": "Product Design Intern",
+"company": "Epsilon",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/product-design-intern-at-epsilon-4483278014",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Temporary"
+},
+{
+"id": "4490473844",
+"source": "LinkedIn",
+"title": "Fair Trade Sustainability Intern",
+"company": "Dr. Bronner's",
+"location": "Vista, CA",
+"url": "https://www.linkedin.com/jobs/view/fair-trade-sustainability-intern-at-dr-bronner-s-4490473844",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4483269298",
+"source": "LinkedIn",
+"title": "Product Design Intern",
+"company": "Epsilon",
+"location": "Irving, TX",
+"url": "https://www.linkedin.com/jobs/view/product-design-intern-at-epsilon-4483269298",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Temporary"
+},
+{
+"id": "4476108972",
+"source": "LinkedIn",
+"title": "Summer Internship - Aftersales Service Development Analyst",
+"company": "PACCAR Parts",
+"location": "Lewisville, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-internship-aftersales-service-development-analyst-at-paccar-parts-4476108972",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4458219003",
+"source": "LinkedIn",
+"title": "2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY)",
+"company": "BNY",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-bny-summer-internship-program-people-engagement-and-impact-new-york-ny-at-bny-4458219003",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4467246329",
+"source": "LinkedIn",
+"title": "Engineering Intern",
+"company": "Matrix PDM Engineering",
+"location": "Greater Pittsburgh Region",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-at-matrix-pdm-engineering-4467246329",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491410154",
+"source": "LinkedIn",
+"title": "Summer 2027 Data Analytics Intern",
+"company": "Attain Partners",
+"location": "McLean, VA",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-data-analytics-intern-at-attain-partners-4491410154",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4491729387",
+"source": "LinkedIn",
+"title": "Field Applications Engineer Intern",
+"company": "Renesas Electronics",
+"location": "Bridgewater, NJ",
+"url": "https://www.linkedin.com/jobs/view/field-applications-engineer-intern-at-renesas-electronics-4491729387",
+"posted_at": "2026-11-17T19:07Z",
+"found_at": "2026-11-17T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4490361731",
 "source": "LinkedIn",
