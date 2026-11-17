@@ -1,7 +1,62 @@
 {
-"generated_at": "2026-11-17T19:07Z",
-"count": 582,
+"generated_at": "2026-11-17T20:07Z",
+"count": 585,
 "jobs": [
+{
+"id": "4483735928",
+"source": "LinkedIn",
+"title": "Summer Internship - Aftersales Process Analytics",
+"company": "PACCAR Parts",
+"location": "Lewisville, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-internship-aftersales-process-analytics-at-paccar-parts-4483735928",
+"posted_at": "2026-11-17T20:07Z",
+"found_at": "2026-11-17T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4483734971",
+"source": "LinkedIn",
+"title": "Presales Systems Engineer - Summer 2027 Internship",
+"company": "Motorola Solutions",
+"location": "Brentwood, TN",
+"url": "https://www.linkedin.com/jobs/view/presales-systems-engineer-summer-2027-internship-at-motorola-solutions-4483734971",
+"posted_at": "2026-11-17T20:07Z",
+"found_at": "2026-11-17T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4465239801",
+"source": "LinkedIn",
+"title": "Human Resources Intern",
+"company": "Greenheck Group",
+"location": "Minneapolis, MN",
+"url": "https://www.linkedin.com/jobs/view/human-resources-intern-at-greenheck-group-4465239801",
+"posted_at": "2026-11-17T20:07Z",
+"found_at": "2026-11-17T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4489502607",
 "source": "LinkedIn",
