@@ -1,7 +1,153 @@
 {
-"generated_at": "2026-11-18T06:07Z",
-"count": 633,
+"generated_at": "2026-11-18T07:07Z",
+"count": 641,
 "jobs": [
+{
+"id": "4490867072",
+"source": "LinkedIn",
+"title": "Implementation Consultant Intern",
+"company": "Paylocity",
+"location": "Schaumburg, IL",
+"url": "https://www.linkedin.com/jobs/view/implementation-consultant-intern-at-paylocity-4490867072",
+"posted_at": "2026-11-18T06:41Z",
+"found_at": "2026-11-18T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4490846895",
+"source": "LinkedIn",
+"title": "Tech Operations Intern",
+"company": "Paylocity",
+"location": "Schaumburg, IL",
+"url": "https://www.linkedin.com/jobs/view/tech-operations-intern-at-paylocity-4490846895",
+"posted_at": "2026-11-18T06:41Z",
+"found_at": "2026-11-18T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6afd4806c287c018be3aa719",
+"source": "Jobright",
+"title": "Implementation Consultant Intern",
+"company": "Paylocity",
+"location": "Schaumburg, IL",
+"url": "https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/49366",
+"posted_at": "2026-11-18T06:39Z",
+"found_at": "2026-11-18T07:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4490840965",
+"source": "LinkedIn",
+"title": "ComEd Business Analyst (GIS) Intern",
+"company": "EEONLINE",
+"location": "Illinois, United States",
+"url": "https://www.linkedin.com/jobs/view/comed-business-analyst-gis-intern-at-eeonline-4490840965",
+"posted_at": "2026-11-18T06:18Z",
+"found_at": "2026-11-18T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4491490974",
+"source": "LinkedIn",
+"title": "Grad Intern - Knowledge Graph Applications (Summer 2027)",
+"company": "BioSpace",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/grad-intern-knowledge-graph-applications-summer-2027-at-biospace-4491490974",
+"posted_at": "2026-11-18T06:07Z",
+"found_at": "2026-11-18T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4491790156",
+"source": "LinkedIn",
+"title": "2027 Spring Internship Application",
+"company": "Truth Initiative",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/2027-spring-internship-application-at-truth-initiative-4491790156",
+"posted_at": "2026-11-18T06:07Z",
+"found_at": "2026-11-18T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4490853177",
+"source": "LinkedIn",
+"title": "Information Technology - Quality Engineering Intern (Hybrid)",
+"company": "TruStage",
+"location": "Madison, WI",
+"url": "https://www.linkedin.com/jobs/view/information-technology-quality-engineering-intern-hybrid-at-trustage-4490853177",
+"posted_at": "2026-11-18T06:07Z",
+"found_at": "2026-11-18T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Part-time"
+},
+{
+"id": "4491491836",
+"source": "LinkedIn",
+"title": "2027 Summer Intern - Logistics Engineering",
+"company": "Roche",
+"location": "Indianapolis, IN",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-logistics-engineering-at-roche-4491491836",
+"posted_at": "2026-11-18T06:07Z",
+"found_at": "2026-11-18T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
 {
 "id": "4491757701",
 "source": "LinkedIn",
@@ -12,11 +158,14 @@
 "posted_at": "2026-11-18T04:56Z",
 "found_at": "2026-11-18T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4491486667",
@@ -28,11 +177,14 @@
 "posted_at": "2026-11-18T04:45Z",
 "found_at": "2026-11-18T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4490853008",
@@ -48,7 +200,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4491527435",
@@ -60,11 +212,13 @@
 "posted_at": "2026-11-18T04:38Z",
 "found_at": "2026-11-18T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4490848231",
@@ -92,11 +246,13 @@
 "posted_at": "2026-11-18T04:25Z",
 "found_at": "2026-11-18T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4484232894",
