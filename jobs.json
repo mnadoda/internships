@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-18T19:07Z",
-"count": 705,
+"generated_at": "2026-11-18T20:07Z",
+"count": 706,
 "jobs": [
+{
+"id": "6afe014b758942b6422b6737",
+"source": "Jobright",
+"title": "Product & Strategy Intern",
+"company": "American Tower",
+"location": "Woburn, MA",
+"url": "https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3035",
+"posted_at": "2026-11-18T19:49Z",
+"found_at": "2026-11-18T20:07Z",
+"score": 79,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
 {
 "id": "4491331212",
 "source": "LinkedIn",
@@ -12,11 +28,14 @@
 "posted_at": "2026-11-18T18:39Z",
 "found_at": "2026-11-18T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Sponsorship available",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4491865956",
@@ -32,7 +51,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4492077703",
@@ -48,7 +67,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492085296",
@@ -60,11 +79,14 @@
 "posted_at": "2026-11-18T18:21Z",
 "found_at": "2026-11-18T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Contract"
 },
 {
 "id": "4476539010",
@@ -76,11 +98,13 @@
 "posted_at": "2026-11-18T18:15Z",
 "found_at": "2026-11-18T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4492073216",
@@ -92,11 +116,14 @@
 "posted_at": "2026-11-18T18:07Z",
 "found_at": "2026-11-18T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4465278039",
@@ -108,11 +135,14 @@
 "posted_at": "2026-11-18T18:07Z",
 "found_at": "2026-11-18T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4491864590",
@@ -127,8 +157,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4492064491",
