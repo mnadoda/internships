@@ -1,7 +1,169 @@
 {
-"generated_at": "2026-11-18T14:07Z",
-"count": 673,
+"generated_at": "2026-11-18T15:07Z",
+"count": 683,
 "jobs": [
+{
+"id": "4466149967",
+"source": "LinkedIn",
+"title": "Customer Experience and Transformation Intern – Summer 2027",
+"company": "National Life Group",
+"location": "Addison, TX",
+"url": "https://www.linkedin.com/jobs/view/customer-experience-and-transformation-intern-%E2%80%93-summer-2027-at-national-life-group-4466149967",
+"posted_at": "2026-11-18T14:45Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4475106923",
+"source": "LinkedIn",
+"title": "Risk Consultant Intern - Summer 2027 - Minneapolis/St. Paul, Minnesota",
+"company": "Federated Insurance",
+"location": "Minneapolis, MN",
+"url": "https://www.linkedin.com/jobs/view/risk-consultant-intern-summer-2027-minneapolis-st-paul-minnesota-at-federated-insurance-4475106923",
+"posted_at": "2026-11-18T14:14Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4474958772",
+"source": "LinkedIn",
+"title": "Risk Consultant Intern - Summer 2027 - Kansas City, Missouri",
+"company": "Federated Insurance",
+"location": "Kansas City, MO",
+"url": "https://www.linkedin.com/jobs/view/risk-consultant-intern-summer-2027-kansas-city-missouri-at-federated-insurance-4474958772",
+"posted_at": "2026-11-18T14:08Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4483696305",
+"source": "LinkedIn",
+"title": "Summer 2027 General Internship Application",
+"company": "SHRM",
+"location": "Alexandria, VA",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-general-internship-application-at-shrm-4483696305",
+"posted_at": "2026-11-18T14:07Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4472335970",
+"source": "LinkedIn",
+"title": "Summer Intern - Insurance Services",
+"company": "GuideStone Financial Resources",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-insurance-services-at-guidestone-financial-resources-4472335970",
+"posted_at": "2026-11-18T14:07Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4456588414",
+"source": "LinkedIn",
+"title": "2027 Summer Intern (HYBRID)",
+"company": "Equitable",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-hybrid-at-equitable-4456588414",
+"posted_at": "2026-11-18T14:07Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": ""
+},
+{
+"id": "4446266220",
+"source": "LinkedIn",
+"title": "Water Engineering Intern",
+"company": "Garver",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/water-engineering-intern-at-garver-4446266220",
+"posted_at": "2026-11-18T14:07Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4456577414",
+"source": "LinkedIn",
+"title": "2027 Summer Intern (HYBRID)",
+"company": "Equitable",
+"location": "Charlotte, NC",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-hybrid-at-equitable-4456577414",
+"posted_at": "2026-11-18T14:07Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": ""
+},
+{
+"id": "4466143906",
+"source": "LinkedIn",
+"title": "Civil Engineering Intern (Land Development) - Summer 2027",
+"company": "Core States Group",
+"location": "Bentonville, AR",
+"url": "https://www.linkedin.com/jobs/view/civil-engineering-intern-land-development-summer-2027-at-core-states-group-4466143906",
+"posted_at": "2026-11-18T14:07Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492039088",
+"source": "LinkedIn",
+"title": "Insurance Intern (Summer 2027)",
+"company": "Marsh Agency",
+"location": "Fargo, ND",
+"url": "https://www.linkedin.com/jobs/view/insurance-intern-summer-2027-at-marsh-agency-4492039088",
+"posted_at": "2026-11-18T14:07Z",
+"found_at": "2026-11-18T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4492031288",
 "source": "LinkedIn",
@@ -15,8 +177,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "4492016926",
@@ -32,7 +194,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4490889462",
@@ -44,11 +206,13 @@
 "posted_at": "2026-11-18T12:57Z",
 "found_at": "2026-11-18T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4476120117",
@@ -60,11 +224,14 @@
 "posted_at": "2026-11-18T12:25Z",
 "found_at": "2026-11-18T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Part-time"
 },
 {
 "id": "4492018642",
@@ -79,8 +246,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4492029193",
@@ -95,8 +262,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4466180323",
@@ -108,11 +275,14 @@
 "posted_at": "2026-11-18T12:18Z",
 "found_at": "2026-11-18T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4476118196",
@@ -124,11 +294,14 @@
 "posted_at": "2026-11-18T12:07Z",
 "found_at": "2026-11-18T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Part-time"
 },
 {
 "id": "4484069879",
@@ -140,11 +313,14 @@
 "posted_at": "2026-11-18T12:07Z",
 "found_at": "2026-11-18T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4474622439",
@@ -158,9 +334,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4466114883",
@@ -190,11 +366,13 @@
 "posted_at": "2026-11-18T10:19Z",
 "found_at": "2026-11-18T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4462570510",
@@ -206,11 +384,14 @@
 "posted_at": "2026-11-18T10:17Z",
 "found_at": "2026-11-18T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4476393661",
@@ -222,11 +403,13 @@
 "posted_at": "2026-11-18T10:08Z",
 "found_at": "2026-11-18T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Part-time"
 },
 {
 "id": "4465781797",
