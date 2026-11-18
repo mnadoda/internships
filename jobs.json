@@ -1,7 +1,25 @@
 {
-"generated_at": "2026-11-18T15:07Z",
-"count": 683,
+"generated_at": "2026-11-18T16:07Z",
+"count": 684,
 "jobs": [
+{
+"id": "6afdc07af3e7976cc6108450",
+"source": "Jobright",
+"title": "Corporate Strategy Undergraduate Intern",
+"company": "Dell Technologies",
+"location": "Austin, TX",
+"url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300226",
+"posted_at": "2026-11-18T15:12Z",
+"found_at": "2026-11-18T16:07Z",
+"score": 92,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4466149967",
 "source": "LinkedIn",
@@ -12,11 +30,13 @@
 "posted_at": "2026-11-18T14:45Z",
 "found_at": "2026-11-18T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4475106923",
@@ -28,11 +48,13 @@
 "posted_at": "2026-11-18T14:14Z",
 "found_at": "2026-11-18T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4474958772",
@@ -62,11 +84,14 @@
 "posted_at": "2026-11-18T14:07Z",
 "found_at": "2026-11-18T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4472335970",
@@ -82,7 +107,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4456588414",
@@ -94,11 +119,14 @@
 "posted_at": "2026-11-18T14:07Z",
 "found_at": "2026-11-18T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Hybrid",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4446266220",
@@ -110,11 +138,13 @@
 "posted_at": "2026-11-18T14:07Z",
 "found_at": "2026-11-18T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4456577414",
@@ -126,11 +156,14 @@
 "posted_at": "2026-11-18T14:07Z",
 "found_at": "2026-11-18T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Hybrid",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4466143906",
