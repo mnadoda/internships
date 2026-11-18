@@ -1,7 +1,84 @@
 {
-"generated_at": "2026-11-17T23:07Z",
-"count": 601,
+"generated_at": "2026-11-18T00:07Z",
+"count": 606,
 "jobs": [
+{
+"id": "4489291995",
+"source": "LinkedIn",
+"title": "2027 Summer Internship - Consulting Intern, Spend Insights & Services",
+"company": "Vizient",
+"location": "Irving, TX",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-internship-consulting-intern-spend-insights-services-at-vizient-4489291995",
+"posted_at": "2026-11-18T00:07Z",
+"found_at": "2026-11-18T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4491768275",
+"source": "LinkedIn",
+"title": "Pharmacy Undergraduate Summer Intern",
+"company": "Centene Corporation",
+"location": "Missouri, United States",
+"url": "https://www.linkedin.com/jobs/view/pharmacy-undergraduate-summer-intern-at-centene-corporation-4491768275",
+"posted_at": "2026-11-18T00:07Z",
+"found_at": "2026-11-18T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4491783121",
+"source": "LinkedIn",
+"title": "Summer 2027 Business Intelligence Analyst Internship",
+"company": "T-Mobile",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-business-intelligence-analyst-internship-at-t-mobile-4491783121",
+"posted_at": "2026-11-18T00:07Z",
+"found_at": "2026-11-18T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491436787",
+"source": "LinkedIn",
+"title": "Electrical Engineering Intern - Summer 2027 (Portland, OR)",
+"company": "Brown and Caldwell",
+"location": "Portland, OR",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-intern-summer-2027-portland-or-at-brown-and-caldwell-4491436787",
+"posted_at": "2026-11-18T00:07Z",
+"found_at": "2026-11-18T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4476841884",
 "source": "LinkedIn",
@@ -749,6 +826,24 @@
 "degree": "Not specified",
 "work_auth": "Sponsorship available",
 "work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "6afcea0994232f5ac42d330a",
+"source": "Jobright",
+"title": "Consulting Master's Intern",
+"company": "Kaiser Permanente",
+"location": "Pleasanton, CA",
+"url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=3429583&tz=UTC-05%3A00&tzname=America%2FNew_York",
+"posted_at": "2026-11-17T15:40:36Z",
+"found_at": "2026-11-18T00:07Z",
+"score": 81,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
 "employment": "Internship"
 },
 {
