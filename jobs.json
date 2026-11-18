@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-18T17:07Z",
-"count": 693,
+"generated_at": "2026-11-18T18:07Z",
+"count": 694,
 "jobs": [
 {
 "id": "4492046922",
@@ -12,11 +12,13 @@
 "posted_at": "2026-11-18T17:01Z",
 "found_at": "2026-11-18T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
 "work_model": "Onsite",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4466147957",
@@ -28,11 +30,13 @@
 "posted_at": "2026-11-18T16:51Z",
 "found_at": "2026-11-18T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4466832760",
@@ -44,11 +48,13 @@
 "posted_at": "2026-11-18T16:51Z",
 "found_at": "2026-11-18T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4465257011",
@@ -64,7 +70,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4491305725",
@@ -76,11 +82,14 @@
 "posted_at": "2026-11-18T16:40Z",
 "found_at": "2026-11-18T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4484084477",
@@ -92,11 +101,14 @@
 "posted_at": "2026-11-18T16:31Z",
 "found_at": "2026-11-18T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4458202917",
@@ -108,11 +120,13 @@
 "posted_at": "2026-11-18T16:07Z",
 "found_at": "2026-11-18T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4484270162",
@@ -127,8 +141,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4491302345",
@@ -140,11 +154,14 @@
 "posted_at": "2026-11-18T16:07Z",
 "found_at": "2026-11-18T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "6afdc07af3e7976cc6108450",
@@ -341,7 +358,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492031288",
@@ -1517,6 +1534,22 @@
 "work_auth": "Not specified",
 "work_model": "Hybrid",
 "employment": "Full-time"
+},
+{
+"id": "6afde3a38cffea7c97c8de71",
+"source": "Jobright",
+"title": "Summer NetSuite Implementation Intern",
+"company": "Sikich",
+"location": "United States",
+"url": "https://www.ziprecruiter.com/kn/AAL7TP_9cKR-MISXOvdSho-2xOgnmrvcE-qR3H6gUuM0rgQhwcK12SXG94nJ2Bcqjxd-igEPZyHE6C58i-TYmVbPebogSs4BcVdcxjruY0Nq8Fxbj1awVsSNnu5LMcY_wJmN1OXnwoRmSbiNtb7vy2vKbtX96e_qrY3T16OJG64ZXDVzW-P23Gh6EhulLMWLfNi_37VcVKO8xmfdjL-rOaW5qLVVGKqpoJ1GhsvjAbdmRraa0yjKSdFcmFan_Gs9teTlsyxu1KyQ-sj-yKKny517wgvYQmZy2ndlboNCIzxzuRqP_-9TXgb76S2bHDZq58oFF7Z99TtHf8hZPAg8jdkFwsHUAwg64YihygnCg76RnLK6Ca389qrvGl3D7iixuw6eofKe8bS_JkrR7jSkLyPrIwNwZrd7-EIBbhme4B78dPATGEx-WMUd3vB7UJwjP6DXsGY2Mg--1ExCGUYxjAdbm8knm3whiXMWCGT24TmeOMcBcfHQOMNu-So5Dlc?tsid=123468825",
+"posted_at": "2026-11-18T01:03Z",
+"found_at": "2026-11-18T18:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "6afce4e7e8a9612f4e0dcc8c",
