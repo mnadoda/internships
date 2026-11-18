@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-18T20:07Z",
-"count": 706,
+"generated_at": "2026-11-18T21:07Z",
+"count": 707,
 "jobs": [
+{
+"id": "6afe0a760324c008a17e3bcf",
+"source": "Jobright",
+"title": "CI Operations Intern - 2027",
+"company": "Orion Services Group",
+"location": "Boulder, CO",
+"url": "https://job-boards.greenhouse.io/embed/job_app?for=oriongroup&token=4730308006",
+"posted_at": "2026-11-18T20:28Z",
+"found_at": "2026-11-18T21:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "6afe014b758942b6422b6737",
 "source": "Jobright",
@@ -174,7 +190,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Onsite",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "6aeb6b2aa0b134121d99a7ee",
