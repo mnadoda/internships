@@ -2,7 +2,7 @@
    Each template supplies its own controls and row rendering. */
 window.Board = (() => {
   const FILTERS = {
-    posted: [["all","All"],["hour","Last hour"],["today","Today"],["week","This week"]],
+    posted: [["all","All"],["30m","Last 30 min"],["45m","Last 45 min"],["hour","Last hour"],["today","Today"],["week","This week"]],
     degree: [["any","Any degree"],["Bachelor's","Bachelor's / Undergrad"],["Master's","Master's"],["PhD","PhD"],["none","Not specified"]],
     auth:   [["any","Any work auth"],["Authorization required","Authorization required"],["Sponsorship available","Sponsorship available"],["Not specified","Not specified"]],
     model:  [["any","Any work model"],["Remote","Remote"],["Hybrid","Hybrid"],["Onsite","Onsite"]],
@@ -41,6 +41,8 @@ window.Board = (() => {
     const q = state.q.trim().toLowerCase();
     if (q && !(j.title + " " + j.company + " " + j.location).toLowerCase().includes(q)) return false;
     const age = now - new Date(j.posted_at);
+    if (state.posted === "30m" && age > 30 * 60000) return false;
+    if (state.posted === "45m" && age > 45 * 60000) return false;
     if (state.posted === "hour" && age > 3600000) return false;
     if (state.posted === "today" && dayKey(new Date(j.posted_at)) !== dayKey(now)) return false;
     if (state.posted === "week" && age > 7 * 86400000) return false;
