@@ -1,7 +1,106 @@
 {
-"generated_at": "2026-11-19T06:07Z",
-"count": 748,
+"generated_at": "2026-11-19T07:07Z",
+"count": 754,
 "jobs": [
+{
+"id": "4491387145",
+"source": "LinkedIn",
+"title": "Transportation Engineering Intern",
+"company": "Mark Thomas",
+"location": "Roseville, CA",
+"url": "https://www.linkedin.com/jobs/view/transportation-engineering-intern-at-mark-thomas-4491387145",
+"posted_at": "2026-11-19T06:34Z",
+"found_at": "2026-11-19T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4488111637",
+"source": "LinkedIn",
+"title": "Summer Intern Program - San Antonio",
+"company": "Signorelli",
+"location": "San Antonio, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-program-san-antonio-at-signorelli-4488111637",
+"posted_at": "2026-11-19T06:16Z",
+"found_at": "2026-11-19T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492214865",
+"source": "LinkedIn",
+"title": "Risk Services - Summer 2027 Intern",
+"company": "iCapital",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/risk-services-summer-2027-intern-at-icapital-4492214865",
+"posted_at": "2026-11-19T06:07Z",
+"found_at": "2026-11-19T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492124646",
+"source": "LinkedIn",
+"title": "Electrical Engineering Intern",
+"company": "Trane Technologies",
+"location": "Minneapolis, MN",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-intern-at-trane-technologies-4492124646",
+"posted_at": "2026-11-19T06:07Z",
+"found_at": "2026-11-19T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492136195",
+"source": "LinkedIn",
+"title": "Spring/Summer Intern",
+"company": "House of Good Deeds",
+"location": "New York City Metropolitan Area",
+"url": "https://www.linkedin.com/jobs/view/spring-summer-intern-at-house-of-good-deeds-4492136195",
+"posted_at": "2026-11-19T06:07Z",
+"found_at": "2026-11-19T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492292167",
+"source": "LinkedIn",
+"title": "2027 Intern - Human Factors Engineering",
+"company": "Northrop Grumman",
+"location": "Melbourne, FL",
+"url": "https://www.linkedin.com/jobs/view/2027-intern-human-factors-engineering-at-northrop-grumman-4492292167",
+"posted_at": "2026-11-19T06:07Z",
+"found_at": "2026-11-19T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4492295270",
 "source": "LinkedIn",
@@ -65,11 +164,13 @@
 "posted_at": "2026-11-19T05:14Z",
 "found_at": "2026-11-19T06:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4492273725",
@@ -113,11 +214,14 @@
 "posted_at": "2026-11-19T05:07Z",
 "found_at": "2026-11-19T06:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4492279334",
@@ -129,11 +233,13 @@
 "posted_at": "2026-11-19T05:07Z",
 "found_at": "2026-11-19T06:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4491378141",
@@ -149,7 +255,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4492256885",
