@@ -1,7 +1,25 @@
 {
-"generated_at": "2026-11-19T19:07Z",
-"count": 812,
+"generated_at": "2026-11-19T20:07Z",
+"count": 814,
 "jobs": [
+{
+"id": "6aecc5ce3a3fa7f03ea88f75",
+"source": "Jobright",
+"title": "Marketing Strategy MBA Intern (Summer 2027)",
+"company": "Formlabs",
+"location": "Somerville, MA",
+"url": "https://careers.formlabs.com/job/8319365/apply/?gh_jid=8319365",
+"posted_at": "2026-11-19T19:29Z",
+"found_at": "2026-11-19T20:07Z",
+"score": 79,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4492486269",
 "source": "LinkedIn",
@@ -534,7 +552,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4466584143",
@@ -724,11 +742,14 @@
 "posted_at": "2026-11-19T10:07Z",
 "found_at": "2026-11-19T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4484914192",
@@ -1634,6 +1655,22 @@
 "degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "6afe2df5758942b6422b8426",
+"source": "Jobright",
+"title": "Newmark Management Consulting Intern",
+"company": "Newmark",
+"location": "Tulsa, OK",
+"url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/250563",
+"posted_at": "2026-11-18T23:00Z",
+"found_at": "2026-11-19T20:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
 "employment": "Internship"
 },
 {
