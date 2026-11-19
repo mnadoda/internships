@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-19T21:07Z",
+"generated_at": "2026-11-19T22:07Z",
 "count": 824,
 "jobs": [
 {
@@ -548,11 +548,13 @@
 "posted_at": "2026-11-19T13:45Z",
 "found_at": "2026-11-19T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4459067132",
@@ -568,7 +570,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4459045543",
@@ -596,11 +598,14 @@
 "posted_at": "2026-11-19T13:07Z",
 "found_at": "2026-11-19T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4484452911",
@@ -612,11 +617,14 @@
 "posted_at": "2026-11-19T13:07Z",
 "found_at": "2026-11-19T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4492439336",
@@ -632,7 +640,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4476331302",
@@ -648,7 +656,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4467789702",
@@ -661,12 +669,13 @@
 "found_at": "2026-11-19T14:07Z",
 "score": null,
 "degrees": [
+"Bachelor's",
 "Master's"
 ],
-"degree": "Master's",
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4484493153",
@@ -682,7 +691,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4465937066",
