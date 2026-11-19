@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-19T15:07Z",
-"count": 799,
+"generated_at": "2026-11-19T16:07Z",
+"count": 800,
 "jobs": [
+{
+"id": "6aff14aeaea17e3f50eacf6b",
+"source": "Jobright",
+"title": "Associate Intern",
+"company": "McKinsey & Company",
+"location": "Atlanta, GA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/14918",
+"posted_at": "2026-11-19T15:24Z",
+"found_at": "2026-11-19T16:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4476936936",
 "source": "LinkedIn",
@@ -516,11 +532,13 @@
 "posted_at": "2026-11-19T09:07Z",
 "found_at": "2026-11-19T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4484756950",
@@ -551,11 +569,14 @@
 "posted_at": "2026-11-19T09:04Z",
 "found_at": "2026-11-19T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4466505763",
@@ -586,11 +607,13 @@
 "posted_at": "2026-11-19T09:01Z",
 "found_at": "2026-11-19T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4466510922",
