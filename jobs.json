@@ -1,7 +1,167 @@
 {
-"generated_at": "2026-11-19T20:07Z",
-"count": 814,
+"generated_at": "2026-11-19T21:07Z",
+"count": 824,
 "jobs": [
+{
+"id": "4491631431",
+"source": "LinkedIn",
+"title": "Project Engineering Internship",
+"company": "Otter Tail Power Company",
+"location": "Fergus Falls, MN",
+"url": "https://www.linkedin.com/jobs/view/project-engineering-internship-at-otter-tail-power-company-4491631431",
+"posted_at": "2026-11-19T20:25Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492192910",
+"source": "LinkedIn",
+"title": "Survey Intern - Summer 2027",
+"company": "Civil & Environmental Consultants, Inc.",
+"location": "Indianapolis, IN",
+"url": "https://www.linkedin.com/jobs/view/survey-intern-summer-2027-at-civil-environmental-consultants-inc-4492192910",
+"posted_at": "2026-11-19T20:22Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4468328071",
+"source": "LinkedIn",
+"title": "People Movement Intern - New York, Los Angeles, San Diego or Boston - Summer 2027",
+"company": "Buro Happold",
+"location": "Los Angeles, CA",
+"url": "https://www.linkedin.com/jobs/view/people-movement-intern-new-york-los-angeles-san-diego-or-boston-summer-2027-at-buro-happold-4468328071",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492482717",
+"source": "LinkedIn",
+"title": "Customer Care Internship - Summer 2027",
+"company": "Chesapeake Utilities Corporation",
+"location": "DeBary, FL",
+"url": "https://www.linkedin.com/jobs/view/customer-care-internship-summer-2027-at-chesapeake-utilities-corporation-4492482717",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4491637915",
+"source": "LinkedIn",
+"title": "Traveling Project Engineer Intern, Commercial/Industrial",
+"company": "Graycor",
+"location": "Greater Chicago Area",
+"url": "https://www.linkedin.com/jobs/view/traveling-project-engineer-intern-commercial-industrial-at-graycor-4491637915",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4491654094",
+"source": "LinkedIn",
+"title": "Engineering Internship Program",
+"company": "Blue Ventis",
+"location": "San Jose, CA",
+"url": "https://www.linkedin.com/jobs/view/engineering-internship-program-at-blue-ventis-4491654094",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4459070340",
+"source": "LinkedIn",
+"title": "Business Development Intern - Summer 2027",
+"company": "DMA - DuCharme, McMillen & Associates, Inc.",
+"location": "Houston, TX",
+"url": "https://www.linkedin.com/jobs/view/business-development-intern-summer-2027-at-dma-ducharme-mcmillen-associates-inc-4459070340",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492507107",
+"source": "LinkedIn",
+"title": "Northwestern Mutual Spring Internship",
+"company": "Northwestern Mutual",
+"location": "Springfield, MO",
+"url": "https://www.linkedin.com/jobs/view/northwestern-mutual-spring-internship-at-northwestern-mutual-4492507107",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4483517751",
+"source": "LinkedIn",
+"title": "Early Career Intern - Internal Sales (Global Liquidity)",
+"company": "Invesco",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/early-career-intern-internal-sales-global-liquidity-at-invesco-4483517751",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4475974498",
+"source": "LinkedIn",
+"title": "MEP Commissioning Intern",
+"company": "Colliers Engineering & Design",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/mep-commissioning-intern-at-colliers-engineering-design-4475974498",
+"posted_at": "2026-11-19T20:07Z",
+"found_at": "2026-11-19T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "6aecc5ce3a3fa7f03ea88f75",
 "source": "Jobright",
@@ -370,11 +530,13 @@
 "posted_at": "2026-11-19T14:00Z",
 "found_at": "2026-11-19T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4491627150",
@@ -420,9 +582,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4467739866",
@@ -536,7 +698,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4484116975",
@@ -564,11 +726,14 @@
 "posted_at": "2026-11-19T11:07Z",
 "found_at": "2026-11-19T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4465798760",
@@ -580,11 +745,14 @@
 "posted_at": "2026-11-19T11:07Z",
 "found_at": "2026-11-19T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Part-time"
 },
 {
 "id": "4492415450",
