@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-19T16:07Z",
-"count": 800,
+"generated_at": "2026-11-19T17:07Z",
+"count": 802,
 "jobs": [
+{
+"id": "6aff22191c42ea8f6b9fd680",
+"source": "Jobright",
+"title": "Strategy and Deals Intern",
+"company": "Calamos Investments",
+"location": "Chicago, IL",
+"url": "https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=58aeed64-ee9e-44eb-8ece-ee5299103703",
+"posted_at": "2026-11-19T16:21Z",
+"found_at": "2026-11-19T17:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6aff1f491c42ea8f6b9fd4cf",
+"source": "Jobright",
+"title": "Market Strategy Intern – Summer 2027",
+"company": "Henkel",
+"location": "Bridgewater, NJ",
+"url": "https://henkel.csod.com/ux/ats/careersite/1/home/requisition/90603",
+"posted_at": "2026-11-19T16:09Z",
+"found_at": "2026-11-19T17:07Z",
+"score": 85,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "6aff14aeaea17e3f50eacf6b",
 "source": "Jobright",
@@ -390,9 +422,9 @@
 "Bachelor's"
 ],
 "degree": "Bachelor's",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4482566725",
@@ -420,11 +452,13 @@
 "posted_at": "2026-11-19T10:22Z",
 "found_at": "2026-11-19T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4462567587",
@@ -452,11 +486,13 @@
 "posted_at": "2026-11-19T10:16Z",
 "found_at": "2026-11-19T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4457112710",
@@ -468,11 +504,13 @@
 "posted_at": "2026-11-19T10:07Z",
 "found_at": "2026-11-19T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4457107742",
@@ -629,7 +667,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4491393308",
