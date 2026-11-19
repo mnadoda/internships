@@ -1,7 +1,123 @@
 {
-"generated_at": "2026-11-19T14:07Z",
-"count": 792,
+"generated_at": "2026-11-19T15:07Z",
+"count": 799,
 "jobs": [
+{
+"id": "4476936936",
+"source": "LinkedIn",
+"title": "Electrical Engineering Internship - 2027",
+"company": "Mott MacDonald",
+"location": "The Woodlands, TX",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-internship-2027-at-mott-macdonald-4476936936",
+"posted_at": "2026-11-19T14:55Z",
+"found_at": "2026-11-19T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4484159387",
+"source": "LinkedIn",
+"title": "Risk & Safety Intern - Summer 2027",
+"company": "Holmes Murphy",
+"location": "Waukee, IA",
+"url": "https://www.linkedin.com/jobs/view/risk-safety-intern-summer-2027-at-holmes-murphy-4484159387",
+"posted_at": "2026-11-19T14:39Z",
+"found_at": "2026-11-19T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4476951482",
+"source": "LinkedIn",
+"title": "Electrical Engineering Internship - 2027",
+"company": "Mott MacDonald",
+"location": "Austin, TX",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-internship-2027-at-mott-macdonald-4476951482",
+"posted_at": "2026-11-19T14:35Z",
+"found_at": "2026-11-19T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4483153573",
+"source": "LinkedIn",
+"title": "Pharmacy Summer 2027 Intern (Undergraduate)",
+"company": "Centene Corporation",
+"location": "Arkansas, United States",
+"url": "https://www.linkedin.com/jobs/view/pharmacy-summer-2027-intern-undergraduate-at-centene-corporation-4483153573",
+"posted_at": "2026-11-19T14:24Z",
+"found_at": "2026-11-19T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4483162293",
+"source": "LinkedIn",
+"title": "Pharmacy Summer 2027 Intern (Undergraduate)",
+"company": "Centene Corporation",
+"location": "Alabama, United States",
+"url": "https://www.linkedin.com/jobs/view/pharmacy-summer-2027-intern-undergraduate-at-centene-corporation-4483162293",
+"posted_at": "2026-11-19T14:18Z",
+"found_at": "2026-11-19T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4476939589",
+"source": "LinkedIn",
+"title": "Intern/Co-op - HES&S Process Safety (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "Midland, TX",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-hes-s-process-safety-summer-2027-at-marathon-petroleum-corporation-4476939589",
+"posted_at": "2026-11-19T14:12Z",
+"found_at": "2026-11-19T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4475714326",
+"source": "LinkedIn",
+"title": "Systems Engineer Co-op - Summer 2027",
+"company": "RoviSys Building Technologies",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/systems-engineer-co-op-summer-2027-at-rovisys-building-technologies-4475714326",
+"posted_at": "2026-11-19T14:07Z",
+"found_at": "2026-11-19T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "6aff0271b88323bd981baaf9",
 "source": "Jobright",
@@ -416,11 +532,14 @@
 "posted_at": "2026-11-19T09:04Z",
 "found_at": "2026-11-19T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4484758881",
@@ -448,11 +567,14 @@
 "posted_at": "2026-11-19T09:03Z",
 "found_at": "2026-11-19T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4476361308",
@@ -496,11 +618,13 @@
 "posted_at": "2026-11-19T08:20Z",
 "found_at": "2026-11-19T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4491392315",
@@ -512,11 +636,14 @@
 "posted_at": "2026-11-19T08:12Z",
 "found_at": "2026-11-19T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4491397100",
