@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-19T18:07Z",
+"generated_at": "2026-11-19T19:07Z",
 "count": 812,
 "jobs": [
 {
@@ -632,11 +632,14 @@
 "posted_at": "2026-11-19T10:19Z",
 "found_at": "2026-11-19T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4483849847",
@@ -684,11 +687,13 @@
 "posted_at": "2026-11-19T10:07Z",
 "found_at": "2026-11-19T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4465902549",
@@ -700,11 +705,14 @@
 "posted_at": "2026-11-19T10:07Z",
 "found_at": "2026-11-19T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Temporary"
 },
 {
 "id": "4462567586",
