@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-20T20:07Z",
-"count": 929,
+"generated_at": "2026-11-20T21:07Z",
+"count": 930,
 "jobs": [
 {
 "id": "6b00a01be0dc961959282abf",
@@ -550,11 +550,14 @@
 "posted_at": "2026-11-20T14:18Z",
 "found_at": "2026-11-20T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4468242595",
@@ -3537,6 +3540,22 @@
 "work_auth": "Authorization required",
 "work_model": "Not specified",
 "employment": "Part-time"
+},
+{
+"id": "6afe3d0b8cffea7c97c9185d",
+"source": "Jobright",
+"title": "Newmark Management Consulting Intern",
+"company": "Newmark",
+"location": "Oklahoma State",
+"url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250563",
+"posted_at": "2026-11-19T00:04Z",
+"found_at": "2026-11-20T21:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "6affab051126e09fee091e53",
