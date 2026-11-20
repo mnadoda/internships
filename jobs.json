@@ -1,7 +1,25 @@
 {
-"generated_at": "2026-11-20T12:07Z",
-"count": 891,
+"generated_at": "2026-11-20T13:07Z",
+"count": 892,
 "jobs": [
+{
+"id": "6ae378aac3139b475b5ad4f6",
+"source": "Jobright",
+"title": "Strategy and Planning Manager MBA (Intern) - United States",
+"company": "Cisco",
+"location": "San Francisco, CA",
+"url": "https://careers.cisco.com/global/en/job/2024804/strategy-and-planning-manager-mba-intern-united-states",
+"posted_at": "2026-11-20T12:06Z",
+"found_at": "2026-11-20T13:07Z",
+"score": 87,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
 {
 "id": "4475479111",
 "source": "LinkedIn",
@@ -188,11 +206,14 @@
 "posted_at": "2026-11-20T06:41Z",
 "found_at": "2026-11-20T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492797016",
@@ -313,11 +334,13 @@
 "posted_at": "2026-11-20T06:07Z",
 "found_at": "2026-11-20T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Full-time"
 },
 {
 "id": "4491182981",
