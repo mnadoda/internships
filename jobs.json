@@ -1,7 +1,167 @@
 {
-"generated_at": "2026-11-20T14:07Z",
-"count": 892,
+"generated_at": "2026-11-20T15:07Z",
+"count": 902,
 "jobs": [
+{
+"id": "4459359368",
+"source": "LinkedIn",
+"title": "Field Engineer Intern",
+"company": "Pulice",
+"location": "Columbus, TX",
+"url": "https://www.linkedin.com/jobs/view/field-engineer-intern-at-pulice-4459359368",
+"posted_at": "2026-11-20T15:01Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4476953325",
+"source": "LinkedIn",
+"title": "Electrical Engineering Internship - 2027",
+"company": "Mott MacDonald",
+"location": "The Woodlands, TX",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-internship-2027-at-mott-macdonald-4476953325",
+"posted_at": "2026-11-20T14:45Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4475498878",
+"source": "LinkedIn",
+"title": "Environmental Science Intern - Summer 2027",
+"company": "Farnsworth Group, Inc.",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/environmental-science-intern-summer-2027-at-farnsworth-group-inc-4475498878",
+"posted_at": "2026-11-20T14:43Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4468304868",
+"source": "LinkedIn",
+"title": "2027 Summer Intern: Engineering - Utility Automation",
+"company": "Hubbell Incorporated",
+"location": "Boonton, NJ",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-engineering-utility-automation-at-hubbell-incorporated-4468304868",
+"posted_at": "2026-11-20T14:43Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4485225776",
+"source": "LinkedIn",
+"title": "Controls Engineer Intern - Summer 2027",
+"company": "Egan Company",
+"location": "Champlin, MN",
+"url": "https://www.linkedin.com/jobs/view/controls-engineer-intern-summer-2027-at-egan-company-4485225776",
+"posted_at": "2026-11-20T14:41Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4437298767",
+"source": "LinkedIn",
+"title": "2027 Summer Internship",
+"company": "Fortegra",
+"location": "Jacksonville, FL",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-internship-at-fortegra-4437298767",
+"posted_at": "2026-11-20T14:20Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4466580326",
+"source": "LinkedIn",
+"title": "2027 COLLEGE SUMMER INTERN - INFRASTRUCTURE & SUSTAINABILITY",
+"company": "Ingalls Shipbuilding, a Division of HII",
+"location": "Pascagoula, MS",
+"url": "https://www.linkedin.com/jobs/view/2027-college-summer-intern-infrastructure-sustainability-at-ingalls-shipbuilding-a-division-of-hii-4466580326",
+"posted_at": "2026-11-20T14:18Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4468242595",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "Cadiz, OH",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-midstream-natural-gas-and-ngl-services-chemical-mechanical-civil-petroleum-electrical-engineering-summer-2027-at-marathon-petroleum-corporation-4468242595",
+"posted_at": "2026-11-20T14:13Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4491918816",
+"source": "LinkedIn",
+"title": "Security Analyst Intern",
+"company": "Future Mode",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/security-analyst-intern-at-future-mode-4491918816",
+"posted_at": "2026-11-20T14:07Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4466546658",
+"source": "LinkedIn",
+"title": "2027 Civil Summer Internship",
+"company": "Wallace Design Collective",
+"location": "Kansas City, MO",
+"url": "https://www.linkedin.com/jobs/view/2027-civil-summer-internship-at-wallace-design-collective-4466546658",
+"posted_at": "2026-11-20T14:07Z",
+"found_at": "2026-11-20T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "6ae378aac3139b475b5ad4f6",
 "source": "Jobright",
@@ -30,11 +190,13 @@
 "posted_at": "2026-11-20T12:01Z",
 "found_at": "2026-11-20T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4484534633",
@@ -62,11 +224,13 @@
 "posted_at": "2026-11-20T11:49Z",
 "found_at": "2026-11-20T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4475712400",
@@ -78,11 +242,13 @@
 "posted_at": "2026-11-20T11:49Z",
 "found_at": "2026-11-20T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4491913488",
@@ -94,11 +260,14 @@
 "posted_at": "2026-11-20T11:27Z",
 "found_at": "2026-11-20T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4466227951",
@@ -110,11 +279,13 @@
 "posted_at": "2026-11-20T11:07Z",
 "found_at": "2026-11-20T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4476244440",
@@ -129,8 +300,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4474852929",
@@ -142,11 +313,14 @@
 "posted_at": "2026-11-20T11:07Z",
 "found_at": "2026-11-20T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4477499271",
@@ -162,7 +336,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4485203231",
