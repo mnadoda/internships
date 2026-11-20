@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-20T18:07Z",
-"count": 915,
+"generated_at": "2026-11-20T19:07Z",
+"count": 916,
 "jobs": [
+{
+"id": "6b0094610f536e0ba7275353",
+"source": "Jobright",
+"title": "Intern, AI-Powered Competitive Intelligence & Revenue Analytics",
+"company": "Carnival Corporation",
+"location": "Seattle, WA",
+"url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14511",
+"posted_at": "2026-11-20T18:41Z",
+"found_at": "2026-11-20T19:07Z",
+"score": 83,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
 {
 "id": "6b008c3c89d8ca1e84957246",
 "source": "Jobright",
@@ -357,7 +373,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4466546658",
