@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-19T23:07Z",
+"generated_at": "2026-11-20T00:07Z",
 "count": 835,
 "jobs": [
 {
@@ -634,9 +634,9 @@
 "Bachelor's"
 ],
 "degree": "Bachelor's",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4483162293",
