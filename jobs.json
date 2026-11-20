@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-20T02:08Z",
+"generated_at": "2026-11-20T03:07Z",
 "count": 851,
 "jobs": [
 {
@@ -12,11 +12,13 @@
 "posted_at": "2026-11-20T01:07Z",
 "found_at": "2026-11-20T02:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4492767096",
@@ -28,11 +30,13 @@
 "posted_at": "2026-11-20T01:07Z",
 "found_at": "2026-11-20T02:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Temporary"
 },
 {
 "id": "4492527439",
@@ -47,8 +51,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4491664469",
