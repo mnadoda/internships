@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-20T05:07Z",
+"generated_at": "2026-11-20T06:07Z",
 "count": 871,
 "jobs": [
 {
@@ -114,11 +114,14 @@
 "posted_at": "2026-11-20T04:38Z",
 "found_at": "2026-11-20T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4492546439",
@@ -148,11 +151,13 @@
 "posted_at": "2026-11-20T04:34Z",
 "found_at": "2026-11-20T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4492770817",
