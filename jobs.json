@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-20T15:07Z",
+"generated_at": "2026-11-20T16:07Z",
 "count": 902,
 "jobs": [
 {
@@ -208,11 +208,14 @@
 "posted_at": "2026-11-20T11:59Z",
 "found_at": "2026-11-20T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4475708658",
@@ -352,7 +355,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "6ae3b43dfb2cd420ace535a2",
