@@ -1,7 +1,178 @@
 {
-"generated_at": "2026-11-20T04:07Z",
-"count": 861,
+"generated_at": "2026-11-20T05:07Z",
+"count": 871,
 "jobs": [
+{
+"id": "4492781413",
+"source": "LinkedIn",
+"title": "Target Creative Intern-Minneapolis, MN (Starting Summer 2027)",
+"company": "Target",
+"location": "Minneapolis, MN",
+"url": "https://www.linkedin.com/jobs/view/target-creative-intern-minneapolis-mn-starting-summer-2027-at-target-4492781413",
+"posted_at": "2026-11-20T05:06Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4491698115",
+"source": "LinkedIn",
+"title": "Network Engineering & Operations Intern",
+"company": "Leidos",
+"location": "Scott AFB, IL",
+"url": "https://www.linkedin.com/jobs/view/network-engineering-operations-intern-at-leidos-4491698115",
+"posted_at": "2026-11-20T05:02Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4492781325",
+"source": "LinkedIn",
+"title": "Paid Summer Sales Internship - No Experience + Training",
+"company": "Lotus Sales",
+"location": "Monett, MO",
+"url": "https://www.linkedin.com/jobs/view/paid-summer-sales-internship-no-experience-%2B-training-at-lotus-sales-4492781325",
+"posted_at": "2026-11-20T04:49Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4492786164",
+"source": "LinkedIn",
+"title": "Paid Summer Sales Internship - No Experience + Training",
+"company": "Lotus Sales",
+"location": "Nixa, MO",
+"url": "https://www.linkedin.com/jobs/view/paid-summer-sales-internship-no-experience-%2B-training-at-lotus-sales-4492786164",
+"posted_at": "2026-11-20T04:49Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4492782194",
+"source": "LinkedIn",
+"title": "Wealth Rotational Summer Internship 2027",
+"company": "Johnson Financial Group",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/wealth-rotational-summer-internship-2027-at-johnson-financial-group-4492782194",
+"posted_at": "2026-11-20T04:45Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "6affcf86865dbcc3f26fec49",
+"source": "Jobright",
+"title": "Payment Strategy Project Intern (Global Payment LATAM) - 2026 Start (MBA)",
+"company": "ByteDance",
+"location": "Boston, MA",
+"url": "https://joinbytedance.com/search/7524549058959689992",
+"posted_at": "2026-11-20T04:41Z",
+"found_at": "2026-11-20T05:07Z",
+"score": 84,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4492769902",
+"source": "LinkedIn",
+"title": "NEON Field Ecology Intern - WI",
+"company": "Battelle",
+"location": "Land O' Lakes, WI",
+"url": "https://www.linkedin.com/jobs/view/neon-field-ecology-intern-wi-at-battelle-4492769902",
+"posted_at": "2026-11-20T04:38Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492546439",
+"source": "LinkedIn",
+"title": "Portfolio, Capacity & AI-Enabled Business Operations Intern",
+"company": "AstraZeneca",
+"location": "Gaithersburg, MD",
+"url": "https://www.linkedin.com/jobs/view/portfolio-capacity-ai-enabled-business-operations-intern-at-astrazeneca-4492546439",
+"posted_at": "2026-11-20T04:34Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4492546442",
+"source": "LinkedIn",
+"title": "Materials Planning Summer Intern",
+"company": "AstraZeneca",
+"location": "Gaithersburg, MD",
+"url": "https://www.linkedin.com/jobs/view/materials-planning-summer-intern-at-astrazeneca-4492546442",
+"posted_at": "2026-11-20T04:34Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492770817",
+"source": "LinkedIn",
+"title": "Intern, Enterprise Growth & Strategic Accounts",
+"company": "Parspec",
+"location": "San Mateo, CA",
+"url": "https://www.linkedin.com/jobs/view/intern-enterprise-growth-strategic-accounts-at-parspec-4492770817",
+"posted_at": "2026-11-20T04:30Z",
+"found_at": "2026-11-20T05:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4492766758",
 "source": "LinkedIn",
@@ -12,11 +183,14 @@
 "posted_at": "2026-11-20T04:06Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4491688322",
@@ -28,11 +202,14 @@
 "posted_at": "2026-11-20T04:03Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4491677801",
@@ -44,11 +221,14 @@
 "posted_at": "2026-11-20T04:03Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4492776294",
@@ -60,11 +240,14 @@
 "posted_at": "2026-11-20T04:00Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Full-time"
 },
 {
 "id": "4492754983",
@@ -76,11 +259,13 @@
 "posted_at": "2026-11-20T03:54Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4492759867",
@@ -92,11 +277,14 @@
 "posted_at": "2026-11-20T03:52Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4492767619",
@@ -108,11 +296,14 @@
 "posted_at": "2026-11-20T03:51Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4491647523",
@@ -124,11 +315,13 @@
 "posted_at": "2026-11-20T03:07Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4492542260",
@@ -143,8 +336,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4492767465",
@@ -156,11 +349,13 @@
 "posted_at": "2026-11-20T03:07Z",
 "found_at": "2026-11-20T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4491657765",
@@ -280,11 +475,14 @@
 "posted_at": "2026-11-20T01:07Z",
 "found_at": "2026-11-20T02:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4491663538",
