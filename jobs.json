@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-21T05:07Z",
+"generated_at": "2026-11-21T06:07Z",
 "count": 974,
 "jobs": [
 {
@@ -1010,9 +1010,9 @@
 "Bachelor's"
 ],
 "degree": "Bachelor's",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4466211880",
@@ -1024,11 +1024,14 @@
 "posted_at": "2026-11-20T16:39Z",
 "found_at": "2026-11-20T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4491931747",
