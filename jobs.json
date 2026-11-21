@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-21T15:07Z",
-"count": 1026,
+"generated_at": "2026-11-21T16:07Z",
+"count": 1029,
 "jobs": [
+{
+"id": "4474852620",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship (Remote)",
+"company": "Terminix",
+"location": "Memphis, TN",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-remote-at-terminix-4474852620",
+"posted_at": "2026-11-21T15:34Z",
+"found_at": "2026-11-21T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": ""
+},
+{
+"id": "4492313526",
+"source": "LinkedIn",
+"title": "Advanced Analytics Intern",
+"company": "Future Mode",
+"location": "Phoenix, AZ",
+"url": "https://www.linkedin.com/jobs/view/advanced-analytics-intern-at-future-mode-4492313526",
+"posted_at": "2026-11-21T15:32Z",
+"found_at": "2026-11-21T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4485368230",
+"source": "LinkedIn",
+"title": "Engineering Intern (Summer 2027)",
+"company": "HBK Engineering, LLC",
+"location": "Jackson County, MO",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-hbk-engineering-llc-4485368230",
+"posted_at": "2026-11-21T15:21Z",
+"found_at": "2026-11-21T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4492310600",
 "source": "LinkedIn",
@@ -1166,7 +1214,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4493237517",
