@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-21T19:07Z",
+"generated_at": "2026-11-21T20:07Z",
 "count": 1045,
 "jobs": [
 {
@@ -1354,11 +1354,13 @@
 "posted_at": "2026-11-21T03:07Z",
 "found_at": "2026-11-21T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492871192",
