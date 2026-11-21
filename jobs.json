@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-21T22:07Z",
-"count": 1054,
+"generated_at": "2026-11-21T23:07Z",
+"count": 1055,
 "jobs": [
 {
 "id": "4492315792",
@@ -387,6 +387,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": ""
+},
+{
+"id": "6b02206c9378f7b150e11b24",
+"source": "Jobright",
+"title": "Summer Intern 2027 | Strategy and Corporate Development",
+"company": "Agile Space Industries",
+"location": "Denver, CO",
+"url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682207",
+"posted_at": "2026-11-21T16:50Z",
+"found_at": "2026-11-21T23:07Z",
+"score": 83,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4474852620",
@@ -1300,7 +1316,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4491748867",
@@ -1414,11 +1430,13 @@
 "posted_at": "2026-11-21T04:00Z",
 "found_at": "2026-11-21T04:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"PhD"
+],
+"degree": "PhD",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4491992399",
