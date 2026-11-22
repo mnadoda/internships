@@ -1,7 +1,79 @@
 {
-"generated_at": "2026-11-22T05:07Z",
-"count": 1086,
+"generated_at": "2026-11-22T06:07Z",
+"count": 1090,
 "jobs": [
+{
+"id": "4486951702",
+"source": "LinkedIn",
+"title": "Intern, R&D Undergradudate Year-Round -  Center for Integrated Nanotechnologies (CINT), Onsite",
+"company": "Sandia National Laboratories",
+"location": "Albuquerque, NM",
+"url": "https://www.linkedin.com/jobs/view/intern-r-d-undergradudate-year-round-center-for-integrated-nanotechnologies-cint-onsite-at-sandia-national-laboratories-4486951702",
+"posted_at": "2026-11-22T05:54Z",
+"found_at": "2026-11-22T06:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4493318665",
+"source": "LinkedIn",
+"title": "2027 Critical Skills Development Intern - Remote",
+"company": "Northrop Grumman",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/2027-critical-skills-development-intern-remote-at-northrop-grumman-4493318665",
+"posted_at": "2026-11-22T05:49Z",
+"found_at": "2026-11-22T06:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4493337174",
+"source": "LinkedIn",
+"title": "SUMMER INTERN - STATE FARM AGENT TEAM MEMBER",
+"company": "Kevin Craft - State Farm Insurance Agent",
+"location": "Guthrie, OK",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-state-farm-agent-team-member-at-kevin-craft-state-farm-insurance-agent-4493337174",
+"posted_at": "2026-11-22T05:39Z",
+"found_at": "2026-11-22T06:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4492337663",
+"source": "LinkedIn",
+"title": "Thermal Engineering Intern",
+"company": "BeamSphere",
+"location": "Los Angeles, CA",
+"url": "https://www.linkedin.com/jobs/view/thermal-engineering-intern-at-beamsphere-4492337663",
+"posted_at": "2026-11-22T05:11Z",
+"found_at": "2026-11-22T06:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Full-time"
+},
 {
 "id": "4493329177",
 "source": "LinkedIn",
@@ -1600,11 +1672,13 @@
 "posted_at": "2026-11-21T08:12Z",
 "found_at": "2026-11-21T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4491998511",
@@ -1616,11 +1690,14 @@
 "posted_at": "2026-11-21T08:12Z",
 "found_at": "2026-11-21T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4491996518",
@@ -1794,12 +1871,13 @@
 "found_at": "2026-11-21T07:07Z",
 "score": null,
 "degrees": [
+"Bachelor's",
 "Master's"
 ],
-"degree": "Master's",
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4493245849",
