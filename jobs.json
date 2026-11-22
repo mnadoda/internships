@@ -1,7 +1,167 @@
 {
-"generated_at": "2026-11-22T09:07Z",
-"count": 1100,
+"generated_at": "2026-11-22T10:08Z",
+"count": 1109,
 "jobs": [
+{
+"id": "4469241124",
+"source": "LinkedIn",
+"title": "Intern/Co-op – Traffic Engineering (Summer 2027)",
+"company": "Langan Engineering & Environmental Services",
+"location": "Pittsburgh, PA",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-%E2%80%93-traffic-engineering-summer-2027-at-langan-engineering-environmental-services-4469241124",
+"posted_at": "2026-11-22T10:06Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492359045",
+"source": "LinkedIn",
+"title": "Remote - Security Analyst Intern",
+"company": "PathQuest",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/remote-security-analyst-intern-at-pathquest-4492359045",
+"posted_at": "2026-11-22T10:05Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4467839779",
+"source": "LinkedIn",
+"title": "Walmart Sales Co-Op Summer 2027",
+"company": "Bob Evans Farms, Inc.",
+"location": "Rogers, AR",
+"url": "https://www.linkedin.com/jobs/view/walmart-sales-co-op-summer-2027-at-bob-evans-farms-inc-4467839779",
+"posted_at": "2026-11-22T10:01Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4483950166",
+"source": "LinkedIn",
+"title": "Power Distribution Intern",
+"company": "TRC Companies, Inc.",
+"location": "Carrollton, GA",
+"url": "https://www.linkedin.com/jobs/view/power-distribution-intern-at-trc-companies-inc-4483950166",
+"posted_at": "2026-11-22T09:56Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4483950165",
+"source": "LinkedIn",
+"title": "Power Distribution Intern",
+"company": "TRC Companies, Inc.",
+"location": "Lanham, MD",
+"url": "https://www.linkedin.com/jobs/view/power-distribution-intern-at-trc-companies-inc-4483950165",
+"posted_at": "2026-11-22T09:44Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4459604827",
+"source": "LinkedIn",
+"title": "Crisis Management Meteorology Intern",
+"company": "Ameren",
+"location": "Peoria, IL",
+"url": "https://www.linkedin.com/jobs/view/crisis-management-meteorology-intern-at-ameren-4459604827",
+"posted_at": "2026-11-22T09:25Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4458977498",
+"source": "LinkedIn",
+"title": "(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)",
+"company": "Charles River Associates",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/2028-bachelor-s-master-s-graduates-economics-consulting-analyst-associate-intern-summer-2027-at-charles-river-associates-4458977498",
+"posted_at": "2026-11-22T09:20Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4458988316",
+"source": "LinkedIn",
+"title": "(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)",
+"company": "Charles River Associates",
+"location": "Salt Lake City, UT",
+"url": "https://www.linkedin.com/jobs/view/2028-bachelor-s-master-s-graduates-economics-consulting-analyst-associate-intern-summer-2027-at-charles-river-associates-4458988316",
+"posted_at": "2026-11-22T09:10Z",
+"found_at": "2026-11-22T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "6a55f12b21f64463ad350edc",
+"source": "Jobright",
+"title": "TikTok Shop e-Commerce Strategic Specialist Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)",
+"company": "TikTok",
+"location": "Los Angeles, CA",
+"url": "https://lifeattiktok.com/search/7618328711605864709",
+"posted_at": "2026-11-22T08:32Z",
+"found_at": "2026-11-22T10:08Z",
+"score": 82,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4492355010",
 "source": "LinkedIn",
@@ -1740,9 +1900,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4485107652",
@@ -1802,11 +1962,14 @@
 "posted_at": "2026-11-21T09:05Z",
 "found_at": "2026-11-21T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4467996664",
@@ -1892,11 +2055,14 @@
 "posted_at": "2026-11-21T08:07Z",
 "found_at": "2026-11-21T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4493258803",
