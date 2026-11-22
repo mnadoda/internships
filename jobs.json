@@ -1,7 +1,103 @@
 {
-"generated_at": "2026-11-22T14:07Z",
-"count": 1130,
+"generated_at": "2026-11-22T15:08Z",
+"count": 1136,
 "jobs": [
+{
+"id": "4458918010",
+"source": "LinkedIn",
+"title": "Client Service Intern - Summer 2027",
+"company": "Holmes Murphy",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/client-service-intern-summer-2027-at-holmes-murphy-4458918010",
+"posted_at": "2026-11-22T14:55Z",
+"found_at": "2026-11-22T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Part-time"
+},
+{
+"id": "4469540378",
+"source": "LinkedIn",
+"title": "Intern - Information Technology Systems",
+"company": "General Atomics",
+"location": "San Diego, CA",
+"url": "https://www.linkedin.com/jobs/view/intern-information-technology-systems-at-general-atomics-4469540378",
+"posted_at": "2026-11-22T14:53Z",
+"found_at": "2026-11-22T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4458906241",
+"source": "LinkedIn",
+"title": "Client Service Intern - Summer 2027",
+"company": "Holmes Murphy",
+"location": "Minneapolis, MN",
+"url": "https://www.linkedin.com/jobs/view/client-service-intern-summer-2027-at-holmes-murphy-4458906241",
+"posted_at": "2026-11-22T14:47Z",
+"found_at": "2026-11-22T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Part-time"
+},
+{
+"id": "4458043048",
+"source": "LinkedIn",
+"title": "Georgia-Pacific Supply Chain Internship (JumpStart) – Summer 2027",
+"company": "Georgia-Pacific LLC",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/georgia-pacific-supply-chain-internship-jumpstart-%E2%80%93-summer-2027-at-georgia-pacific-llc-4458043048",
+"posted_at": "2026-11-22T14:42Z",
+"found_at": "2026-11-22T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4460385049",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Refining Electrical Engineering (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "Canton, OH",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-summer-2027-at-marathon-petroleum-corporation-4460385049",
+"posted_at": "2026-11-22T14:28Z",
+"found_at": "2026-11-22T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4460374234",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Refining Electrical Engineering (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "Mandan, ND",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-summer-2027-at-marathon-petroleum-corporation-4460374234",
+"posted_at": "2026-11-22T14:16Z",
+"found_at": "2026-11-22T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4460366653",
 "source": "LinkedIn",
@@ -1920,11 +2016,14 @@
 "posted_at": "2026-11-21T13:00Z",
 "found_at": "2026-11-21T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4476889516",
@@ -1952,11 +2051,14 @@
 "posted_at": "2026-11-21T12:44Z",
 "found_at": "2026-11-21T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4493271666",
@@ -1968,11 +2070,13 @@
 "posted_at": "2026-11-21T12:21Z",
 "found_at": "2026-11-21T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4493285280",
@@ -2016,11 +2120,13 @@
 "posted_at": "2026-11-21T12:07Z",
 "found_at": "2026-11-21T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Full-time"
 },
 {
 "id": "4483903320",
@@ -2084,7 +2190,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4485621484",
@@ -2134,11 +2240,14 @@
 "posted_at": "2026-11-21T10:33Z",
 "found_at": "2026-11-21T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4475278212",
@@ -2150,11 +2259,14 @@
 "posted_at": "2026-11-21T10:23Z",
 "found_at": "2026-11-21T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4485648239",
@@ -2222,7 +2334,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4474865085",
