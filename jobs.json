@@ -1,7 +1,42 @@
 {
-"generated_at": "2026-11-22T15:08Z",
-"count": 1136,
+"generated_at": "2026-11-22T16:07Z",
+"count": 1138,
 "jobs": [
+{
+"id": "4468818169",
+"source": "LinkedIn",
+"title": "Summer Intern - Agile Management Solutions",
+"company": "The Options Clearing Corporation (OCC)",
+"location": "Greater Chicago Area",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-agile-management-solutions-at-the-options-clearing-corporation-occ-4468818169",
+"posted_at": "2026-11-22T15:28Z",
+"found_at": "2026-11-22T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4460385275",
+"source": "LinkedIn",
+"title": "Human Resources Intern | Summer 2027",
+"company": "Tractor Supply Company",
+"location": "Brentwood, TN",
+"url": "https://www.linkedin.com/jobs/view/human-resources-intern-summer-2027-at-tractor-supply-company-4460385275",
+"posted_at": "2026-11-22T15:24Z",
+"found_at": "2026-11-22T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4458918010",
 "source": "LinkedIn",
@@ -2088,11 +2123,14 @@
 "posted_at": "2026-11-21T12:21Z",
 "found_at": "2026-11-21T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4493281333",
@@ -2138,11 +2176,14 @@
 "posted_at": "2026-11-21T12:07Z",
 "found_at": "2026-11-21T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4485636817",
