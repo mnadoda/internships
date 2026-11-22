@@ -1,7 +1,188 @@
 {
-"generated_at": "2026-11-22T13:07Z",
-"count": 1120,
+"generated_at": "2026-11-22T14:07Z",
+"count": 1130,
 "jobs": [
+{
+"id": "4460366653",
+"source": "LinkedIn",
+"title": "Electrical Engineering (ESSP) Intern - Summer 2027",
+"company": "WSP in the U.S.",
+"location": "Denver, CO",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-essp-intern-summer-2027-at-wsp-in-the-u-s-4460366653",
+"posted_at": "2026-11-22T13:55Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4468046200",
+"source": "LinkedIn",
+"title": "Demand Planning Intern-Dallas",
+"company": "Randa Apparel & Accessories",
+"location": "Farmers Branch, TX",
+"url": "https://www.linkedin.com/jobs/view/demand-planning-intern-dallas-at-randa-apparel-accessories-4468046200",
+"posted_at": "2026-11-22T13:53Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4477829557",
+"source": "LinkedIn",
+"title": "Traffic/ ITS Engineering Intern - Summer 2027",
+"company": "Jacobs",
+"location": "Philadelphia, PA",
+"url": "https://www.linkedin.com/jobs/view/traffic-its-engineering-intern-summer-2027-at-jacobs-4477829557",
+"posted_at": "2026-11-22T13:41Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4466926338",
+"source": "LinkedIn",
+"title": "2027 Summer Intern: Renewables Intern",
+"company": "UL Solutions",
+"location": "Northbrook, IL",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-renewables-intern-at-ul-solutions-4466926338",
+"posted_at": "2026-11-22T13:15Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4492364013",
+"source": "LinkedIn",
+"title": "Marketing & Outreach Intern Baltimore",
+"company": "K&I Healthcare Services, LLC",
+"location": "Baltimore, MD",
+"url": "https://www.linkedin.com/jobs/view/marketing-outreach-intern-baltimore-at-k-i-healthcare-services-llc-4492364013",
+"posted_at": "2026-11-22T13:07Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4492362145",
+"source": "LinkedIn",
+"title": "Marketing & Outreach Intern Waldorf",
+"company": "K&I Healthcare Services, LLC",
+"location": "Waldorf, MD",
+"url": "https://www.linkedin.com/jobs/view/marketing-outreach-intern-waldorf-at-k-i-healthcare-services-llc-4492362145",
+"posted_at": "2026-11-22T13:07Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4458911160",
+"source": "LinkedIn",
+"title": "Client Service Intern - Summer 2027",
+"company": "Holmes Murphy",
+"location": "Omaha, NE",
+"url": "https://www.linkedin.com/jobs/view/client-service-intern-summer-2027-at-holmes-murphy-4458911160",
+"posted_at": "2026-11-22T13:07Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Part-time"
+},
+{
+"id": "4460512935",
+"source": "LinkedIn",
+"title": "Service Technology Engineering Intern - Graduate Level (Summer 2027)",
+"company": "Vertiv",
+"location": "Westerville, OH",
+"url": "https://www.linkedin.com/jobs/view/service-technology-engineering-intern-graduate-level-summer-2027-at-vertiv-4460512935",
+"posted_at": "2026-11-22T13:07Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4469501115",
+"source": "LinkedIn",
+"title": "Risk Management Student Intern - Summer 2027",
+"company": "Encompass Health",
+"location": "Birmingham, AL",
+"url": "https://www.linkedin.com/jobs/view/risk-management-student-intern-summer-2027-at-encompass-health-4469501115",
+"posted_at": "2026-11-22T13:07Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Contract"
+},
+{
+"id": "4468676113",
+"source": "LinkedIn",
+"title": "Engineering Intern – Summer 2027",
+"company": "MacLean-Fogg",
+"location": "Buffalo, NY",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-%E2%80%93-summer-2027-at-maclean-fogg-4468676113",
+"posted_at": "2026-11-22T13:07Z",
+"found_at": "2026-11-22T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4458938027",
 "source": "LinkedIn",
