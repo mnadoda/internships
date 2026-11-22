@@ -1,7 +1,167 @@
 {
-"generated_at": "2026-11-21T23:07Z",
-"count": 1055,
+"generated_at": "2026-11-22T00:07Z",
+"count": 1065,
 "jobs": [
+{
+"id": "4492896970",
+"source": "LinkedIn",
+"title": "2027 Ogilvy Creative Summer Internship",
+"company": "Ogilvy New York",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-ogilvy-creative-summer-internship-at-ogilvy-new-york-4492896970",
+"posted_at": "2026-11-21T23:25Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492898999",
+"source": "LinkedIn",
+"title": "2027 The Ogilvy Group General Summer Internship",
+"company": "Ogilvy New York",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-the-ogilvy-group-general-summer-internship-at-ogilvy-new-york-4492898999",
+"posted_at": "2026-11-21T23:25Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492317781",
+"source": "LinkedIn",
+"title": "Summer Intern: Evaluation & Impact",
+"company": "Collections That Care",
+"location": "Philadelphia, PA",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-evaluation-impact-at-collections-that-care-4492317781",
+"posted_at": "2026-11-21T23:16Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492321569",
+"source": "LinkedIn",
+"title": "Summer Intern: Volunteer & Tour Programs",
+"company": "Collections That Care",
+"location": "Philadelphia, PA",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-volunteer-tour-programs-at-collections-that-care-4492321569",
+"posted_at": "2026-11-21T23:16Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492327337",
+"source": "LinkedIn",
+"title": "2027 Ogilvy Creative Summer Internship",
+"company": "Ogilvy",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/2027-ogilvy-creative-summer-internship-at-ogilvy-4492327337",
+"posted_at": "2026-11-21T23:07Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492324420",
+"source": "LinkedIn",
+"title": "2027 Ogilvy Creative Summer Internship",
+"company": "Ogilvy",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-ogilvy-creative-summer-internship-at-ogilvy-4492324420",
+"posted_at": "2026-11-21T23:07Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492514702",
+"source": "LinkedIn",
+"title": "New York Store Design Summer 2027 Intern",
+"company": "EssilorLuxottica",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/new-york-store-design-summer-2027-intern-at-essilorluxottica-4492514702",
+"posted_at": "2026-11-21T23:07Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492320556",
+"source": "LinkedIn",
+"title": "Sales Consultant Intern",
+"company": "Orlin Circle",
+"location": "Tampa, FL",
+"url": "https://www.linkedin.com/jobs/view/sales-consultant-intern-at-orlin-circle-4492320556",
+"posted_at": "2026-11-21T23:07Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492319495",
+"source": "LinkedIn",
+"title": "Supply Chain & Operations Intern",
+"company": "TechMendra Systems",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/supply-chain-operations-intern-at-techmendra-systems-4492319495",
+"posted_at": "2026-11-21T23:07Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492333053",
+"source": "LinkedIn",
+"title": "2027 The Ogilvy Group General Summer Internship",
+"company": "Village Marketing",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/2027-the-ogilvy-group-general-summer-internship-at-village-marketing-4492333053",
+"posted_at": "2026-11-21T23:07Z",
+"found_at": "2026-11-22T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4492315792",
 "source": "LinkedIn",
@@ -1198,11 +1358,14 @@
 "posted_at": "2026-11-21T06:07Z",
 "found_at": "2026-11-21T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4493247909",
@@ -1296,11 +1459,13 @@
 "posted_at": "2026-11-21T04:55Z",
 "found_at": "2026-11-21T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493253614",
@@ -1328,11 +1493,13 @@
 "posted_at": "2026-11-21T04:50Z",
 "found_at": "2026-11-21T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Part-time"
 },
 {
 "id": "4493259421",
@@ -1348,7 +1515,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4491312111",
@@ -1360,11 +1527,15 @@
 "posted_at": "2026-11-21T04:10Z",
 "found_at": "2026-11-21T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Part-time"
 },
 {
 "id": "4492861794",
