@@ -1,7 +1,80 @@
 {
-"generated_at": "2026-11-22T07:07Z",
-"count": 1096,
+"generated_at": "2026-11-22T08:07Z",
+"count": 1100,
 "jobs": [
+{
+"id": "4492355010",
+"source": "LinkedIn",
+"title": "Applied Science Intern",
+"company": "Oakline Talent Solutions",
+"location": "Austin, TX",
+"url": "https://www.linkedin.com/jobs/view/applied-science-intern-at-oakline-talent-solutions-4492355010",
+"posted_at": "2026-11-22T07:29Z",
+"found_at": "2026-11-22T08:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4493318729",
+"source": "LinkedIn",
+"title": "Strategic Operations Intern",
+"company": "MyDigitalWork",
+"location": "Utica-Rome Area",
+"url": "https://www.linkedin.com/jobs/view/strategic-operations-intern-at-mydigitalwork-4493318729",
+"posted_at": "2026-11-22T07:19Z",
+"found_at": "2026-11-22T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4493174014",
+"source": "LinkedIn",
+"title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027",
+"company": "NVIDIA",
+"location": "Santa Clara, CA",
+"url": "https://www.linkedin.com/jobs/view/technical-marketing-engineering-intern-digital-biology-and-scientific-computing-summer-2027-at-nvidia-4493174014",
+"posted_at": "2026-11-22T07:07Z",
+"found_at": "2026-11-22T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4492351249",
+"source": "LinkedIn",
+"title": "Packaging Operations Intern",
+"company": "Solvyr",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/packaging-operations-intern-at-solvyr-4492351249",
+"posted_at": "2026-11-22T07:07Z",
+"found_at": "2026-11-22T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4493173092",
 "source": "LinkedIn",
@@ -1627,11 +1700,14 @@
 "posted_at": "2026-11-21T09:06Z",
 "found_at": "2026-11-21T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4485115588",
@@ -1643,11 +1719,14 @@
 "posted_at": "2026-11-21T09:06Z",
 "found_at": "2026-11-21T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4477137940",
@@ -1755,11 +1834,14 @@
 "posted_at": "2026-11-21T09:02Z",
 "found_at": "2026-11-21T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4491992852",
