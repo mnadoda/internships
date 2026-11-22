@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-22T02:07Z",
+"generated_at": "2026-11-22T03:07Z",
 "count": 1076,
 "jobs": [
 {
@@ -1488,11 +1488,14 @@
 "posted_at": "2026-11-21T06:44Z",
 "found_at": "2026-11-21T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4491986914",
@@ -1504,11 +1507,13 @@
 "posted_at": "2026-11-21T06:23Z",
 "found_at": "2026-11-21T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4491985865",
@@ -1520,11 +1525,13 @@
 "posted_at": "2026-11-21T06:10Z",
 "found_at": "2026-11-21T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4491998348",
@@ -1555,11 +1562,14 @@
 "posted_at": "2026-11-21T06:07Z",
 "found_at": "2026-11-21T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4493248829",
@@ -1571,11 +1581,13 @@
 "posted_at": "2026-11-21T06:07Z",
 "found_at": "2026-11-21T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4482721252",
@@ -1591,7 +1603,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Temporary"
 },
 {
 "id": "4493224344",
@@ -1603,11 +1615,13 @@
 "posted_at": "2026-11-21T06:07Z",
 "found_at": "2026-11-21T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4493250912",
