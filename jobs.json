@@ -1,7 +1,95 @@
 {
-"generated_at": "2026-11-22T19:08Z",
-"count": 1148,
+"generated_at": "2026-11-22T20:07Z",
+"count": 1153,
 "jobs": [
+{
+"id": "4492354766",
+"source": "LinkedIn",
+"title": "Operations Intern",
+"company": "DrewFeig",
+"location": "Madison, WI",
+"url": "https://www.linkedin.com/jobs/view/operations-intern-at-drewfeig-4492354766",
+"posted_at": "2026-11-22T20:05Z",
+"found_at": "2026-11-22T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4492365340",
+"source": "LinkedIn",
+"title": "Security Analyst Intern",
+"company": "Trivelo Marketing",
+"location": "Charlotte, NC",
+"url": "https://www.linkedin.com/jobs/view/security-analyst-intern-at-trivelo-marketing-4492365340",
+"posted_at": "2026-11-22T19:31Z",
+"found_at": "2026-11-22T20:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4493383771",
+"source": "LinkedIn",
+"title": "Engineering Intern",
+"company": "Dee Cramer, Inc.",
+"location": "Holly, MI",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-at-dee-cramer-inc-4493383771",
+"posted_at": "2026-11-22T19:22Z",
+"found_at": "2026-11-22T20:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4493373915",
+"source": "LinkedIn",
+"title": "TRMCi Paid Intern Program (Full-Time, Temporary) Summer 2027",
+"company": "General Infomatics, Inc. (GI)",
+"location": "Sierra Vista, AZ",
+"url": "https://www.linkedin.com/jobs/view/trmci-paid-intern-program-full-time-temporary-summer-2027-at-general-infomatics-inc-gi-4493373915",
+"posted_at": "2026-11-22T19:18Z",
+"found_at": "2026-11-22T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4493384706",
+"source": "LinkedIn",
+"title": "TRMCi Paid Intern Program (Full-Time, Temporary) Summer 2027",
+"company": "General Infomatics, Inc. (GI)",
+"location": "White Sands, NM",
+"url": "https://www.linkedin.com/jobs/view/trmci-paid-intern-program-full-time-temporary-summer-2027-at-general-infomatics-inc-gi-4493384706",
+"posted_at": "2026-11-22T19:16Z",
+"found_at": "2026-11-22T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
 {
 "id": "4448459357",
 "source": "LinkedIn",
@@ -2051,11 +2139,13 @@
 "posted_at": "2026-11-21T14:55Z",
 "found_at": "2026-11-21T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "6ae36eecc3139b475b5acefe",
@@ -2083,11 +2173,13 @@
 "posted_at": "2026-11-21T14:34Z",
 "found_at": "2026-11-21T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4460383052",
@@ -2101,9 +2193,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4437695242",
@@ -2133,9 +2225,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4460381075",
@@ -2163,11 +2255,13 @@
 "posted_at": "2026-11-21T14:02Z",
 "found_at": "2026-11-21T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4477805210",
@@ -2179,11 +2273,14 @@
 "posted_at": "2026-11-21T13:56Z",
 "found_at": "2026-11-21T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4476869427",
@@ -2195,11 +2292,13 @@
 "posted_at": "2026-11-21T13:33Z",
 "found_at": "2026-11-21T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Part-time"
 },
 {
 "id": "4485622442",
@@ -2211,11 +2310,14 @@
 "posted_at": "2026-11-21T13:07Z",
 "found_at": "2026-11-21T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4476883618",
