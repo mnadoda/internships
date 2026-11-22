@@ -1,7 +1,165 @@
 {
-"generated_at": "2026-11-22T21:07Z",
-"count": 1153,
+"generated_at": "2026-11-22T22:09Z",
+"count": 1162,
 "jobs": [
+{
+"id": "4459012644",
+"source": "LinkedIn",
+"title": "BAW/SAW Filter Design Co-Op (Summer/Fall 2027)",
+"company": "Skyworks Solutions, Inc.",
+"location": "Irvine, CA",
+"url": "https://www.linkedin.com/jobs/view/baw-saw-filter-design-co-op-summer-fall-2027-at-skyworks-solutions-inc-4459012644",
+"posted_at": "2026-11-22T22:03Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4456415884",
+"source": "LinkedIn",
+"title": "RF Module Design Engineer Co-op (Winter/Spring 2027)",
+"company": "Skyworks Solutions, Inc.",
+"location": "Cedar Rapids, IA",
+"url": "https://www.linkedin.com/jobs/view/rf-module-design-engineer-co-op-winter-spring-2027-at-skyworks-solutions-inc-4456415884",
+"posted_at": "2026-11-22T22:03Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4493528789",
+"source": "LinkedIn",
+"title": "Student Consulting Internship (W27)",
+"company": "Beaver Development Society (BDS)",
+"location": "Bellevue, WA",
+"url": "https://www.linkedin.com/jobs/view/student-consulting-internship-w27-at-beaver-development-society-bds-4493528789",
+"posted_at": "2026-11-22T21:55Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4492371250",
+"source": "LinkedIn",
+"title": "Preformulation Intern",
+"company": "Tech World Networking",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/preformulation-intern-at-tech-world-networking-4492371250",
+"posted_at": "2026-11-22T21:37Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4492359726",
+"source": "LinkedIn",
+"title": "Business Development Intern - Spring/Summer 2027",
+"company": "Energy, Ports & Projects - Blue Water Shipping",
+"location": "Miami, FL",
+"url": "https://www.linkedin.com/jobs/view/business-development-intern-spring-summer-2027-at-energy-ports-projects-blue-water-shipping-4492359726",
+"posted_at": "2026-11-22T21:07Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4493530298",
+"source": "LinkedIn",
+"title": "Sales & Marketing Internship – Events",
+"company": "Launch 513",
+"location": "Cincinnati Metropolitan Area",
+"url": "https://www.linkedin.com/jobs/view/sales-marketing-internship-%E2%80%93-events-at-launch-513-4493530298",
+"posted_at": "2026-11-22T21:07Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493516677",
+"source": "LinkedIn",
+"title": "Sales And Marketing Intern",
+"company": "Data Evolution",
+"location": "Princeton, NJ",
+"url": "https://www.linkedin.com/jobs/view/sales-and-marketing-intern-at-data-evolution-4493516677",
+"posted_at": "2026-11-22T21:07Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Part-time"
+},
+{
+"id": "4492358790",
+"source": "LinkedIn",
+"title": "Mechanical Engineer Intern (ASC0053)",
+"company": "Ascendria Consulting",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-asc0053-at-ascendria-consulting-4492358790",
+"posted_at": "2026-11-22T21:07Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4492375111",
+"source": "LinkedIn",
+"title": "Finance Intern",
+"company": "Cliffton Verge",
+"location": "Lake Forest, IL",
+"url": "https://www.linkedin.com/jobs/view/finance-intern-at-cliffton-verge-4492375111",
+"posted_at": "2026-11-22T21:07Z",
+"found_at": "2026-11-22T22:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4492354766",
 "source": "LinkedIn",
@@ -1936,7 +2094,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4475275214",
@@ -2004,11 +2162,13 @@
 "posted_at": "2026-11-21T17:29Z",
 "found_at": "2026-11-21T18:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4468048597",
@@ -2059,7 +2219,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "6b02206c9378f7b150e11b24",
