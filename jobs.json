@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-22T12:08Z",
-"count": 1119,
+"generated_at": "2026-11-22T13:07Z",
+"count": 1120,
 "jobs": [
 {
 "id": "4458938027",
@@ -49,6 +49,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": ""
+},
+{
+"id": "6b0093f9dfa58e4c244dc797",
+"source": "Jobright",
+"title": "Graduate Intern – R&D Execution, Operations & Strategy (R&D EOS)(summer 2027)",
+"company": "Amgen",
+"location": "Washington, DC",
+"url": "https://careers.amgen.com/en/job/washington-d-c/graduate-intern-r-and-d-execution-operations-and-strategy-r-and-d-eos-summer-2027/87/103564600000",
+"posted_at": "2026-11-22T11:41Z",
+"found_at": "2026-11-22T13:07Z",
+"score": 89,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4492352549",
