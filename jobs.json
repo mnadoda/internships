@@ -1,7 +1,183 @@
 {
-"generated_at": "2026-11-22T18:07Z",
-"count": 1138,
+"generated_at": "2026-11-22T19:08Z",
+"count": 1148,
 "jobs": [
+{
+"id": "4448459357",
+"source": "LinkedIn",
+"title": "Summer/Co-op Engineer",
+"company": "MPR Associates, Inc.",
+"location": "Alexandria, VA",
+"url": "https://www.linkedin.com/jobs/view/summer-co-op-engineer-at-mpr-associates-inc-4448459357",
+"posted_at": "2026-11-22T18:45Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4469201892",
+"source": "LinkedIn",
+"title": "2027 Newell Brands Intern- IT",
+"company": "Newell Brands",
+"location": "Sandy Springs, GA",
+"url": "https://www.linkedin.com/jobs/view/2027-newell-brands-intern-it-at-newell-brands-4469201892",
+"posted_at": "2026-11-22T18:32Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4492366278",
+"source": "LinkedIn",
+"title": "Sales Engineering Intern",
+"company": "Orlin Circle",
+"location": "Tampa, FL",
+"url": "https://www.linkedin.com/jobs/view/sales-engineering-intern-at-orlin-circle-4492366278",
+"posted_at": "2026-11-22T18:25Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4492366274",
+"source": "LinkedIn",
+"title": "Customer Success Intern",
+"company": "Wrenfield Staffing Group",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/customer-success-intern-at-wrenfield-staffing-group-4492366274",
+"posted_at": "2026-11-22T18:18Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489329991",
+"source": "LinkedIn",
+"title": "Sales Intern",
+"company": "Growvix",
+"location": "Portland, OR",
+"url": "https://www.linkedin.com/jobs/view/sales-intern-at-growvix-4489329991",
+"posted_at": "2026-11-22T18:17Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4492351938",
+"source": "LinkedIn",
+"title": "Technical Sales & Consulting Intern",
+"company": "Zyric Grid",
+"location": "Cincinnati, OH",
+"url": "https://www.linkedin.com/jobs/view/technical-sales-consulting-intern-at-zyric-grid-4492351938",
+"posted_at": "2026-11-22T18:07Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4492373016",
+"source": "LinkedIn",
+"title": "Technical Sales & Consulting Intern",
+"company": "Solvyr",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/technical-sales-consulting-intern-at-solvyr-4492373016",
+"posted_at": "2026-11-22T18:07Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4469229434",
+"source": "LinkedIn",
+"title": "Intern - Commercial Payments (Summer 2027)",
+"company": "Commerce Bank",
+"location": "Kansas City, MO",
+"url": "https://www.linkedin.com/jobs/view/intern-commercial-payments-summer-2027-at-commerce-bank-4469229434",
+"posted_at": "2026-11-22T18:07Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4468844437",
+"source": "LinkedIn",
+"title": "Creative Services Internship - Summer 2027",
+"company": "Chesapeake Utilities Corporation",
+"location": "Dover, DE",
+"url": "https://www.linkedin.com/jobs/view/creative-services-internship-summer-2027-at-chesapeake-utilities-corporation-4468844437",
+"posted_at": "2026-11-22T18:07Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Part-time"
+},
+{
+"id": "4492371027",
+"source": "LinkedIn",
+"title": "Continuous Improvement Intern",
+"company": "Aether Field",
+"location": "Mayfield Heights, OH",
+"url": "https://www.linkedin.com/jobs/view/continuous-improvement-intern-at-aether-field-4492371027",
+"posted_at": "2026-11-22T18:07Z",
+"found_at": "2026-11-22T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4468818169",
 "source": "LinkedIn",
@@ -2218,11 +2394,13 @@
 "posted_at": "2026-11-21T12:07Z",
 "found_at": "2026-11-21T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492314131",
