@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-23T04:07Z",
+"generated_at": "2026-11-23T05:07Z",
 "count": 1192,
 "jobs": [
 {
@@ -2186,8 +2186,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4492898999",
@@ -2234,11 +2234,14 @@
 "posted_at": "2026-11-21T23:16Z",
 "found_at": "2026-11-22T00:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4492327337",
@@ -2253,8 +2256,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4492324420",
@@ -2269,8 +2272,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4492514702",
@@ -2282,11 +2285,13 @@
 "posted_at": "2026-11-21T23:07Z",
 "found_at": "2026-11-22T00:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4492320556",
@@ -2298,11 +2303,13 @@
 "posted_at": "2026-11-21T23:07Z",
 "found_at": "2026-11-22T00:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4492319495",
