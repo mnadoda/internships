@@ -1,7 +1,158 @@
 {
-"generated_at": "2026-11-23T03:07Z",
-"count": 1182,
+"generated_at": "2026-11-23T04:07Z",
+"count": 1192,
 "jobs": [
+{
+"id": "4493394718",
+"source": "LinkedIn",
+"title": "Software Engineering Intern",
+"company": "TaskVerse",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-taskverse-4493394718",
+"posted_at": "2026-11-23T04:06Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493396664",
+"source": "LinkedIn",
+"title": "SURE Intern",
+"company": "The Hormel Institute, University of Minnesota",
+"location": "Austin, MN",
+"url": "https://www.linkedin.com/jobs/view/sure-intern-at-the-hormel-institute-university-of-minnesota-4493396664",
+"posted_at": "2026-11-23T04:00Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4492361920",
+"source": "LinkedIn",
+"title": "Applied Science Intern",
+"company": "SmartMove Solutions",
+"location": "San Jose, CA",
+"url": "https://www.linkedin.com/jobs/view/applied-science-intern-at-smartmove-solutions-4492361920",
+"posted_at": "2026-11-23T03:44Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4493590207",
+"source": "LinkedIn",
+"title": "Social Media Marketing Intern",
+"company": "Vue",
+"location": "Toledo, OH",
+"url": "https://www.linkedin.com/jobs/view/social-media-marketing-intern-at-vue-4493590207",
+"posted_at": "2026-11-23T03:17Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4493577398",
+"source": "LinkedIn",
+"title": "Social and Community Intern",
+"company": "Coco & Eve",
+"location": "Los Angeles, CA",
+"url": "https://www.linkedin.com/jobs/view/social-and-community-intern-at-coco-eve-4493577398",
+"posted_at": "2026-11-23T03:07Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4471896943",
+"source": "LinkedIn",
+"title": "Summer 2027 Lab Engineering Co-op (Mechanical/Electrical)",
+"company": "Franklin Electric",
+"location": "Fort Wayne, IN",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-lab-engineering-co-op-mechanical-electrical-at-franklin-electric-4471896943",
+"posted_at": "2026-11-23T03:07Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4493586157",
+"source": "LinkedIn",
+"title": "Social Media & College Sports Marketing Intern",
+"company": "Electro",
+"location": "San Francisco, CA",
+"url": "https://www.linkedin.com/jobs/view/social-media-college-sports-marketing-intern-at-electro-4493586157",
+"posted_at": "2026-11-23T03:07Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4461167698",
+"source": "LinkedIn",
+"title": "Growth Marketing Intern",
+"company": "Nurdd",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/growth-marketing-intern-at-nurdd-4461167698",
+"posted_at": "2026-11-23T03:07Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4493392721",
+"source": "LinkedIn",
+"title": "Social Media & NIL Partnerships Intern",
+"company": "Electro",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/social-media-nil-partnerships-intern-at-electro-4493392721",
+"posted_at": "2026-11-23T03:07Z",
+"found_at": "2026-11-23T04:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
 {
 "id": "4493604281",
 "source": "LinkedIn",
@@ -2005,6 +2156,24 @@
 "employment": "Internship"
 },
 {
+"id": "6b03b5d4754c32e575312edb",
+"source": "Jobright",
+"title": "Masters Tech Intern - Customer Experience & Business Process Innovation",
+"company": "Hewlett Packard Enterprise",
+"location": "Spring, TX",
+"url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Masters-Tech-Intern---Customer-Experience---Business-Process-Innovation_1213078",
+"posted_at": "2026-11-22T00:00Z",
+"found_at": "2026-11-23T04:07Z",
+"score": 88,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
 "id": "4492896970",
 "source": "LinkedIn",
 "title": "2027 Ogilvy Creative Summer Internship",
@@ -2046,11 +2215,14 @@
 "posted_at": "2026-11-21T23:16Z",
 "found_at": "2026-11-22T00:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4492321569",
@@ -2317,7 +2489,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Remote",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4468809382",
