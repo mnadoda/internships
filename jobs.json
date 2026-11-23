@@ -1,7 +1,151 @@
 {
-"generated_at": "2026-11-23T17:08Z",
-"count": 1260,
+"generated_at": "2026-11-23T18:08Z",
+"count": 1268,
 "jobs": [
+{
+"id": "4493698221",
+"source": "LinkedIn",
+"title": "Marketing Summer Intern",
+"company": "Continental Western Group (a Berkley Company)",
+"location": "Urbandale, IA",
+"url": "https://www.linkedin.com/jobs/view/marketing-summer-intern-at-continental-western-group-a-berkley-company-4493698221",
+"posted_at": "2026-11-23T18:07Z",
+"found_at": "2026-11-23T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "6b048030566251ad7b86274f",
+"source": "Jobright",
+"title": "Intern - Finance Transformation",
+"company": "McKinsey & Company",
+"location": "Boston, MA",
+"url": "https://www.mckinsey.com/careers/search-jobs/jobs/intern-financetransformation-114698?appsource=jobright",
+"posted_at": "2026-11-23T18:04Z",
+"found_at": "2026-11-23T18:08Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4493686520",
+"source": "LinkedIn",
+"title": "Advisory Intern - New York and Los Angeles - Summer 2027",
+"company": "Buro Happold",
+"location": "Los Angeles, CA",
+"url": "https://www.linkedin.com/jobs/view/advisory-intern-new-york-and-los-angeles-summer-2027-at-buro-happold-4493686520",
+"posted_at": "2026-11-23T18:03Z",
+"found_at": "2026-11-23T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Contract"
+},
+{
+"id": "4493905045",
+"source": "LinkedIn",
+"title": "Advisory Intern - New York and Los Angeles - Summer 2027",
+"company": "Buro Happold",
+"location": "New York, United States",
+"url": "https://www.linkedin.com/jobs/view/advisory-intern-new-york-and-los-angeles-summer-2027-at-buro-happold-4493905045",
+"posted_at": "2026-11-23T18:03Z",
+"found_at": "2026-11-23T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Contract"
+},
+{
+"id": "4492645155",
+"source": "LinkedIn",
+"title": "Customer Success Manager Intern",
+"company": "Triumph",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/customer-success-manager-intern-at-triumph-4492645155",
+"posted_at": "2026-11-23T17:34Z",
+"found_at": "2026-11-23T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4493671591",
+"source": "LinkedIn",
+"title": "Emerging Talent Attraction Solutions Intern (Undergraduate - Summer)",
+"company": "Centene Corporation",
+"location": "Texas, United States",
+"url": "https://www.linkedin.com/jobs/view/emerging-talent-attraction-solutions-intern-undergraduate-summer-at-centene-corporation-4493671591",
+"posted_at": "2026-11-23T17:33Z",
+"found_at": "2026-11-23T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4492625976",
+"source": "LinkedIn",
+"title": "Technology Analyst Intern",
+"company": "Focus Loom",
+"location": "Houston, TX",
+"url": "https://www.linkedin.com/jobs/view/technology-analyst-intern-at-focus-loom-4492625976",
+"posted_at": "2026-11-23T17:27Z",
+"found_at": "2026-11-23T18:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "6b04760dc8533c23e3c3607d",
+"source": "Jobright",
+"title": "2027 Summer Interns - Associates and Consultants",
+"company": "Keystone",
+"location": "Boston, MA",
+"url": "https://www.keystone.com/careers?gh_jid=8201221",
+"posted_at": "2026-11-23T17:21Z",
+"found_at": "2026-11-23T18:08Z",
+"score": 88,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4484364991",
 "source": "LinkedIn",
@@ -971,9 +1115,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4493623121",
@@ -1144,7 +1288,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493399698",
@@ -1160,7 +1304,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493394718",
