@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-23T19:28Z",
+"generated_at": "2026-11-23T19:40Z",
 "count": 1274,
 "jobs": [
 {
@@ -416,11 +416,14 @@
 "posted_at": "2026-11-23T15:27Z",
 "found_at": "2026-11-23T16:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Remote",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4467829764",
