@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-23T13:09Z",
-"count": 1245,
+"generated_at": "2026-11-23T14:07Z",
+"count": 1246,
 "jobs": [
+{
+"id": "6b044565526905eb2bcf5b33",
+"source": "Jobright",
+"title": "Shopper Insights Intern",
+"company": "StratosNex",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/4492621139",
+"posted_at": "2026-11-23T13:53Z",
+"found_at": "2026-11-23T14:07Z",
+"score": 82,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4460384044",
 "source": "LinkedIn",
@@ -2152,9 +2168,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4468096223",
@@ -2166,11 +2182,15 @@
 "posted_at": "2026-11-22T11:53Z",
 "found_at": "2026-11-22T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4493353945",
@@ -2326,11 +2346,13 @@
 "posted_at": "2026-11-22T11:07Z",
 "found_at": "2026-11-22T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4469241124",
