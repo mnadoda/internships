@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-23T02:07Z",
+"generated_at": "2026-11-23T03:07Z",
 "count": 1182,
 "jobs": [
 {
@@ -2174,11 +2174,14 @@
 "posted_at": "2026-11-21T22:00Z",
 "found_at": "2026-11-21T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4492323410",
@@ -2208,11 +2211,13 @@
 "posted_at": "2026-11-21T21:33Z",
 "found_at": "2026-11-21T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4493311259",
@@ -2245,8 +2250,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4492893985",
@@ -2261,8 +2266,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4493314112",
@@ -2277,8 +2282,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4492325329",
@@ -2290,11 +2295,13 @@
 "posted_at": "2026-11-21T21:07Z",
 "found_at": "2026-11-21T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4493309247",
