@@ -1,7 +1,187 @@
 {
-"generated_at": "2026-11-23T09:08Z",
-"count": 1216,
+"generated_at": "2026-11-23T10:08Z",
+"count": 1226,
 "jobs": [
+{
+"id": "4458675560",
+"source": "LinkedIn",
+"title": "Traveling Intern -MEP Division",
+"company": "Gray",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/traveling-intern-mep-division-at-gray-4458675560",
+"posted_at": "2026-11-23T09:59Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4486106510",
+"source": "LinkedIn",
+"title": "Undergraduate Intern – Research Focus",
+"company": "Federal Reserve Bank of Minneapolis",
+"location": "Minneapolis, MN",
+"url": "https://www.linkedin.com/jobs/view/undergraduate-intern-%E2%80%93-research-focus-at-federal-reserve-bank-of-minneapolis-4486106510",
+"posted_at": "2026-11-23T09:49Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4460543283",
+"source": "LinkedIn",
+"title": "College Internship Opportunities",
+"company": "Stevens Transport",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/college-internship-opportunities-at-stevens-transport-4460543283",
+"posted_at": "2026-11-23T09:34Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4485999675",
+"source": "LinkedIn",
+"title": "Undergraduate Intern – Business Analysis Focus",
+"company": "Federal Reserve Bank of Minneapolis",
+"location": "Minneapolis, MN",
+"url": "https://www.linkedin.com/jobs/view/undergraduate-intern-%E2%80%93-business-analysis-focus-at-federal-reserve-bank-of-minneapolis-4485999675",
+"posted_at": "2026-11-23T09:30Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4450384357",
+"source": "LinkedIn",
+"title": "DERMS Co-Op/Intern",
+"company": "Ameren",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/derms-co-op-intern-at-ameren-4450384357",
+"posted_at": "2026-11-23T09:26Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4485949394",
+"source": "LinkedIn",
+"title": "Information Technology Unified Communications Intern - The Toro Company",
+"company": "The Toro Company",
+"location": "Hennepin County, MN",
+"url": "https://www.linkedin.com/jobs/view/information-technology-unified-communications-intern-the-toro-company-at-the-toro-company-4485949394",
+"posted_at": "2026-11-23T09:12Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4485948521",
+"source": "LinkedIn",
+"title": "Marketing, Mass Retail Intern - The Toro Company",
+"company": "The Toro Company",
+"location": "Hennepin County, MN",
+"url": "https://www.linkedin.com/jobs/view/marketing-mass-retail-intern-the-toro-company-at-the-toro-company-4485948521",
+"posted_at": "2026-11-23T09:12Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4460500524",
+"source": "LinkedIn",
+"title": "University, 2027 Summer Games Data Scientist Intern - Colorado Springs, CO",
+"company": "Booz Allen Hamilton",
+"location": "Colorado Springs, CO",
+"url": "https://www.linkedin.com/jobs/view/university-2027-summer-games-data-scientist-intern-colorado-springs-co-at-booz-allen-hamilton-4460500524",
+"posted_at": "2026-11-23T09:10Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4460502187",
+"source": "LinkedIn",
+"title": "Civil Engineering Intern - Summer 2027",
+"company": "Quiddity",
+"location": "New Braunfels, TX",
+"url": "https://www.linkedin.com/jobs/view/civil-engineering-intern-summer-2027-at-quiddity-4460502187",
+"posted_at": "2026-11-23T09:08Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4460395956",
+"source": "LinkedIn",
+"title": "Civil Engineering Intern - Summer 2027",
+"company": "Quiddity",
+"location": "College Station, TX",
+"url": "https://www.linkedin.com/jobs/view/civil-engineering-intern-summer-2027-at-quiddity-4460395956",
+"posted_at": "2026-11-23T09:08Z",
+"found_at": "2026-11-23T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4430283781",
 "source": "LinkedIn",
