@@ -1,7 +1,185 @@
 {
-"generated_at": "2026-11-23T21:11Z",
-"count": 1279,
+"generated_at": "2026-11-23T22:14Z",
+"count": 1289,
 "jobs": [
+{
+"id": "4494058773",
+"source": "LinkedIn",
+"title": "Outside Sales Intern- Salt Lake City",
+"company": "LP Building Solutions",
+"location": "Salt Lake City, UT",
+"url": "https://www.linkedin.com/jobs/view/outside-sales-intern-salt-lake-city-at-lp-building-solutions-4494058773",
+"posted_at": "2026-11-23T22:07Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4493924189",
+"source": "LinkedIn",
+"title": "Community Relations Intern",
+"company": "WM",
+"location": "Springdale, AR",
+"url": "https://www.linkedin.com/jobs/view/community-relations-intern-at-wm-4493924189",
+"posted_at": "2026-11-23T22:03Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4493648955",
+"source": "LinkedIn",
+"title": "Summer Sales Internship",
+"company": "Travel + Leisure Co.",
+"location": "Williamsburg, VA",
+"url": "https://www.linkedin.com/jobs/view/summer-sales-internship-at-travel-%2B-leisure-co-4493648955",
+"posted_at": "2026-11-23T22:03Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4494064728",
+"source": "LinkedIn",
+"title": "Space GNC Intern (Summer 2027)",
+"company": "Draper",
+"location": "Houston, TX",
+"url": "https://www.linkedin.com/jobs/view/space-gnc-intern-summer-2027-at-draper-4494064728",
+"posted_at": "2026-11-23T22:01Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4494073394",
+"source": "LinkedIn",
+"title": "Substation Engineer Intern - Grid (Summer 2027)",
+"company": "Sargent & Lundy",
+"location": "Cranberry Township, PA",
+"url": "https://www.linkedin.com/jobs/view/substation-engineer-intern-grid-summer-2027-at-sargent-lundy-4494073394",
+"posted_at": "2026-11-23T22:00Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Temporary"
+},
+{
+"id": "4494064720",
+"source": "LinkedIn",
+"title": "Marketing Co-op - Summer 2027",
+"company": "Fifth Third Bank",
+"location": "Cincinnati, OH",
+"url": "https://www.linkedin.com/jobs/view/marketing-co-op-summer-2027-at-fifth-third-bank-4494064720",
+"posted_at": "2026-11-23T22:00Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493919395",
+"source": "LinkedIn",
+"title": "Mechanical Engineer Co-op (Summer 2027)",
+"company": "Powerex",
+"location": "Mount Juliet, TN",
+"url": "https://www.linkedin.com/jobs/view/mechanical-engineer-co-op-summer-2027-at-powerex-4493919395",
+"posted_at": "2026-11-23T21:59Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4492659139",
+"source": "LinkedIn",
+"title": "Signal Processing and Power System Component Modeling Intern - Summer 2027",
+"company": "Idaho National Laboratory",
+"location": "Idaho Falls, ID",
+"url": "https://www.linkedin.com/jobs/view/signal-processing-and-power-system-component-modeling-intern-summer-2027-at-idaho-national-laboratory-4492659139",
+"posted_at": "2026-11-23T21:58Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Part-time"
+},
+{
+"id": "4493925173",
+"source": "LinkedIn",
+"title": "Quality Control Intern - AI EI RS Reports (Summer 2027)",
+"company": "Teva Pharmaceuticals",
+"location": "Davie, FL",
+"url": "https://www.linkedin.com/jobs/view/quality-control-intern-ai-ei-rs-reports-summer-2027-at-teva-pharmaceuticals-4493925173",
+"posted_at": "2026-11-23T21:49Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493911558",
+"source": "LinkedIn",
+"title": "Quality Control Intern - HPLC Spectral Library (Summer 2027)",
+"company": "Teva Pharmaceuticals",
+"location": "Davie, FL",
+"url": "https://www.linkedin.com/jobs/view/quality-control-intern-hplc-spectral-library-summer-2027-at-teva-pharmaceuticals-4493911558",
+"posted_at": "2026-11-23T21:49Z",
+"found_at": "2026-11-23T22:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4492655143",
 "source": "LinkedIn",
