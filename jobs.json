@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-23T14:07Z",
+"generated_at": "2026-11-23T15:07Z",
 "count": 1246,
 "jobs": [
 {
@@ -1905,11 +1905,14 @@
 "posted_at": "2026-11-22T14:53Z",
 "found_at": "2026-11-22T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4458906241",
