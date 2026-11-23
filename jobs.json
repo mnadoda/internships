@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-23T20:08Z",
+"generated_at": "2026-11-23T21:11Z",
 "count": 1279,
 "jobs": [
 {
@@ -352,11 +352,14 @@
 "posted_at": "2026-11-23T17:05Z",
 "found_at": "2026-11-23T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4493666661",
@@ -368,11 +371,13 @@
 "posted_at": "2026-11-23T17:04Z",
 "found_at": "2026-11-23T17:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4494018525",
