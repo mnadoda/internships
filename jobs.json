@@ -1,7 +1,179 @@
 {
-"generated_at": "2026-11-23T00:07Z",
-"count": 1172,
+"generated_at": "2026-11-23T01:08Z",
+"count": 1182,
 "jobs": [
+{
+"id": "4493604281",
+"source": "LinkedIn",
+"title": "Business Development Intern",
+"company": "Credvan",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/business-development-intern-at-credvan-4493604281",
+"posted_at": "2026-11-23T00:46Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "6b03884a754c32e575311a74",
+"source": "Jobright",
+"title": "AI Adoption Intern",
+"company": "Artefact",
+"location": "New York, NY",
+"url": "https://job-boards.greenhouse.io/embed/job_app?for=artefactnoram&token=8958081002",
+"posted_at": "2026-11-23T00:26Z",
+"found_at": "2026-11-23T01:08Z",
+"score": 88,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6b038849754c32e575311a57",
+"source": "Jobright",
+"title": "AI Strategy Intern",
+"company": "Artefact",
+"location": "New York, NY",
+"url": "https://job-boards.greenhouse.io/embed/job_app?for=artefactnoram&token=8958073002",
+"posted_at": "2026-11-23T00:26Z",
+"found_at": "2026-11-23T01:08Z",
+"score": 92,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4493390610",
+"source": "LinkedIn",
+"title": "Content Creation & Social Media Marketing Intern",
+"company": "Content To Cashflow",
+"location": "Boise, ID",
+"url": "https://www.linkedin.com/jobs/view/content-creation-social-media-marketing-intern-at-content-to-cashflow-4493390610",
+"posted_at": "2026-11-23T00:23Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4493554576",
+"source": "LinkedIn",
+"title": "GG Development Intern, Glass & Ceramics - Summer 2027",
+"company": "Crosslinked",
+"location": "Corning, NY",
+"url": "https://www.linkedin.com/jobs/view/gg-development-intern-glass-ceramics-summer-2027-at-crosslinked-4493554576",
+"posted_at": "2026-11-23T00:19Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4480298108",
+"source": "LinkedIn",
+"title": "Intern",
+"company": "Morgan Stanley",
+"location": "Rapid City, SD",
+"url": "https://www.linkedin.com/jobs/view/intern-at-morgan-stanley-4480298108",
+"posted_at": "2026-11-23T00:18Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4493399209",
+"source": "LinkedIn",
+"title": "College Internship - Summer 2027",
+"company": "Martin-Harris Construction LLC",
+"location": "Las Vegas, NV",
+"url": "https://www.linkedin.com/jobs/view/college-internship-summer-2027-at-martin-harris-construction-llc-4493399209",
+"posted_at": "2026-11-23T00:07Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4493604114",
+"source": "LinkedIn",
+"title": "2027 R&D Summer Internship- Pittsburgh",
+"company": "Sherwin-Williams",
+"location": "Pittsburgh, PA",
+"url": "https://www.linkedin.com/jobs/view/2027-r-d-summer-internship-pittsburgh-at-sherwin-williams-4493604114",
+"posted_at": "2026-11-23T00:07Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Temporary"
+},
+{
+"id": "4492366469",
+"source": "LinkedIn",
+"title": "Academic Year 2027-28 Marketing & Communications Internship",
+"company": "Collections That Care",
+"location": "Bentonville, AR",
+"url": "https://www.linkedin.com/jobs/view/academic-year-2027-28-marketing-communications-internship-at-collections-that-care-4492366469",
+"posted_at": "2026-11-23T00:07Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4493394350",
+"source": "LinkedIn",
+"title": "Greek Life Partnerships & PR Intern",
+"company": "Electro",
+"location": "Miami, FL",
+"url": "https://www.linkedin.com/jobs/view/greek-life-partnerships-pr-intern-at-electro-4493394350",
+"posted_at": "2026-11-23T00:07Z",
+"found_at": "2026-11-23T01:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
 {
 "id": "4493536935",
 "source": "LinkedIn",
@@ -2018,11 +2190,13 @@
 "posted_at": "2026-11-21T21:45Z",
 "found_at": "2026-11-21T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492322490",
