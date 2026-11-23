@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-23T18:44Z",
-"count": 1268,
+"generated_at": "2026-11-23T19:07Z",
+"count": 1270,
 "jobs": [
+{
+"id": "6b048bc57bec27df08f91de0",
+"source": "Jobright",
+"title": "OneElm Summer Intern - Corporate Operations",
+"company": "Fortress OS",
+"location": "Nashville, TN",
+"url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c6974d4d5801977e889d820abb&id=8a7885a8a184742e01a1c0ce32783f49&source=&lang=en&m=t",
+"posted_at": "2026-11-23T18:53Z",
+"found_at": "2026-11-23T19:07Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b048b897bec27df08f91db6",
+"source": "Jobright",
+"title": "Supply Chain Transformation Intern",
+"company": "StratosNex",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/4492638638",
+"posted_at": "2026-11-23T18:52Z",
+"found_at": "2026-11-23T19:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4493698221",
 "source": "LinkedIn",
@@ -291,11 +323,13 @@
 "posted_at": "2026-11-23T15:43Z",
 "found_at": "2026-11-23T16:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4464837436",
@@ -357,9 +391,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4492608503",
@@ -580,9 +614,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4492600677",
@@ -598,7 +632,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4466935765",
@@ -610,11 +644,14 @@
 "posted_at": "2026-11-23T11:30Z",
 "found_at": "2026-11-23T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4492922204",
@@ -684,11 +721,13 @@
 "posted_at": "2026-11-23T11:07Z",
 "found_at": "2026-11-23T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4493631552",
@@ -700,11 +739,14 @@
 "posted_at": "2026-11-23T11:07Z",
 "found_at": "2026-11-23T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4493636137",
@@ -720,7 +762,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4458675560",
