@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-23T22:14Z",
-"count": 1289,
+"generated_at": "2026-11-23T23:09Z",
+"count": 1290,
 "jobs": [
 {
 "id": "4494058773",
@@ -2037,6 +2037,22 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "6b04b94a58147eafa2995834",
+"source": "Jobright",
+"title": "PREMIER Business Support Internship",
+"company": "First PREMIER Bank/PREMIER Bankcard",
+"location": "Sioux Falls, SD",
+"url": "https://firstpremier.wd503.myworkdayjobs.com/equest/job/Sioux-Falls-SD/PREMIER-Business-Support-Internship_R-515",
+"posted_at": "2026-11-23T00:00Z",
+"found_at": "2026-11-23T23:07Z",
+"score": 89,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
 "employment": "Internship"
 },
 {
