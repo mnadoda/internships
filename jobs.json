@@ -1,7 +1,156 @@
 {
-"generated_at": "2026-11-23T15:07Z",
-"count": 1246,
+"generated_at": "2026-11-23T16:08Z",
+"count": 1255,
 "jobs": [
+{
+"id": "4492621769",
+"source": "LinkedIn",
+"title": "Retirement Intern - Summer 2027",
+"company": "IMA Financial Group, Inc.",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/retirement-intern-summer-2027-at-ima-financial-group-inc-4492621769",
+"posted_at": "2026-11-23T16:06Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4492632180",
+"source": "LinkedIn",
+"title": "Marketing Graduate Internship",
+"company": "VoltEdge Pro Systems",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/marketing-graduate-internship-at-voltedge-pro-systems-4492632180",
+"posted_at": "2026-11-23T15:59Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4483589240",
+"source": "LinkedIn",
+"title": "Summer 2027 Business Internship Opportunities",
+"company": "Hanwha Philly Shipyard",
+"location": "Philadelphia, PA",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-business-internship-opportunities-at-hanwha-philly-shipyard-4483589240",
+"posted_at": "2026-11-23T15:52Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492630213",
+"source": "LinkedIn",
+"title": "Tech Sale & Consulting Intern",
+"company": "Darnley Haven",
+"location": "Detroit, MI",
+"url": "https://www.linkedin.com/jobs/view/tech-sale-consulting-intern-at-darnley-haven-4492630213",
+"posted_at": "2026-11-23T15:43Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4464837436",
+"source": "LinkedIn",
+"title": "2027 Summer Solution Sales Intern (Remote)",
+"company": "Constellation",
+"location": "Austin, TX",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-solution-sales-intern-remote-at-constellation-4464837436",
+"posted_at": "2026-11-23T15:27Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": ""
+},
+{
+"id": "4467829764",
+"source": "LinkedIn",
+"title": "Intern - Capacity Portfolio Representative Starting Summer 2027",
+"company": "C.H. Robinson",
+"location": "Scottsdale, AZ",
+"url": "https://www.linkedin.com/jobs/view/intern-capacity-portfolio-representative-starting-summer-2027-at-c-h-robinson-4467829764",
+"posted_at": "2026-11-23T15:16Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492620166",
+"source": "LinkedIn",
+"title": "Security Analyst Intern",
+"company": "Valorantum Capital",
+"location": "San Diego, CA",
+"url": "https://www.linkedin.com/jobs/view/security-analyst-intern-at-valorantum-capital-4492620166",
+"posted_at": "2026-11-23T15:07Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4460380069",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Refining Electrical Engineering (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "Detroit, MI",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-summer-2027-at-marathon-petroleum-corporation-4460380069",
+"posted_at": "2026-11-23T15:07Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4492608503",
+"source": "LinkedIn",
+"title": "Capabilities and Innovation Intern",
+"company": "Valorantum",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/capabilities-and-innovation-intern-at-valorantum-4492608503",
+"posted_at": "2026-11-23T15:07Z",
+"found_at": "2026-11-23T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "6b044565526905eb2bcf5b33",
 "source": "Jobright",
@@ -1334,11 +1483,13 @@
 "posted_at": "2026-11-22T22:46Z",
 "found_at": "2026-11-22T23:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Part-time"
 },
 {
 "id": "4491886809",
@@ -1353,8 +1504,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Part-time"
 },
 {
 "id": "4491928154",
@@ -1384,11 +1535,13 @@
 "posted_at": "2026-11-22T22:29Z",
 "found_at": "2026-11-22T23:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4493385852",
@@ -1451,11 +1604,14 @@
 "posted_at": "2026-11-22T22:03Z",
 "found_at": "2026-11-22T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4493528789",
@@ -1574,11 +1730,13 @@
 "posted_at": "2026-11-22T21:07Z",
 "found_at": "2026-11-22T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492354766",
@@ -1873,11 +2031,14 @@
 "posted_at": "2026-11-22T15:24Z",
 "found_at": "2026-11-22T16:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Part-time"
 },
 {
 "id": "4458918010",
@@ -1940,11 +2101,13 @@
 "posted_at": "2026-11-22T14:42Z",
 "found_at": "2026-11-22T15:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4460385049",
@@ -1958,9 +2121,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4460374234",
@@ -1974,9 +2137,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4460366653",
