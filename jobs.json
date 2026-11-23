@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-23T18:08Z",
+"generated_at": "2026-11-23T18:36Z",
 "count": 1268,
 "jobs": [
 {
@@ -996,11 +996,13 @@
 "posted_at": "2026-11-23T07:57Z",
 "found_at": "2026-11-23T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4492390185",
@@ -1129,11 +1131,14 @@
 "posted_at": "2026-11-23T07:07Z",
 "found_at": "2026-11-23T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4493611690",
@@ -1145,11 +1150,15 @@
 "posted_at": "2026-11-23T07:07Z",
 "found_at": "2026-11-23T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4492381154",
