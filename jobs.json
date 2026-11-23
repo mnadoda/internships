@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-23T19:40Z",
-"count": 1274,
+"generated_at": "2026-11-23T20:08Z",
+"count": 1279,
 "jobs": [
+{
+"id": "4492655143",
+"source": "LinkedIn",
+"title": "Customer Success Operations & Analytics Intern",
+"company": "Brackwell Hiring Network",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/customer-success-operations-analytics-intern-at-brackwell-hiring-network-4492655143",
+"posted_at": "2026-11-23T19:39Z",
+"found_at": "2026-11-23T20:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4471392374",
 "source": "LinkedIn",
@@ -19,6 +35,81 @@
 "work_auth": "Not specified",
 "work_model": "Hybrid",
 "employment": "Full-time"
+},
+{
+"id": "4470200376",
+"source": "LinkedIn",
+"title": "Intern | Urban Development - New York or Los Angeles - Summer 2027",
+"company": "Buro Happold",
+"location": "New York, United States",
+"url": "https://www.linkedin.com/jobs/view/intern-urban-development-new-york-or-los-angeles-summer-2027-at-buro-happold-4470200376",
+"posted_at": "2026-11-23T19:07Z",
+"found_at": "2026-11-23T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Contract"
+},
+{
+"id": "4494030892",
+"source": "LinkedIn",
+"title": "Transportation Engineering Intern",
+"company": "Mark Thomas",
+"location": "Irvine, CA",
+"url": "https://www.linkedin.com/jobs/view/transportation-engineering-intern-at-mark-thomas-4494030892",
+"posted_at": "2026-11-23T19:07Z",
+"found_at": "2026-11-23T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4494027948",
+"source": "LinkedIn",
+"title": "Construction Management Student Intern",
+"company": "Mark Thomas",
+"location": "Roseville, CA",
+"url": "https://www.linkedin.com/jobs/view/construction-management-student-intern-at-mark-thomas-4494027948",
+"posted_at": "2026-11-23T19:07Z",
+"found_at": "2026-11-23T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4494040671",
+"source": "LinkedIn",
+"title": "Treasury Intern",
+"company": "Granite Construction",
+"location": "The Woodlands, TX",
+"url": "https://www.linkedin.com/jobs/view/treasury-intern-at-granite-construction-4494040671",
+"posted_at": "2026-11-23T19:07Z",
+"found_at": "2026-11-23T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Volunteer"
 },
 {
 "id": "6b048bc57bec27df08f91de0",
@@ -435,11 +526,13 @@
 "posted_at": "2026-11-23T15:16Z",
 "found_at": "2026-11-23T16:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4492620166",
