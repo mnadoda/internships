@@ -1,7 +1,64 @@
 {
-"generated_at": "2026-11-22T23:07Z",
-"count": 1169,
+"generated_at": "2026-11-23T00:07Z",
+"count": 1172,
 "jobs": [
+{
+"id": "4493536935",
+"source": "LinkedIn",
+"title": "Environmental Engineering Co-op (Boston, MA)",
+"company": "Brown and Caldwell",
+"location": "Andover, MA",
+"url": "https://www.linkedin.com/jobs/view/environmental-engineering-co-op-boston-ma-at-brown-and-caldwell-4493536935",
+"posted_at": "2026-11-22T23:19Z",
+"found_at": "2026-11-23T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493543606",
+"source": "LinkedIn",
+"title": "Environmental Engineering Co-op (Boston, MA)",
+"company": "Brown and Caldwell",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/environmental-engineering-co-op-boston-ma-at-brown-and-caldwell-4493543606",
+"posted_at": "2026-11-22T23:19Z",
+"found_at": "2026-11-23T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4492371324",
+"source": "LinkedIn",
+"title": "Security Analyst Intern",
+"company": "Future Mode",
+"location": "Culver City, CA",
+"url": "https://www.linkedin.com/jobs/view/security-analyst-intern-at-future-mode-4492371324",
+"posted_at": "2026-11-22T23:11Z",
+"found_at": "2026-11-23T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4493539610",
 "source": "LinkedIn",
@@ -1993,11 +2050,13 @@
 "posted_at": "2026-11-21T21:07Z",
 "found_at": "2026-11-21T22:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4492891908",
@@ -2089,11 +2148,14 @@
 "posted_at": "2026-11-21T18:55Z",
 "found_at": "2026-11-21T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Part-time"
 },
 {
 "id": "4459361367",
@@ -2108,8 +2170,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4450522146",
@@ -2124,8 +2186,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4492321393",
@@ -2139,9 +2201,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4466937473",
@@ -2153,11 +2215,14 @@
 "posted_at": "2026-11-21T18:21Z",
 "found_at": "2026-11-21T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4467828397",
@@ -2169,11 +2234,13 @@
 "posted_at": "2026-11-21T18:20Z",
 "found_at": "2026-11-21T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4493107223",
@@ -2221,12 +2288,13 @@
 "found_at": "2026-11-21T18:07Z",
 "score": null,
 "degrees": [
+"Bachelor's",
 "Master's"
 ],
-"degree": "Master's",
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4484570813",
@@ -2294,11 +2362,14 @@
 "posted_at": "2026-11-21T17:15Z",
 "found_at": "2026-11-21T18:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4492319315",
