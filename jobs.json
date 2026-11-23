@@ -1,7 +1,25 @@
 {
-"generated_at": "2026-11-23T19:07Z",
-"count": 1270,
+"generated_at": "2026-11-23T19:28Z",
+"count": 1274,
 "jobs": [
+{
+"id": "4471392374",
+"source": "LinkedIn",
+"title": "Intern - Cybersecurity",
+"company": "GM Financial",
+"location": "Arlington, TX",
+"url": "https://www.linkedin.com/jobs/view/intern-cybersecurity-at-gm-financial-4471392374",
+"posted_at": "2026-11-23T19:22Z",
+"found_at": "2026-11-23T19:25Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
 {
 "id": "6b048bc57bec27df08f91de0",
 "source": "Jobright",
@@ -19,6 +37,24 @@
 "employment": "Internship"
 },
 {
+"id": "4470050564",
+"source": "LinkedIn",
+"title": "Intern - Business Automation",
+"company": "GM Financial",
+"location": "Fort Worth, TX",
+"url": "https://www.linkedin.com/jobs/view/intern-business-automation-at-gm-financial-4470050564",
+"posted_at": "2026-11-23T18:53Z",
+"found_at": "2026-11-23T19:25Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
 "id": "6b048b897bec27df08f91db6",
 "source": "Jobright",
 "title": "Supply Chain Transformation Intern",
@@ -33,6 +69,43 @@
 "work_auth": "Sponsorship available",
 "work_model": "Onsite",
 "employment": "Internship"
+},
+{
+"id": "4492638660",
+"source": "LinkedIn",
+"title": "Technical Sales & Consulting Intern",
+"company": "TechMore",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/technical-sales-consulting-intern-at-techmore-4492638660",
+"posted_at": "2026-11-23T18:26Z",
+"found_at": "2026-11-23T19:25Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4470208131",
+"source": "LinkedIn",
+"title": "Intern | Urban Development - New York or Los Angeles - Summer 2027",
+"company": "Buro Happold",
+"location": "Los Angeles, CA",
+"url": "https://www.linkedin.com/jobs/view/intern-urban-development-new-york-or-los-angeles-summer-2027-at-buro-happold-4470208131",
+"posted_at": "2026-11-23T18:25Z",
+"found_at": "2026-11-23T19:25Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Contract"
 },
 {
 "id": "4493698221",
@@ -307,11 +380,13 @@
 "posted_at": "2026-11-23T15:52Z",
 "found_at": "2026-11-23T16:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4492630213",
@@ -407,9 +482,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "6b044565526905eb2bcf5b33",
