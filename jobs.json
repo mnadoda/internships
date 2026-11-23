@@ -1,7 +1,163 @@
 {
-"generated_at": "2026-11-23T12:08Z",
-"count": 1236,
+"generated_at": "2026-11-23T13:09Z",
+"count": 1245,
 "jobs": [
+{
+"id": "4460384044",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Refining Electrical Engineering (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "Findlay, OH",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-summer-2027-at-marathon-petroleum-corporation-4460384044",
+"posted_at": "2026-11-23T13:00Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4458049014",
+"source": "LinkedIn",
+"title": "Transportation Intern - Municipal",
+"company": "Garver",
+"location": "Frisco, TX",
+"url": "https://www.linkedin.com/jobs/view/transportation-intern-municipal-at-garver-4458049014",
+"posted_at": "2026-11-23T12:44Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4493784304",
+"source": "LinkedIn",
+"title": "Intern- Information Technology- Cyber Security",
+"company": "The Port of Virginia",
+"location": "Portsmouth, VA",
+"url": "https://www.linkedin.com/jobs/view/intern-information-technology-cyber-security-at-the-port-of-virginia-4493784304",
+"posted_at": "2026-11-23T12:33Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4481440448",
+"source": "LinkedIn",
+"title": "Summer Intern",
+"company": "ANDRITZ Schuler North America",
+"location": "Canton, MI",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-at-andritz-schuler-north-america-4481440448",
+"posted_at": "2026-11-23T12:32Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4478069377",
+"source": "LinkedIn",
+"title": "2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service",
+"company": "General Motors",
+"location": "Westlake Village, CA",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-field-sales-operations-internship-%E2%80%93-district-manager-parts-service-at-general-motors-4478069377",
+"posted_at": "2026-11-23T12:27Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4460376126",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Refining Electrical Engineering (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "Garyville, LA",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-summer-2027-at-marathon-petroleum-corporation-4460376126",
+"posted_at": "2026-11-23T12:23Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4478077168",
+"source": "LinkedIn",
+"title": "2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service",
+"company": "General Motors",
+"location": "Alpharetta, GA",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-field-sales-operations-internship-%E2%80%93-district-manager-parts-service-at-general-motors-4478077168",
+"posted_at": "2026-11-23T12:16Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4459855547",
+"source": "LinkedIn",
+"title": "Marketing Intern (Summer 2027)",
+"company": "Vertiv",
+"location": "Westerville, OH",
+"url": "https://www.linkedin.com/jobs/view/marketing-intern-summer-2027-at-vertiv-4459855547",
+"posted_at": "2026-11-23T12:09Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4468406075",
+"source": "LinkedIn",
+"title": "Wireless Systems Engineering Internship - Summer 2027",
+"company": "Qualcomm",
+"location": "Santa Clara, CA",
+"url": "https://www.linkedin.com/jobs/view/wireless-systems-engineering-internship-summer-2027-at-qualcomm-4468406075",
+"posted_at": "2026-11-23T12:07Z",
+"found_at": "2026-11-23T13:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4468098164",
 "source": "LinkedIn",
@@ -2026,11 +2182,15 @@
 "posted_at": "2026-11-22T11:41Z",
 "found_at": "2026-11-22T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "6b0093f9dfa58e4c244dc797",
@@ -2080,8 +2240,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4469254129",
@@ -2093,11 +2253,14 @@
 "posted_at": "2026-11-22T11:13Z",
 "found_at": "2026-11-22T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4483940537",
@@ -2145,11 +2308,13 @@
 "posted_at": "2026-11-22T11:07Z",
 "found_at": "2026-11-22T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Temporary"
 },
 {
 "id": "4458676469",
@@ -2177,11 +2342,13 @@
 "posted_at": "2026-11-22T10:06Z",
 "found_at": "2026-11-22T10:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Temporary"
 },
 {
 "id": "4492359045",
@@ -2209,11 +2376,13 @@
 "posted_at": "2026-11-22T10:01Z",
 "found_at": "2026-11-22T10:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4483950166",
@@ -2306,7 +2475,7 @@
 "degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "6a55f12b21f64463ad350edc",
@@ -2429,11 +2598,14 @@
 "posted_at": "2026-11-22T06:37Z",
 "found_at": "2026-11-22T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4492347328",
@@ -2449,7 +2621,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4493239189",
@@ -2464,8 +2636,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4493161504",
@@ -2477,11 +2649,13 @@
 "posted_at": "2026-11-22T06:20Z",
 "found_at": "2026-11-22T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493161472",
@@ -2493,11 +2667,13 @@
 "posted_at": "2026-11-22T06:15Z",
 "found_at": "2026-11-22T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4486951702",
@@ -2585,7 +2761,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493332082",
@@ -2617,7 +2793,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493325261",
@@ -2633,7 +2809,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493324253",
@@ -2665,7 +2841,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4493153394",
