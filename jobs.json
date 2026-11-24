@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-24T12:11Z",
+"generated_at": "2026-11-24T13:13Z",
 "count": 1369,
 "jobs": [
 {
@@ -187,11 +187,14 @@
 "posted_at": "2026-11-24T10:56Z",
 "found_at": "2026-11-24T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4460066361",
@@ -293,11 +296,13 @@
 "posted_at": "2026-11-24T10:07Z",
 "found_at": "2026-11-24T11:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "6b055c343210e87f92af8aa4",
