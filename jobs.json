@@ -1,7 +1,80 @@
 {
-"generated_at": "2026-11-24T05:12Z",
-"count": 1328,
+"generated_at": "2026-11-24T06:12Z",
+"count": 1332,
 "jobs": [
+{
+"id": "4493992308",
+"source": "LinkedIn",
+"title": "2027 Summer Intern Workplace Strategy & Planning Analytics",
+"company": "BioSpace",
+"location": "Tarrytown, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-workplace-strategy-planning-analytics-at-biospace-4493992308",
+"posted_at": "2026-11-24T05:36Z",
+"found_at": "2026-11-24T06:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4493998170",
+"source": "LinkedIn",
+"title": "Undergrad Intern - Change Readiness and Organization Effectiveness (Summer 2027)",
+"company": "BioSpace",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/undergrad-intern-change-readiness-and-organization-effectiveness-summer-2027-at-biospace-4493998170",
+"posted_at": "2026-11-24T05:36Z",
+"found_at": "2026-11-24T06:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4494100065",
+"source": "LinkedIn",
+"title": "Community Impact Data & Reporting Intern (Undergraduate - Summer)",
+"company": "Centene Corporation",
+"location": "Arkansas, United States",
+"url": "https://www.linkedin.com/jobs/view/community-impact-data-reporting-intern-undergraduate-summer-at-centene-corporation-4494100065",
+"posted_at": "2026-11-24T05:26Z",
+"found_at": "2026-11-24T06:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4493979779",
+"source": "LinkedIn",
+"title": "Community Impact Data & Reporting Intern (Undergraduate - Summer)",
+"company": "Centene Corporation",
+"location": "Alabama, United States",
+"url": "https://www.linkedin.com/jobs/view/community-impact-data-reporting-intern-undergraduate-summer-at-centene-corporation-4493979779",
+"posted_at": "2026-11-24T05:26Z",
+"found_at": "2026-11-24T06:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
 {
 "id": "4494304575",
 "source": "LinkedIn",
