@@ -1,7 +1,191 @@
 {
-"generated_at": "2026-11-24T01:08Z",
-"count": 1301,
+"generated_at": "2026-11-24T02:13Z",
+"count": 1311,
 "jobs": [
+{
+"id": "4494083859",
+"source": "LinkedIn",
+"title": "Member Assistance Center Intern",
+"company": "GreenState Credit Union",
+"location": "North Liberty, IA",
+"url": "https://www.linkedin.com/jobs/view/member-assistance-center-intern-at-greenstate-credit-union-4494083859",
+"posted_at": "2026-11-24T02:06Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4494097422",
+"source": "LinkedIn",
+"title": "Culture & Belonging Intern",
+"company": "GreenState Credit Union",
+"location": "North Liberty, IA",
+"url": "https://www.linkedin.com/jobs/view/culture-belonging-intern-at-greenstate-credit-union-4494097422",
+"posted_at": "2026-11-24T02:06Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4494304079",
+"source": "LinkedIn",
+"title": "IT Infrastructure / Platform Services Intern",
+"company": "Integration Innovation, Inc.",
+"location": "Huntsville, AL",
+"url": "https://www.linkedin.com/jobs/view/it-infrastructure-platform-services-intern-at-integration-innovation-inc-4494304079",
+"posted_at": "2026-11-24T01:58Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Temporary"
+},
+{
+"id": "4492655886",
+"source": "LinkedIn",
+"title": "Maritime Summer 2027 Intern",
+"company": "DNV",
+"location": "Houston, TX",
+"url": "https://www.linkedin.com/jobs/view/maritime-summer-2027-intern-at-dnv-4492655886",
+"posted_at": "2026-11-24T01:07Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493946693",
+"source": "LinkedIn",
+"title": "Network Engineering Co-op (Summer 2027)",
+"company": "Federal Express Corporation",
+"location": "Moon, PA",
+"url": "https://www.linkedin.com/jobs/view/network-engineering-co-op-summer-2027-at-federal-express-corporation-4493946693",
+"posted_at": "2026-11-24T01:07Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4494081796",
+"source": "LinkedIn",
+"title": "Transportation Engineering Intern",
+"company": "Mark Thomas",
+"location": "Oakland, CA",
+"url": "https://www.linkedin.com/jobs/view/transportation-engineering-intern-at-mark-thomas-4494081796",
+"posted_at": "2026-11-24T01:07Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4494099060",
+"source": "LinkedIn",
+"title": "Survey Student Intern",
+"company": "Mark Thomas",
+"location": "Sacramento, CA",
+"url": "https://www.linkedin.com/jobs/view/survey-student-intern-at-mark-thomas-4494099060",
+"posted_at": "2026-11-24T01:07Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4493947544",
+"source": "LinkedIn",
+"title": "Graduate Intern - Summer 2027",
+"company": "Systems Planning & Analysis",
+"location": "Alexandria, VA",
+"url": "https://www.linkedin.com/jobs/view/graduate-intern-summer-2027-at-systems-planning-analysis-4493947544",
+"posted_at": "2026-11-24T01:07Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493949896",
+"source": "LinkedIn",
+"title": "SBB Sales & Client Management Intern",
+"company": "Trustmark",
+"location": "Greater Chicago Area",
+"url": "https://www.linkedin.com/jobs/view/sbb-sales-client-management-intern-at-trustmark-4493949896",
+"posted_at": "2026-11-24T01:07Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4493955627",
+"source": "LinkedIn",
+"title": "Internship - FSE",
+"company": "ASML",
+"location": "Richardson, TX",
+"url": "https://www.linkedin.com/jobs/view/internship-fse-at-asml-4493955627",
+"posted_at": "2026-11-24T01:07Z",
+"found_at": "2026-11-24T02:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "6b04d94e7fd2e33bde097de6",
 "source": "Jobright",
