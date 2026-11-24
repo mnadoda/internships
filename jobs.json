@@ -1,7 +1,60 @@
 {
-"generated_at": "2026-11-24T18:12Z",
-"count": 1396,
+"generated_at": "2026-11-24T19:13Z",
+"count": 1400,
 "jobs": [
+{
+"id": "4485790107",
+"source": "LinkedIn",
+"title": "Intern, Regulatory",
+"company": "Spire",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/intern-regulatory-at-spire-4485790107",
+"posted_at": "2026-11-24T18:50Z",
+"found_at": "2026-11-24T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4494196790",
+"source": "LinkedIn",
+"title": "Quality Assurance Intern - Summer 2027",
+"company": "Great American Insurance Group",
+"location": "Cincinnati, OH",
+"url": "https://www.linkedin.com/jobs/view/quality-assurance-intern-summer-2027-at-great-american-insurance-group-4494196790",
+"posted_at": "2026-11-24T18:44Z",
+"found_at": "2026-11-24T19:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Part-time"
+},
+{
+"id": "4493051094",
+"source": "LinkedIn",
+"title": "Substation Engineering Intern",
+"company": "TRC Companies, Inc.",
+"location": "Asheville, NC",
+"url": "https://www.linkedin.com/jobs/view/substation-engineering-intern-at-trc-companies-inc-4493051094",
+"posted_at": "2026-11-24T18:34Z",
+"found_at": "2026-11-24T19:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
 {
 "id": "4493044223",
 "source": "LinkedIn",
@@ -1690,6 +1743,24 @@
 "work_auth": "Not specified",
 "work_model": "Onsite",
 "employment": "Part-time"
+},
+{
+"id": "6b05dbfdd43f730eab596cdd",
+"source": "Jobright",
+"title": "Networking Strategy and Execution Intern MBA",
+"company": "Hewlett Packard Enterprise",
+"location": "Sunnyvale, CA",
+"url": "https://careers.hpe.com/us/en/job/1214161/networking-strategy-and-execution-intern-mba",
+"posted_at": "2026-11-24T00:00Z",
+"found_at": "2026-11-24T19:07Z",
+"score": 84,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "6b04bf3d7fd2e33bde096e8b",
