@@ -1,7 +1,187 @@
 {
-"generated_at": "2026-11-24T20:13Z",
-"count": 1402,
+"generated_at": "2026-11-24T21:11Z",
+"count": 1412,
 "jobs": [
+{
+"id": "4494179218",
+"source": "LinkedIn",
+"title": "Intern- Emergency Management/Human and Organizational Performance",
+"company": "ITC Holdings Corp.",
+"location": "Novi, MI",
+"url": "https://www.linkedin.com/jobs/view/intern-emergency-management-human-and-organizational-performance-at-itc-holdings-corp-4494179218",
+"posted_at": "2026-11-24T20:43Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4494718851",
+"source": "LinkedIn",
+"title": "Resilience & Adaptation Intern",
+"company": "Hudson Valley Regional Council",
+"location": "Newburgh, NY",
+"url": "https://www.linkedin.com/jobs/view/resilience-adaptation-intern-at-hudson-valley-regional-council-4494718851",
+"posted_at": "2026-11-24T20:27Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4494415054",
+"source": "LinkedIn",
+"title": "College Intern - Engineering Assistant",
+"company": "Berkeley Electric Cooperative, Inc.",
+"location": "Moncks Corner, SC",
+"url": "https://www.linkedin.com/jobs/view/college-intern-engineering-assistant-at-berkeley-electric-cooperative-inc-4494415054",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4494411033",
+"source": "LinkedIn",
+"title": "Industrial Sales Intern | Summer 2027",
+"company": "Van Meter Inc.",
+"location": "Cedar Rapids, IA",
+"url": "https://www.linkedin.com/jobs/view/industrial-sales-intern-summer-2027-at-van-meter-inc-4494411033",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4494404428",
+"source": "LinkedIn",
+"title": "IT Internship (Summer 2027)",
+"company": "MIRATECH",
+"location": "Tulsa, OK",
+"url": "https://www.linkedin.com/jobs/view/it-internship-summer-2027-at-miratech-4494404428",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4494192963",
+"source": "LinkedIn",
+"title": "Intern - Mortgage Marketing",
+"company": "Gulf Coast Bank and Trust Company",
+"location": "Baton Rouge, LA",
+"url": "https://www.linkedin.com/jobs/view/intern-mortgage-marketing-at-gulf-coast-bank-and-trust-company-4494192963",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4494198769",
+"source": "LinkedIn",
+"title": "College Intern -GIS Mapping Assistant",
+"company": "Berkeley Electric Cooperative, Inc.",
+"location": "Moncks Corner, SC",
+"url": "https://www.linkedin.com/jobs/view/college-intern-gis-mapping-assistant-at-berkeley-electric-cooperative-inc-4494198769",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4494409061",
+"source": "LinkedIn",
+"title": "Project Engineer Internship, Commercial/Industrial Construction",
+"company": "Graycor",
+"location": "Oak Brook, IL",
+"url": "https://www.linkedin.com/jobs/view/project-engineer-internship-commercial-industrial-construction-at-graycor-4494409061",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4494400728",
+"source": "LinkedIn",
+"title": "STUDENT INTERN",
+"company": "San Bernardino Superior Court",
+"location": "San Bernardino, CA",
+"url": "https://www.linkedin.com/jobs/view/student-intern-at-san-bernardino-superior-court-4494400728",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4493053046",
+"source": "LinkedIn",
+"title": "Sales Intern",
+"company": "Growvix",
+"location": "Columbus, OH",
+"url": "https://www.linkedin.com/jobs/view/sales-intern-at-growvix-4493053046",
+"posted_at": "2026-11-24T20:07Z",
+"found_at": "2026-11-24T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4485790107",
 "source": "LinkedIn",
