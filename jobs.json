@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-24T06:12Z",
+"generated_at": "2026-11-24T07:08Z",
 "count": 1332,
 "jobs": [
 {
@@ -165,11 +165,14 @@
 "posted_at": "2026-11-24T04:14Z",
 "found_at": "2026-11-24T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4494089975",
