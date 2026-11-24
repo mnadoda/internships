@@ -1,7 +1,166 @@
 {
-"generated_at": "2026-11-23T23:09Z",
-"count": 1290,
+"generated_at": "2026-11-24T00:14Z",
+"count": 1299,
 "jobs": [
+{
+"id": "4493936815",
+"source": "LinkedIn",
+"title": "Business Analytics Intern",
+"company": "Badger Meter",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/business-analytics-intern-at-badger-meter-4493936815",
+"posted_at": "2026-11-24T00:05Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Part-time"
+},
+{
+"id": "4493935804",
+"source": "LinkedIn",
+"title": "Underwriting Summer Intern",
+"company": "Continental Western Group (a Berkley Company)",
+"location": "Urbandale, IA",
+"url": "https://www.linkedin.com/jobs/view/underwriting-summer-intern-at-continental-western-group-a-berkley-company-4493935804",
+"posted_at": "2026-11-23T23:54Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4493935615",
+"source": "LinkedIn",
+"title": "Business Analyst Graduate Summer Intern",
+"company": "Centene Corporation",
+"location": "Missouri, United States",
+"url": "https://www.linkedin.com/jobs/view/business-analyst-graduate-summer-intern-at-centene-corporation-4493935615",
+"posted_at": "2026-11-23T23:40Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "6b04cc3a7bec27df08f94914",
+"source": "Jobright",
+"title": "MBA Intern (Summer 2027)",
+"company": "Health Advances",
+"location": "Weston, MA",
+"url": "https://apply.clearcompany.com/healthadvances?noheader=False&jobId=79049d84-40d5-1a1a-d84e-790088709a8a",
+"posted_at": "2026-11-23T23:28Z",
+"found_at": "2026-11-24T00:08Z",
+"score": 81,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4494088189",
+"source": "LinkedIn",
+"title": "2027 Internship Program",
+"company": "EHS Support",
+"location": "Pittsburgh, PA",
+"url": "https://www.linkedin.com/jobs/view/2027-internship-program-at-ehs-support-4494088189",
+"posted_at": "2026-11-23T23:22Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Volunteer"
+},
+{
+"id": "4493927770",
+"source": "LinkedIn",
+"title": "Intern - UI/UX Design Intern",
+"company": "Trinidad Benham",
+"location": "Greenwood Village, CO",
+"url": "https://www.linkedin.com/jobs/view/intern-ui-ux-design-intern-at-trinidad-benham-4493927770",
+"posted_at": "2026-11-23T23:07Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4492648832",
+"source": "LinkedIn",
+"title": "Legal Compliance Intern (Hybrid)",
+"company": "TruStage",
+"location": "Madison, WI",
+"url": "https://www.linkedin.com/jobs/view/legal-compliance-intern-hybrid-at-trustage-4492648832",
+"posted_at": "2026-11-23T23:07Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4492656328",
+"source": "LinkedIn",
+"title": "Summer Internship | OD & AI Enablement",
+"company": "Lifeway Christian Resources",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/summer-internship-od-ai-enablement-at-lifeway-christian-resources-4492656328",
+"posted_at": "2026-11-23T23:07Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Volunteer"
+},
+{
+"id": "4494077191",
+"source": "LinkedIn",
+"title": "Summer Intern - Highway Engineering",
+"company": "Larson Design Group",
+"location": "King of Prussia, PA",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-highway-engineering-at-larson-design-group-4494077191",
+"posted_at": "2026-11-23T23:07Z",
+"found_at": "2026-11-24T00:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4494058773",
 "source": "LinkedIn",
