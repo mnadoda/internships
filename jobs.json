@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-24T13:13Z",
-"count": 1369,
+"generated_at": "2026-11-24T14:13Z",
+"count": 1371,
 "jobs": [
+{
+"id": "6b058dad2cb8a4d8561c4eba",
+"source": "Jobright",
+"title": "Fellow Intern",
+"company": "McKinsey & Company",
+"location": "San Jose, CA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/20421",
+"posted_at": "2026-11-24T13:14Z",
+"found_at": "2026-11-24T14:07Z",
+"score": 84,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4494120723",
 "source": "LinkedIn",
@@ -176,6 +192,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Full-time"
+},
+{
+"id": "6acd3cd0002e496d4bef1421",
+"source": "Jobright",
+"title": "Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management",
+"company": "Rivian",
+"location": "Palo Alto, CA",
+"url": "https://careers.rivian.com/jobs/34239",
+"posted_at": "2026-11-24T11:02Z",
+"found_at": "2026-11-24T14:07Z",
+"score": 88,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4494119368",
