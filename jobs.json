@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-24T19:13Z",
-"count": 1400,
+"generated_at": "2026-11-24T20:13Z",
+"count": 1402,
 "jobs": [
 {
 "id": "4485790107",
@@ -36,6 +36,22 @@
 "work_auth": "Authorization required",
 "work_model": "Hybrid",
 "employment": "Part-time"
+},
+{
+"id": "6a96d609246d697dcee016da",
+"source": "Jobright",
+"title": "2027 Summer Business Analyst",
+"company": "Activate Consulting",
+"location": "New York, NY",
+"url": "https://activateconsulting.applytojob.com/apply/3JDuAkKAkT/2027-Summer-Business-Analyst",
+"posted_at": "2026-11-24T18:37Z",
+"found_at": "2026-11-24T20:07Z",
+"score": 90,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4493051094",
@@ -1760,6 +1776,24 @@
 "degree": "Master's",
 "work_auth": "Sponsorship available",
 "work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "6b05e9070e7eacd1ea64458e",
+"source": "Jobright",
+"title": "Strategy Intern",
+"company": "Vertex Inc.",
+"location": "United States",
+"url": "https://vertexinc.wd1.myworkdayjobs.com/vertexinc/job/Remote-USA/Strategy-Intern_JR102780-1",
+"posted_at": "2026-11-24T00:00Z",
+"found_at": "2026-11-24T20:07Z",
+"score": 88,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Remote",
 "employment": "Internship"
 },
 {
