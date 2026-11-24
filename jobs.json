@@ -1,7 +1,25 @@
 {
-"generated_at": "2026-11-24T00:14Z",
-"count": 1299,
+"generated_at": "2026-11-24T01:08Z",
+"count": 1301,
 "jobs": [
+{
+"id": "6b04d94e7fd2e33bde097de6",
+"source": "Jobright",
+"title": "MBA Intern (Summer 2027)",
+"company": "Health Advances",
+"location": "Newton, MA",
+"url": "https://healthadvances.clearcompany.com/careers/jobs/79049d84-40d5-1a1a-d84e-790088709a8a/apply",
+"posted_at": "2026-11-24T00:24Z",
+"found_at": "2026-11-24T01:07Z",
+"score": 81,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4493936815",
 "source": "LinkedIn",
@@ -17,6 +35,22 @@
 "work_auth": "Not specified",
 "work_model": "Onsite",
 "employment": "Part-time"
+},
+{
+"id": "6b04bf3d7fd2e33bde096e8b",
+"source": "Jobright",
+"title": "Innovation Intern",
+"company": "Ameren",
+"location": "St. Louis, MO",
+"url": "https://ameren.wd1.myworkdayjobs.com/collegiate/job/St-Louis-MO/Innovation-Intern_033797",
+"posted_at": "2026-11-23T23:57Z",
+"found_at": "2026-11-24T01:07Z",
+"score": 90,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4493935804",
@@ -155,11 +189,13 @@
 "posted_at": "2026-11-23T23:07Z",
 "found_at": "2026-11-24T00:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4494058773",
