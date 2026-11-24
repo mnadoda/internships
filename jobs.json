@@ -1,7 +1,135 @@
 {
-"generated_at": "2026-11-24T08:11Z",
-"count": 1341,
+"generated_at": "2026-11-24T09:11Z",
+"count": 1349,
 "jobs": [
+{
+"id": "4476043105",
+"source": "LinkedIn",
+"title": "Assurance Intern, Third Party Attestation - Summer 2027 (Dallas)",
+"company": "BDO USA",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/assurance-intern-third-party-attestation-summer-2027-dallas-at-bdo-usa-4476043105",
+"posted_at": "2026-11-24T09:04Z",
+"found_at": "2026-11-24T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4486457140",
+"source": "LinkedIn",
+"title": "Plant Quality Manufacturing Engineering Intern",
+"company": "CNH",
+"location": "Grand Island, NE",
+"url": "https://www.linkedin.com/jobs/view/plant-quality-manufacturing-engineering-intern-at-cnh-4486457140",
+"posted_at": "2026-11-24T09:03Z",
+"found_at": "2026-11-24T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4486461852",
+"source": "LinkedIn",
+"title": "Human Resources Intern",
+"company": "Barilla Group",
+"location": "Northbrook, IL",
+"url": "https://www.linkedin.com/jobs/view/human-resources-intern-at-barilla-group-4486461852",
+"posted_at": "2026-11-24T09:00Z",
+"found_at": "2026-11-24T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4494322173",
+"source": "LinkedIn",
+"title": "Bridge Intern - Summer 2027",
+"company": "HDR",
+"location": "Columbus, OH",
+"url": "https://www.linkedin.com/jobs/view/bridge-intern-summer-2027-at-hdr-4494322173",
+"posted_at": "2026-11-24T08:58Z",
+"found_at": "2026-11-24T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4493995803",
+"source": "LinkedIn",
+"title": "North America Sales and Business Support Intern – Summer 2027",
+"company": "Henkel",
+"location": "Bridgewater, NJ",
+"url": "https://www.linkedin.com/jobs/view/north-america-sales-and-business-support-intern-%E2%80%93-summer-2027-at-henkel-4493995803",
+"posted_at": "2026-11-24T08:56Z",
+"found_at": "2026-11-24T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "6b054dfc3210e87f92af874b",
+"source": "Jobright",
+"title": "Business Analyst Intern",
+"company": "McKinsey & Company",
+"location": "New York, NY",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/15275",
+"posted_at": "2026-11-24T08:42Z",
+"found_at": "2026-11-24T09:07Z",
+"score": 92,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b054dee8bbd2d7c0a8cd065",
+"source": "Jobright",
+"title": "Fellow Intern",
+"company": "McKinsey & Company",
+"location": "San Jose, CA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/20421",
+"posted_at": "2026-11-24T08:42Z",
+"found_at": "2026-11-24T09:07Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b054df93210e87f92af874a",
+"source": "Jobright",
+"title": "Associate Intern",
+"company": "McKinsey & Company",
+"location": "Darien, CT",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/14918",
+"posted_at": "2026-11-24T08:42Z",
+"found_at": "2026-11-24T09:07Z",
+"score": 81,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4492647191",
 "source": "LinkedIn",
@@ -12,11 +140,13 @@
 "posted_at": "2026-11-24T07:46Z",
 "found_at": "2026-11-24T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4492690195",
@@ -47,8 +177,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4492673766",
@@ -64,7 +194,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4493221250",
@@ -76,11 +206,14 @@
 "posted_at": "2026-11-24T07:07Z",
 "found_at": "2026-11-24T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4494311536",
@@ -92,11 +225,13 @@
 "posted_at": "2026-11-24T07:07Z",
 "found_at": "2026-11-24T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4493988626",
@@ -111,8 +246,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4489809063",
@@ -281,11 +416,13 @@
 "posted_at": "2026-11-24T04:50Z",
 "found_at": "2026-11-24T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4493970722",
@@ -297,11 +434,13 @@
 "posted_at": "2026-11-24T04:28Z",
 "found_at": "2026-11-24T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4486978926",
