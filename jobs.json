@@ -1,7 +1,168 @@
 {
-"generated_at": "2026-11-25T08:11Z",
-"count": 1447,
+"generated_at": "2026-11-25T09:13Z",
+"count": 1457,
 "jobs": [
+{
+"id": "4459241067",
+"source": "LinkedIn",
+"title": "Tax Intern, International Tax Services - Summer 2028 (Dallas)",
+"company": "BDO USA",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/tax-intern-international-tax-services-summer-2028-dallas-at-bdo-usa-4459241067",
+"posted_at": "2026-11-25T09:07Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4460027536",
+"source": "LinkedIn",
+"title": "Environmental Engineering Intern",
+"company": "GHD",
+"location": "Tampa, FL",
+"url": "https://www.linkedin.com/jobs/view/environmental-engineering-intern-at-ghd-4460027536",
+"posted_at": "2026-11-25T09:06Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4469941887",
+"source": "LinkedIn",
+"title": "Electrical Design Engineering Intern",
+"company": "CNH",
+"location": "Sioux Falls, SD",
+"url": "https://www.linkedin.com/jobs/view/electrical-design-engineering-intern-at-cnh-4469941887",
+"posted_at": "2026-11-25T09:06Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4461570532",
+"source": "LinkedIn",
+"title": "Product Validation and Test Engineering Intern",
+"company": "CNH",
+"location": "Burlington, IA",
+"url": "https://www.linkedin.com/jobs/view/product-validation-and-test-engineering-intern-at-cnh-4461570532",
+"posted_at": "2026-11-25T09:04Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4477992897",
+"source": "LinkedIn",
+"title": "Intern - Yield Enhancement  Engineer",
+"company": "Micron Technology",
+"location": "Boise, ID",
+"url": "https://www.linkedin.com/jobs/view/intern-yield-enhancement-engineer-at-micron-technology-4477992897",
+"posted_at": "2026-11-25T09:04Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4487022247",
+"source": "LinkedIn",
+"title": "Information Technology Intern",
+"company": "Barilla Group",
+"location": "Northbrook, IL",
+"url": "https://www.linkedin.com/jobs/view/information-technology-intern-at-barilla-group-4487022247",
+"posted_at": "2026-11-25T09:02Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4493013383",
+"source": "LinkedIn",
+"title": "Business Analyst Internship",
+"company": "Opal Nest",
+"location": "Austin, TX",
+"url": "https://www.linkedin.com/jobs/view/business-analyst-internship-at-opal-nest-4493013383",
+"posted_at": "2026-11-25T08:40Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4494904111",
+"source": "LinkedIn",
+"title": "Services Analytics Graduate Intern",
+"company": "Dell Technologies",
+"location": "Round Rock, TX",
+"url": "https://www.linkedin.com/jobs/view/services-analytics-graduate-intern-at-dell-technologies-4494904111",
+"posted_at": "2026-11-25T08:22Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4494798298",
+"source": "LinkedIn",
+"title": "Services Data Science Graduate Intern",
+"company": "Dell Technologies",
+"location": "Round Rock, TX",
+"url": "https://www.linkedin.com/jobs/view/services-data-science-graduate-intern-at-dell-technologies-4494798298",
+"posted_at": "2026-11-25T08:22Z",
+"found_at": "2026-11-25T09:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "4494490906",
 "source": "LinkedIn",
@@ -295,8 +456,8 @@
 ],
 "degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Internship"
 },
 {
 "id": "4471968369",
@@ -308,11 +469,14 @@
 "posted_at": "2026-11-25T06:07Z",
 "found_at": "2026-11-25T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Onsite",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Full-time"
 },
 {
 "id": "4493092102",
@@ -2743,6 +2907,22 @@
 "degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "6b04cbcd7bec27df08f948d4",
+"source": "Jobright",
+"title": "PREMIER Business Support Internship",
+"company": "First PREMIER Bank/PREMIER Bankcard",
+"location": "Sioux Falls, SD",
+"url": "https://firstpremier.wd503.myworkdayjobs.com/premier_careers/job/Sioux-Falls-SD/PREMIER-Business-Support-Internship_R-515-1",
+"posted_at": "2026-11-23T23:04Z",
+"found_at": "2026-11-25T09:08Z",
+"score": 89,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
 "employment": "Internship"
 },
 {
