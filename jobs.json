@@ -1,7 +1,125 @@
 {
-"generated_at": "2026-11-25T07:11Z",
-"count": 1440,
+"generated_at": "2026-11-25T08:11Z",
+"count": 1447,
 "jobs": [
+{
+"id": "4494490906",
+"source": "LinkedIn",
+"title": "Test Engineering Intern – EE Major (CLY0051)",
+"company": "Clyvra",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/test-engineering-intern-%E2%80%93-ee-major-cly0051-at-clyvra-4494490906",
+"posted_at": "2026-11-25T07:57Z",
+"found_at": "2026-11-25T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4494777380",
+"source": "LinkedIn",
+"title": "Geographic Information Systems Science Intern - Summer 2027",
+"company": "WSP in the U.S.",
+"location": "Denver, CO",
+"url": "https://www.linkedin.com/jobs/view/geographic-information-systems-science-intern-summer-2027-at-wsp-in-the-u-s-4494777380",
+"posted_at": "2026-11-25T07:25Z",
+"found_at": "2026-11-25T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4494754820",
+"source": "LinkedIn",
+"title": "Strategy Intern",
+"company": "Vertex Inc.",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/strategy-intern-at-vertex-inc-4494754820",
+"posted_at": "2026-11-25T07:07Z",
+"found_at": "2026-11-25T08:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4494751861",
+"source": "LinkedIn",
+"title": "Summer 2027 Intern-Marketing Operations",
+"company": "Blue Cross Blue Shield of Michigan",
+"location": "Detroit, MI",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-intern-marketing-operations-at-blue-cross-blue-shield-of-michigan-4494751861",
+"posted_at": "2026-11-25T07:07Z",
+"found_at": "2026-11-25T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4494487699",
+"source": "LinkedIn",
+"title": "Process Engineering Summer Intern",
+"company": "CSL",
+"location": "Holly Springs, NC",
+"url": "https://www.linkedin.com/jobs/view/process-engineering-summer-intern-at-csl-4494487699",
+"posted_at": "2026-11-25T07:07Z",
+"found_at": "2026-11-25T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4494481697",
+"source": "LinkedIn",
+"title": "Environmental Engineering Intern - Summer 2027",
+"company": "Jacobs",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/environmental-engineering-intern-summer-2027-at-jacobs-4494481697",
+"posted_at": "2026-11-25T07:07Z",
+"found_at": "2026-11-25T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
+{
+"id": "4493099251",
+"source": "LinkedIn",
+"title": "Summer 2027 Digital Sales Internship",
+"company": "ADP",
+"location": "Coraopolis, PA",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-digital-sales-internship-at-adp-4493099251",
+"posted_at": "2026-11-25T07:07Z",
+"found_at": "2026-11-25T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": ""
+},
 {
 "id": "6b0688ec08cc74812e5e9313",
 "source": "Jobright",
@@ -133,11 +251,14 @@
 "posted_at": "2026-11-25T06:07Z",
 "found_at": "2026-11-25T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4494486504",
@@ -149,11 +270,14 @@
 "posted_at": "2026-11-25T06:07Z",
 "found_at": "2026-11-25T07:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4494769857",
