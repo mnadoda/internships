@@ -1,7 +1,171 @@
 {
-"generated_at": "2026-11-25T20:09Z",
-"count": 1510,
+"generated_at": "2026-11-25T21:13Z",
+"count": 1519,
 "jobs": [
+{
+"id": "4494690466",
+"source": "LinkedIn",
+"title": "Safety Analysis Intern",
+"company": "X-energy",
+"location": "Rockville, MD",
+"url": "https://www.linkedin.com/jobs/view/safety-analysis-intern-at-x-energy-4494690466",
+"posted_at": "2026-11-25T21:03Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Part-time"
+},
+{
+"id": "4493052347",
+"source": "LinkedIn",
+"title": "Intern - Marketing & Events (Summer)",
+"company": "State of South Dakota",
+"location": "Huron, SD",
+"url": "https://www.linkedin.com/jobs/view/intern-marketing-events-summer-at-state-of-south-dakota-4493052347",
+"posted_at": "2026-11-25T20:40Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493454520",
+"source": "LinkedIn",
+"title": "Software & Controls Engineering Intern - Summer",
+"company": "Carrier",
+"location": "Charlotte, NC",
+"url": "https://www.linkedin.com/jobs/view/software-controls-engineering-intern-summer-at-carrier-4493454520",
+"posted_at": "2026-11-25T20:12Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4460006688",
+"source": "LinkedIn",
+"title": "Electrical Engineering (ESSP) Intern - Summer 2027",
+"company": "WSP in the U.S.",
+"location": "Phoenix, AZ",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-essp-intern-summer-2027-at-wsp-in-the-u-s-4460006688",
+"posted_at": "2026-11-25T20:07Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4493450612",
+"source": "LinkedIn",
+"title": "Operations Intern (Summer 2027)",
+"company": "Scout Space",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/operations-intern-summer-2027-at-scout-space-4493450612",
+"posted_at": "2026-11-25T20:07Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4494679925",
+"source": "LinkedIn",
+"title": "Operations (Rotational) Intern | Summer 2027",
+"company": "Van Meter Inc.",
+"location": "Cedar Rapids, IA",
+"url": "https://www.linkedin.com/jobs/view/operations-rotational-intern-summer-2027-at-van-meter-inc-4494679925",
+"posted_at": "2026-11-25T20:07Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4494939972",
+"source": "LinkedIn",
+"title": "Design Verification Engineer Intern",
+"company": "SambaNova",
+"location": "Austin, TX",
+"url": "https://www.linkedin.com/jobs/view/design-verification-engineer-intern-at-sambanova-4494939972",
+"posted_at": "2026-11-25T20:07Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"PhD"
+],
+"degree": "PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4460640533",
+"source": "LinkedIn",
+"title": "Transmission Engineering Intern - Summer 2027",
+"company": "WSP in the U.S.",
+"location": "Mount Laurel, NJ",
+"url": "https://www.linkedin.com/jobs/view/transmission-engineering-intern-summer-2027-at-wsp-in-the-u-s-4460640533",
+"posted_at": "2026-11-25T20:07Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4493462049",
+"source": "LinkedIn",
+"title": "Data Analytics and AI Intern",
+"company": "Focus Loom",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/data-analytics-and-ai-intern-at-focus-loom-4493462049",
+"posted_at": "2026-11-25T20:07Z",
+"found_at": "2026-11-25T21:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4487264454",
 "source": "LinkedIn",
