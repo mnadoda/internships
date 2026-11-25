@@ -1,7 +1,91 @@
 {
-"generated_at": "2026-11-25T14:15Z",
-"count": 1481,
+"generated_at": "2026-11-25T15:11Z",
+"count": 1486,
 "jobs": [
+{
+"id": "6b06f929f29eaaf8773f4440",
+"source": "Jobright",
+"title": "Associate Intern",
+"company": "McKinsey & Company",
+"location": "St. Louis, MO",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/14918",
+"posted_at": "2026-11-25T15:05Z",
+"found_at": "2026-11-25T15:07Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b06f907f29eaaf8773f4439",
+"source": "Jobright",
+"title": "Business Analyst Intern",
+"company": "McKinsey & Company",
+"location": "Darien, CT",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/15275",
+"posted_at": "2026-11-25T15:04Z",
+"found_at": "2026-11-25T15:07Z",
+"score": 92,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4469922209",
+"source": "LinkedIn",
+"title": "AutoZone 2027 Summer Internship – Finance",
+"company": "AutoZone",
+"location": "Memphis, TN",
+"url": "https://www.linkedin.com/jobs/view/autozone-2027-summer-internship-%E2%80%93-finance-at-autozone-4469922209",
+"posted_at": "2026-11-25T14:53Z",
+"found_at": "2026-11-25T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4469946701",
+"source": "LinkedIn",
+"title": "Supply Chain Intern",
+"company": "Daikin Applied Americas",
+"location": "Plymouth, MN",
+"url": "https://www.linkedin.com/jobs/view/supply-chain-intern-at-daikin-applied-americas-4469946701",
+"posted_at": "2026-11-25T14:38Z",
+"found_at": "2026-11-25T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4469959044",
+"source": "LinkedIn",
+"title": "Digital (IT) Intern",
+"company": "Daikin Applied Americas",
+"location": "Plymouth, MN",
+"url": "https://www.linkedin.com/jobs/view/digital-it-intern-at-daikin-applied-americas-4469959044",
+"posted_at": "2026-11-25T14:23Z",
+"found_at": "2026-11-25T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4460011936",
 "source": "LinkedIn",
