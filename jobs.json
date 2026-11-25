@@ -1,7 +1,158 @@
 {
-"generated_at": "2026-11-25T09:13Z",
-"count": 1457,
+"generated_at": "2026-11-25T10:10Z",
+"count": 1465,
 "jobs": [
+{
+"id": "4485031390",
+"source": "LinkedIn",
+"title": "IT - Innovation & AI Technology Internship (Hybrid)",
+"company": "TruStage",
+"location": "Madison, WI",
+"url": "https://www.linkedin.com/jobs/view/it-innovation-ai-technology-internship-hybrid-at-trustage-4485031390",
+"posted_at": "2026-11-25T09:54Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Part-time"
+},
+{
+"id": "4486067449",
+"source": "LinkedIn",
+"title": "Artificial Intelligence Co-Op/Intern - Summer 2027",
+"company": "The Mosaic Company",
+"location": "Greater Tampa Bay Area",
+"url": "https://www.linkedin.com/jobs/view/artificial-intelligence-co-op-intern-summer-2027-at-the-mosaic-company-4486067449",
+"posted_at": "2026-11-25T09:52Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4485042292",
+"source": "LinkedIn",
+"title": "Power Distribution Intern",
+"company": "TRC Companies, Inc.",
+"location": "The Plains, OH",
+"url": "https://www.linkedin.com/jobs/view/power-distribution-intern-at-trc-companies-inc-4485042292",
+"posted_at": "2026-11-25T09:44Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4460225267",
+"source": "LinkedIn",
+"title": "2027 Summer Healthcare Strategy & Operations Consulting Intern",
+"company": "Plante Moran",
+"location": "Southfield, MI",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-healthcare-strategy-operations-consulting-intern-at-plante-moran-4460225267",
+"posted_at": "2026-11-25T09:38Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4460068570",
+"source": "LinkedIn",
+"title": "2027 Technical Sales Intern - Equipment",
+"company": "Trane Technologies",
+"location": "Fenton, MO",
+"url": "https://www.linkedin.com/jobs/view/2027-technical-sales-intern-equipment-at-trane-technologies-4460068570",
+"posted_at": "2026-11-25T09:27Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4460069561",
+"source": "LinkedIn",
+"title": "2027 Technical Sales Intern - Controls",
+"company": "Trane Technologies",
+"location": "Miramar, FL",
+"url": "https://www.linkedin.com/jobs/view/2027-technical-sales-intern-controls-at-trane-technologies-4460069561",
+"posted_at": "2026-11-25T09:23Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4485002350",
+"source": "LinkedIn",
+"title": "Summer Intern - Biostatistics",
+"company": "Insmed Incorporated",
+"location": "Bridgewater, NJ",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-biostatistics-at-insmed-incorporated-4485002350",
+"posted_at": "2026-11-25T09:15Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4485007181",
+"source": "LinkedIn",
+"title": "Summer Intern – Cybersecurity Operations & AI Automation",
+"company": "Insmed Incorporated",
+"location": "Bridgewater, NJ",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-%E2%80%93-cybersecurity-operations-ai-automation-at-insmed-incorporated-4485007181",
+"posted_at": "2026-11-25T09:14Z",
+"found_at": "2026-11-25T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
 {
 "id": "4459241067",
 "source": "LinkedIn",
@@ -88,11 +239,13 @@
 "posted_at": "2026-11-25T09:04Z",
 "found_at": "2026-11-25T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4487022247",
@@ -123,11 +276,13 @@
 "posted_at": "2026-11-25T08:40Z",
 "found_at": "2026-11-25T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4494904111",
@@ -157,11 +312,14 @@
 "posted_at": "2026-11-25T08:22Z",
 "found_at": "2026-11-25T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4494490906",
@@ -173,11 +331,13 @@
 "posted_at": "2026-11-25T07:57Z",
 "found_at": "2026-11-25T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4494777380",
@@ -189,11 +349,14 @@
 "posted_at": "2026-11-25T07:25Z",
 "found_at": "2026-11-25T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Volunteer"
 },
 {
 "id": "4494754820",
@@ -243,11 +406,13 @@
 "posted_at": "2026-11-25T07:07Z",
 "found_at": "2026-11-25T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Full-time"
 },
 {
 "id": "4494481697",
@@ -259,11 +424,13 @@
 "posted_at": "2026-11-25T07:07Z",
 "found_at": "2026-11-25T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4493099251",
@@ -275,11 +442,13 @@
 "posted_at": "2026-11-25T07:07Z",
 "found_at": "2026-11-25T08:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Full-time"
 },
 {
 "id": "6b0688ec08cc74812e5e9313",
