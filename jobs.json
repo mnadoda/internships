@@ -1,7 +1,189 @@
 {
-"generated_at": "2026-11-25T13:10Z",
-"count": 1471,
+"generated_at": "2026-11-25T14:15Z",
+"count": 1481,
 "jobs": [
+{
+"id": "4460011936",
+"source": "LinkedIn",
+"title": "Electrical Engineering (ESSP) Intern - Summer 2027",
+"company": "WSP in the U.S.",
+"location": "Phoenix, AZ",
+"url": "https://www.linkedin.com/jobs/view/electrical-engineering-essp-intern-summer-2027-at-wsp-in-the-u-s-4460011936",
+"posted_at": "2026-11-25T13:48Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4475828542",
+"source": "LinkedIn",
+"title": "Engineering Intern (Paid Summer Internship for Electrical, Mechanical, Civil Engineering Students)",
+"company": "Avista",
+"location": "Spokane, WA",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-paid-summer-internship-for-electrical-mechanical-civil-engineering-students-at-avista-4475828542",
+"posted_at": "2026-11-25T13:39Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4470479090",
+"source": "LinkedIn",
+"title": "Sales Intern",
+"company": "CHS Inc.",
+"location": "St Charles, MN",
+"url": "https://www.linkedin.com/jobs/view/sales-intern-at-chs-inc-4470479090",
+"posted_at": "2026-11-25T13:33Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4486899711",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship Program",
+"company": "IMB (International Mission Board)",
+"location": "Richmond, VA",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-program-at-imb-international-mission-board-4486899711",
+"posted_at": "2026-11-25T13:28Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4462084600",
+"source": "LinkedIn",
+"title": "GRC/Cybersecurity Analyst Intern",
+"company": "Motion",
+"location": "Birmingham, AL",
+"url": "https://www.linkedin.com/jobs/view/grc-cybersecurity-analyst-intern-at-motion-4462084600",
+"posted_at": "2026-11-25T13:23Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4461550273",
+"source": "LinkedIn",
+"title": "Procurement Intern",
+"company": "Mountaire Farms",
+"location": "Millsboro, DE",
+"url": "https://www.linkedin.com/jobs/view/procurement-intern-at-mountaire-farms-4461550273",
+"posted_at": "2026-11-25T13:23Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4478549436",
+"source": "LinkedIn",
+"title": "Transportation Engineering Internship",
+"company": "Benesch",
+"location": "East Lansing, MI",
+"url": "https://www.linkedin.com/jobs/view/transportation-engineering-internship-at-benesch-4478549436",
+"posted_at": "2026-11-25T13:18Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4411529329",
+"source": "LinkedIn",
+"title": "Co-op (Summer Term)",
+"company": "Curtiss-Wright Corporation",
+"location": "Pittsburgh, PA",
+"url": "https://www.linkedin.com/jobs/view/co-op-summer-term-at-curtiss-wright-corporation-4411529329",
+"posted_at": "2026-11-25T13:12Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4478176899",
+"source": "LinkedIn",
+"title": "Acoustic and Vibration Technologies Intern (Summer 2027)",
+"company": "Draper",
+"location": "Greater Boston",
+"url": "https://www.linkedin.com/jobs/view/acoustic-and-vibration-technologies-intern-summer-2027-at-draper-4478176899",
+"posted_at": "2026-11-25T13:07Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4486301441",
+"source": "LinkedIn",
+"title": "Underwriting Intern",
+"company": "Allied Solutions LLC",
+"location": "Carmel, IN",
+"url": "https://www.linkedin.com/jobs/view/underwriting-intern-at-allied-solutions-llc-4486301441",
+"posted_at": "2026-11-25T13:07Z",
+"found_at": "2026-11-25T14:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4494604979",
 "source": "LinkedIn",
