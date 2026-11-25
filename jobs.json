@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-25T17:12Z",
-"count": 1499,
+"generated_at": "2026-11-25T18:11Z",
+"count": 1501,
 "jobs": [
+{
+"id": "6b071d6120135524ca729e8b",
+"source": "Jobright",
+"title": "Fellow Intern",
+"company": "McKinsey & Company",
+"location": "San Jose, CA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/20421",
+"posted_at": "2026-11-25T17:39Z",
+"found_at": "2026-11-25T18:07Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b071d4508b131a5c6577d7a",
+"source": "Jobright",
+"title": "Business Analyst Intern",
+"company": "McKinsey & Company",
+"location": "Columbus, OH",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/15275",
+"posted_at": "2026-11-25T17:39Z",
+"found_at": "2026-11-25T18:07Z",
+"score": 92,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4487216926",
 "source": "LinkedIn",
