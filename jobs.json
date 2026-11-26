@@ -1,7 +1,131 @@
 {
-"generated_at": "2026-11-26T19:11Z",
-"count": 1636,
+"generated_at": "2026-11-26T20:10Z",
+"count": 1643,
 "jobs": [
+{
+"id": "4495552108",
+"source": "LinkedIn",
+"title": "Client Success Intern",
+"company": "The Clearing House",
+"location": "Winston-Salem, NC",
+"url": "https://www.linkedin.com/jobs/view/client-success-intern-at-the-clearing-house-4495552108",
+"posted_at": "2026-11-26T19:24Z",
+"found_at": "2026-11-26T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4493828899",
+"source": "LinkedIn",
+"title": "Security Analyst Intern",
+"company": "BrilliaCore",
+"location": "Culver City, CA",
+"url": "https://www.linkedin.com/jobs/view/security-analyst-intern-at-brilliacore-4493828899",
+"posted_at": "2026-11-26T19:10Z",
+"found_at": "2026-11-26T20:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4479737344",
+"source": "LinkedIn",
+"title": "2027 Newell Brands Intern- Brand Design",
+"company": "Newell Brands",
+"location": "Sandy Springs, GA",
+"url": "https://www.linkedin.com/jobs/view/2027-newell-brands-intern-brand-design-at-newell-brands-4479737344",
+"posted_at": "2026-11-26T19:07Z",
+"found_at": "2026-11-26T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4476489069",
+"source": "LinkedIn",
+"title": "Campus 2028 Summer Assurance Intern",
+"company": "Frazier & Deeter",
+"location": "Huntsville, AL",
+"url": "https://www.linkedin.com/jobs/view/campus-2028-summer-assurance-intern-at-frazier-deeter-4476489069",
+"posted_at": "2026-11-26T19:07Z",
+"found_at": "2026-11-26T20:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4479850133",
+"source": "LinkedIn",
+"title": "Real Estate Operations Intern",
+"company": "Prologis",
+"location": "Houston, TX",
+"url": "https://www.linkedin.com/jobs/view/real-estate-operations-intern-at-prologis-4479850133",
+"posted_at": "2026-11-26T19:07Z",
+"found_at": "2026-11-26T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4487576268",
+"source": "LinkedIn",
+"title": "Business Strategy Intern",
+"company": "NMI",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/business-strategy-intern-at-nmi-4487576268",
+"posted_at": "2026-11-26T19:07Z",
+"found_at": "2026-11-26T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4459243878",
+"source": "LinkedIn",
+"title": "2026-2027 Leadership Development Program - Full Time and Summer Internship",
+"company": "Abercrombie & Fitch Co.",
+"location": "Columbus, OH",
+"url": "https://www.linkedin.com/jobs/view/2026-2027-leadership-development-program-full-time-and-summer-internship-at-abercrombie-fitch-co-4459243878",
+"posted_at": "2026-11-26T19:07Z",
+"found_at": "2026-11-26T20:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "4470676017",
 "source": "LinkedIn",
@@ -12,11 +136,13 @@
 "posted_at": "2026-11-26T18:46Z",
 "found_at": "2026-11-26T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4461387753",
@@ -28,11 +154,15 @@
 "posted_at": "2026-11-26T18:43Z",
 "found_at": "2026-11-26T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4485509661",
@@ -120,11 +250,14 @@
 "posted_at": "2026-11-26T18:07Z",
 "found_at": "2026-11-26T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4461343317",
@@ -140,7 +273,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4478827254",
@@ -152,11 +285,13 @@
 "posted_at": "2026-11-26T18:07Z",
 "found_at": "2026-11-26T19:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Full-time"
 },
 {
 "id": "4460648525",
