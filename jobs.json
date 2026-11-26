@@ -1,7 +1,193 @@
 {
-"generated_at": "2026-11-26T08:07Z",
-"count": 1574,
+"generated_at": "2026-11-26T09:13Z",
+"count": 1584,
 "jobs": [
+{
+"id": "4460651463",
+"source": "LinkedIn",
+"title": "Engineering Intern (Water)",
+"company": "GHD",
+"location": "King of Prussia, PA",
+"url": "https://www.linkedin.com/jobs/view/engineering-intern-water-at-ghd-4460651463",
+"posted_at": "2026-11-26T09:07Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4486379341",
+"source": "LinkedIn",
+"title": "Intern - Advanced Packaging TD",
+"company": "Micron Technology",
+"location": "Boise, ID",
+"url": "https://www.linkedin.com/jobs/view/intern-advanced-packaging-td-at-micron-technology-4486379341",
+"posted_at": "2026-11-26T09:07Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Master's",
+"PhD"
+],
+"degree": "Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4485546175",
+"source": "LinkedIn",
+"title": "Summer 2027 Plumbing Intern",
+"company": "TLC Engineering Solutions",
+"location": "Atlanta Metropolitan Area",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-plumbing-intern-at-tlc-engineering-solutions-4485546175",
+"posted_at": "2026-11-26T09:07Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4459540094",
+"source": "LinkedIn",
+"title": "Internship Program: Field Service Engineer",
+"company": "Eaton",
+"location": "Smyrna, GA",
+"url": "https://www.linkedin.com/jobs/view/internship-program-field-service-engineer-at-eaton-4459540094",
+"posted_at": "2026-11-26T09:06Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4459521810",
+"source": "LinkedIn",
+"title": "Internship Program: Field Service Engineer",
+"company": "Eaton",
+"location": "Southfield, MI",
+"url": "https://www.linkedin.com/jobs/view/internship-program-field-service-engineer-at-eaton-4459521810",
+"posted_at": "2026-11-26T09:06Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4461559710",
+"source": "LinkedIn",
+"title": "System Integration Engineering Intern",
+"company": "CNH",
+"location": "Wichita, KS",
+"url": "https://www.linkedin.com/jobs/view/system-integration-engineering-intern-at-cnh-4461559710",
+"posted_at": "2026-11-26T09:04Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4479045864",
+"source": "LinkedIn",
+"title": "ATI Sales Intern - Great Lakes region",
+"company": "Ascend Learning",
+"location": "Kansas City Metropolitan Area",
+"url": "https://www.linkedin.com/jobs/view/ati-sales-intern-great-lakes-region-at-ascend-learning-4479045864",
+"posted_at": "2026-11-26T09:02Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4461560832",
+"source": "LinkedIn",
+"title": "Purchasing Data Analyst Intern",
+"company": "CNH",
+"location": "Oak Brook, IL",
+"url": "https://www.linkedin.com/jobs/view/purchasing-data-analyst-intern-at-cnh-4461560832",
+"posted_at": "2026-11-26T09:02Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4486547473",
+"source": "LinkedIn",
+"title": "Crop Insurance Actuarial Intern",
+"company": "Sompo",
+"location": "Lenexa, KS",
+"url": "https://www.linkedin.com/jobs/view/crop-insurance-actuarial-intern-at-sompo-4486547473",
+"posted_at": "2026-11-26T09:02Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4493488858",
+"source": "LinkedIn",
+"title": "Foundation Summer Intern",
+"company": "National Basketball Players Association (NBPA)",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/foundation-summer-intern-at-national-basketball-players-association-nbpa-4493488858",
+"posted_at": "2026-11-26T08:07Z",
+"found_at": "2026-11-26T09:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
 {
 "id": "4493084870",
 "source": "LinkedIn",
