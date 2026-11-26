@@ -1,7 +1,140 @@
 {
-"generated_at": "2026-11-26T06:08Z",
-"count": 1565,
+"generated_at": "2026-11-26T07:11Z",
+"count": 1574,
 "jobs": [
+{
+"id": "4493084870",
+"source": "LinkedIn",
+"title": "Security analyst intern",
+"company": "Plentor",
+"location": "Philadelphia, PA",
+"url": "https://www.linkedin.com/jobs/view/security-analyst-intern-at-plentor-4493084870",
+"posted_at": "2026-11-26T06:54Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4489470338",
+"source": "LinkedIn",
+"title": "2027 Summer Intern - Environmental Health and Safety",
+"company": "Charles River Laboratories",
+"location": "Mattawan, MI",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-environmental-health-and-safety-at-charles-river-laboratories-4489470338",
+"posted_at": "2026-11-26T06:51Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4495254760",
+"source": "LinkedIn",
+"title": "Generation Major Project Group Intern- CO",
+"company": "Xcel Energy",
+"location": "Denver Metropolitan Area",
+"url": "https://www.linkedin.com/jobs/view/generation-major-project-group-intern-co-at-xcel-energy-4495254760",
+"posted_at": "2026-11-26T06:24Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Volunteer"
+},
+{
+"id": "4495271127",
+"source": "LinkedIn",
+"title": "Client Services Intern",
+"company": "Go Fish Digital",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/client-services-intern-at-go-fish-digital-4495271127",
+"posted_at": "2026-11-26T06:07Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4495251697",
+"source": "LinkedIn",
+"title": "Sales Intern - 2027 Summer Internship",
+"company": "Globe Life",
+"location": "McKinney, TX",
+"url": "https://www.linkedin.com/jobs/view/sales-intern-2027-summer-internship-at-globe-life-4495251697",
+"posted_at": "2026-11-26T06:07Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4495257674",
+"source": "LinkedIn",
+"title": "Paid Media Intern",
+"company": "Go Fish Digital",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/paid-media-intern-at-go-fish-digital-4495257674",
+"posted_at": "2026-11-26T06:07Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4491648999",
+"source": "LinkedIn",
+"title": "Community Engagement Events Intern (Part Time)",
+"company": "Utah Transit Authority",
+"location": "Salt Lake City, UT",
+"url": "https://www.linkedin.com/jobs/view/community-engagement-events-intern-part-time-at-utah-transit-authority-4491648999",
+"posted_at": "2026-11-26T06:07Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Part-time"
+},
+{
+"id": "4495263175",
+"source": "LinkedIn",
+"title": "Human Resources Intern - 2027 Summer Internship",
+"company": "Globe Life",
+"location": "McKinney, TX",
+"url": "https://www.linkedin.com/jobs/view/human-resources-intern-2027-summer-internship-at-globe-life-4495263175",
+"posted_at": "2026-11-26T06:07Z",
+"found_at": "2026-11-26T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4495218470",
 "source": "LinkedIn",
@@ -68,7 +201,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4495243905",
@@ -80,11 +213,13 @@
 "posted_at": "2026-11-26T04:51Z",
 "found_at": "2026-11-26T05:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Volunteer"
 },
 {
 "id": "4495260118",
@@ -99,8 +234,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Volunteer"
 },
 {
 "id": "4495248728",
@@ -1431,6 +1566,24 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Full-time"
+},
+{
+"id": "6acd7d65d113c967e3c7e123",
+"source": "Jobright",
+"title": "USA Consultant Internship (MBA) 2027",
+"company": "OC&C Strategy Consultants",
+"location": "Boston, MA",
+"url": "https://careers.occstrategy.com/vacancies/397/usa-consultant-internship-mba-2027.html",
+"posted_at": "2026-11-25T14:03Z",
+"found_at": "2026-11-26T07:08Z",
+"score": 87,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4460011936",
