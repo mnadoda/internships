@@ -1,7 +1,77 @@
 {
-"generated_at": "2026-11-26T03:11Z",
-"count": 1551,
+"generated_at": "2026-11-26T04:09Z",
+"count": 1555,
 "jobs": [
+{
+"id": "4494981603",
+"source": "LinkedIn",
+"title": "IT Service Management (ITSM) Problem Management Intern – Summer 2027",
+"company": "Jack Henry",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/it-service-management-itsm-problem-management-intern-%E2%80%93-summer-2027-at-jack-henry-4494981603",
+"posted_at": "2026-11-26T04:06Z",
+"found_at": "2026-11-26T04:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4495239740",
+"source": "LinkedIn",
+"title": "Environmental Health & Safety Intern Summer 2027",
+"company": "Bass Pro Shops",
+"location": "Springfield, MO",
+"url": "https://www.linkedin.com/jobs/view/environmental-health-safety-intern-summer-2027-at-bass-pro-shops-4495239740",
+"posted_at": "2026-11-26T04:06Z",
+"found_at": "2026-11-26T04:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4494987353",
+"source": "LinkedIn",
+"title": "Change and Project Management Intern - Summer 2027",
+"company": "Jack Henry",
+"location": "Springfield, MO",
+"url": "https://www.linkedin.com/jobs/view/change-and-project-management-intern-summer-2027-at-jack-henry-4494987353",
+"posted_at": "2026-11-26T04:04Z",
+"found_at": "2026-11-26T04:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4493482579",
+"source": "LinkedIn",
+"title": "Finance Graduate Intern",
+"company": "Brilyon Ventures",
+"location": "Temecula, CA",
+"url": "https://www.linkedin.com/jobs/view/finance-graduate-intern-at-brilyon-ventures-4493482579",
+"posted_at": "2026-11-26T03:39Z",
+"found_at": "2026-11-26T04:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4494907918",
 "source": "LinkedIn",
