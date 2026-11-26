@@ -1,7 +1,188 @@
 {
-"generated_at": "2026-11-26T14:11Z",
-"count": 1609,
+"generated_at": "2026-11-26T15:18Z",
+"count": 1619,
 "jobs": [
+{
+"id": "4459516964",
+"source": "LinkedIn",
+"title": "Managed Services Engineering Associate - Summer 2027 Internship Program",
+"company": "Heartland Business Systems",
+"location": "Columbia, MO",
+"url": "https://www.linkedin.com/jobs/view/managed-services-engineering-associate-summer-2027-internship-program-at-heartland-business-systems-4459516964",
+"posted_at": "2026-11-26T14:41Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4453071236",
+"source": "LinkedIn",
+"title": "Strategic Engagements & Events Intern (Summer 2027)",
+"company": "Zipline",
+"location": "South San Francisco, CA",
+"url": "https://www.linkedin.com/jobs/view/strategic-engagements-events-intern-summer-2027-at-zipline-4453071236",
+"posted_at": "2026-11-26T14:37Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Volunteer"
+},
+{
+"id": "4495036104",
+"source": "LinkedIn",
+"title": "Logistics & Distribution Intern",
+"company": "Ingredion Incorporated",
+"location": "Westchester, IL",
+"url": "https://www.linkedin.com/jobs/view/logistics-distribution-intern-at-ingredion-incorporated-4495036104",
+"posted_at": "2026-11-26T14:16Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4479095279",
+"source": "LinkedIn",
+"title": "Intern, Sales and Marketing",
+"company": "Blue Bird Corporation",
+"location": "Macon, GA",
+"url": "https://www.linkedin.com/jobs/view/intern-sales-and-marketing-at-blue-bird-corporation-4479095279",
+"posted_at": "2026-11-26T14:15Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4469059284",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship, Market Access Consulting",
+"company": "Precision AQ",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-market-access-consulting-at-precision-aq-4469059284",
+"posted_at": "2026-11-26T14:14Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4493823561",
+"source": "LinkedIn",
+"title": "Capabilities and Innovation Intern",
+"company": "Avynera Studios",
+"location": "Mayfield Heights, OH",
+"url": "https://www.linkedin.com/jobs/view/capabilities-and-innovation-intern-at-avynera-studios-4493823561",
+"posted_at": "2026-11-26T14:12Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4452038634",
+"source": "LinkedIn",
+"title": "Intern/Co-op - Digital/Information Technology (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"location": "San Antonio, TX",
+"url": "https://www.linkedin.com/jobs/view/intern-co-op-digital-information-technology-summer-2027-at-marathon-petroleum-corporation-4452038634",
+"posted_at": "2026-11-26T14:11Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4462080765",
+"source": "LinkedIn",
+"title": "Enterprise Intelligence Intern",
+"company": "Motion",
+"location": "Birmingham, AL",
+"url": "https://www.linkedin.com/jobs/view/enterprise-intelligence-intern-at-motion-4462080765",
+"posted_at": "2026-11-26T14:07Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4485556646",
+"source": "LinkedIn",
+"title": "Revenue Department Summer Intern (Hybrid Work Schedule)",
+"company": "Quorum Software",
+"location": "Houston, TX",
+"url": "https://www.linkedin.com/jobs/view/revenue-department-summer-intern-hybrid-work-schedule-at-quorum-software-4485556646",
+"posted_at": "2026-11-26T14:07Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4469433052",
+"source": "LinkedIn",
+"title": "Intern - Capacity Portfolio Representative Starting Summer 2027",
+"company": "C.H. Robinson",
+"location": "Orange, CA",
+"url": "https://www.linkedin.com/jobs/view/intern-capacity-portfolio-representative-starting-summer-2027-at-c-h-robinson-4469433052",
+"posted_at": "2026-11-26T14:07Z",
+"found_at": "2026-11-26T15:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
 {
 "id": "6b0834a2aa59d5ea1da50d4d",
 "source": "Jobright",
@@ -78,11 +259,13 @@
 "posted_at": "2026-11-26T13:02Z",
 "found_at": "2026-11-26T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4477940240",
@@ -206,9 +389,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4477477336",
@@ -220,11 +403,14 @@
 "posted_at": "2026-11-26T12:07Z",
 "found_at": "2026-11-26T13:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4468583657",
