@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-26T01:09Z",
-"count": 1540,
+"generated_at": "2026-11-26T02:08Z",
+"count": 1542,
 "jobs": [
+{
+"id": "6b078cb31c953ffe4a37d81b",
+"source": "Jobright",
+"title": "Associate Intern",
+"company": "McKinsey & Company",
+"location": "St. Louis, MO",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/14918",
+"posted_at": "2026-11-26T01:34Z",
+"found_at": "2026-11-26T02:07Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b0765a608b131a5c657a347",
+"source": "Jobright",
+"title": "Commercial Strategy Intern",
+"company": "Advanced Sterilization Products",
+"location": "Everett, WA",
+"url": "https://fortive.eightfold.ai/careers?pid=893398178643",
+"posted_at": "2026-11-26T00:48Z",
+"found_at": "2026-11-26T02:07Z",
+"score": 88,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "4494969578",
 "source": "LinkedIn",
