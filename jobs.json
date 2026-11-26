@@ -1,7 +1,145 @@
 {
-"generated_at": "2026-11-26T16:10Z",
-"count": 1619,
+"generated_at": "2026-11-26T17:12Z",
+"count": 1627,
 "jobs": [
+{
+"id": "4460648525",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship - Civil Engineering",
+"company": "Pape-Dawson",
+"location": "New Braunfels, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-civil-engineering-at-pape-dawson-4460648525",
+"posted_at": "2026-11-26T16:50Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4459594507",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship - Land Development",
+"company": "Pape-Dawson",
+"location": "Jacksonville, FL",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-land-development-at-pape-dawson-4459594507",
+"posted_at": "2026-11-26T16:48Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4478139651",
+"source": "LinkedIn",
+"title": "2027 Summer Intern - Cyber Security",
+"company": "Papa Johns",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-intern-cyber-security-at-papa-johns-4478139651",
+"posted_at": "2026-11-26T16:07Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4495283218",
+"source": "LinkedIn",
+"title": "Global Talent Management Intern",
+"company": "Ingredion Incorporated",
+"location": "Westchester, IL",
+"url": "https://www.linkedin.com/jobs/view/global-talent-management-intern-at-ingredion-incorporated-4495283218",
+"posted_at": "2026-11-26T16:07Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
+{
+"id": "4487759388",
+"source": "LinkedIn",
+"title": "Summer Intern - Engineering",
+"company": "Savannah River Nuclear Solutions",
+"location": "Aiken, SC",
+"url": "https://www.linkedin.com/jobs/view/summer-intern-engineering-at-savannah-river-nuclear-solutions-4487759388",
+"posted_at": "2026-11-26T16:07Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4478482925",
+"source": "LinkedIn",
+"title": "Environmental Engineering or Science Intern/Co-Op - Spring & Summer 2027",
+"company": "Geosyntec Consultants",
+"location": "Kennesaw, GA",
+"url": "https://www.linkedin.com/jobs/view/environmental-engineering-or-science-intern-co-op-spring-summer-2027-at-geosyntec-consultants-4478482925",
+"posted_at": "2026-11-26T16:07Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4478481987",
+"source": "LinkedIn",
+"title": "Environmental Engineering or Science Intern/Co-Op - Spring & Summer 2027",
+"company": "Geosyntec Consultants",
+"location": "Atlanta, GA",
+"url": "https://www.linkedin.com/jobs/view/environmental-engineering-or-science-intern-co-op-spring-summer-2027-at-geosyntec-consultants-4478481987",
+"posted_at": "2026-11-26T16:07Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4468507740",
+"source": "LinkedIn",
+"title": "Transportation Engineering Intern (Traffic) – Summer 2027",
+"company": "Jacobs",
+"location": "San Antonio, TX",
+"url": "https://www.linkedin.com/jobs/view/transportation-engineering-intern-traffic-%E2%80%93-summer-2027-at-jacobs-4468507740",
+"posted_at": "2026-11-26T16:07Z",
+"found_at": "2026-11-26T17:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
 {
 "id": "4459516964",
 "source": "LinkedIn",
