@@ -1,7 +1,241 @@
 {
-"generated_at": "2026-11-26T23:08Z",
-"count": 1656,
+"generated_at": "2026-11-27T00:11Z",
+"count": 1669,
 "jobs": [
+{
+"id": "6b08c80baa59d5ea1da52709",
+"source": "Jobright",
+"title": "Business Analyst Intern",
+"company": "McKinsey & Company",
+"location": "Minneapolis, MN",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/15275",
+"posted_at": "2026-11-27T00:00Z",
+"found_at": "2026-11-27T00:08Z",
+"score": 89,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b08c7d5aa59d5ea1da52706",
+"source": "Jobright",
+"title": "Fellow Intern",
+"company": "McKinsey & Company",
+"location": "San Jose, CA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/20421",
+"posted_at": "2026-11-26T23:59Z",
+"found_at": "2026-11-27T00:08Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b08c7ef03dd5bd15ba4849d",
+"source": "Jobright",
+"title": "Associate Intern",
+"company": "McKinsey & Company",
+"location": "Pittsburgh, PA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/14918",
+"posted_at": "2026-11-26T23:59Z",
+"found_at": "2026-11-27T00:08Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4495557331",
+"source": "LinkedIn",
+"title": "2027 Market Sales Analyst Internship - Emerging Talent Summer Experience Program",
+"company": "JPMorganChase",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-market-sales-analyst-internship-emerging-talent-summer-experience-program-at-jpmorganchase-4495557331",
+"posted_at": "2026-11-26T23:15Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4495564169",
+"source": "LinkedIn",
+"title": "2027 Market Risk Management Internship - Emerging Talent Summer Experience Program",
+"company": "JPMorganChase",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/2027-market-risk-management-internship-emerging-talent-summer-experience-program-at-jpmorganchase-4495564169",
+"posted_at": "2026-11-26T23:15Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4495052528",
+"source": "LinkedIn",
+"title": "Supply Chain Climate Risk Intern",
+"company": "Colgate-Palmolive",
+"location": "New York, NY",
+"url": "https://www.linkedin.com/jobs/view/supply-chain-climate-risk-intern-at-colgate-palmolive-4495052528",
+"posted_at": "2026-11-26T23:11Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4495544957",
+"source": "LinkedIn",
+"title": "Asset Management Group Undergraduate Intern",
+"company": "PNC",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/asset-management-group-undergraduate-intern-at-pnc-4495544957",
+"posted_at": "2026-11-26T23:07Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4495549579",
+"source": "LinkedIn",
+"title": "Asset Management Group Undergraduate Intern",
+"company": "PNC",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/asset-management-group-undergraduate-intern-at-pnc-4495549579",
+"posted_at": "2026-11-26T23:07Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4495053455",
+"source": "LinkedIn",
+"title": "Intern Engineering Designer, Roads and Highways",
+"company": "TYLin",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/intern-engineering-designer-roads-and-highways-at-tylin-4495053455",
+"posted_at": "2026-11-26T23:07Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4495049792",
+"source": "LinkedIn",
+"title": "Intern Engineering Designer, Roads and Highways",
+"company": "TYLin",
+"location": "Indianapolis, IN",
+"url": "https://www.linkedin.com/jobs/view/intern-engineering-designer-roads-and-highways-at-tylin-4495049792",
+"posted_at": "2026-11-26T23:07Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4495049786",
+"source": "LinkedIn",
+"title": "Environmental Science Intern",
+"company": "GHD",
+"location": "Dallas, TX",
+"url": "https://www.linkedin.com/jobs/view/environmental-science-intern-at-ghd-4495049786",
+"posted_at": "2026-11-26T23:07Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4494951105",
+"source": "LinkedIn",
+"title": "DFT Engineer Intern",
+"company": "SambaNova",
+"location": "San Jose, CA",
+"url": "https://www.linkedin.com/jobs/view/dft-engineer-intern-at-sambanova-4494951105",
+"posted_at": "2026-11-26T23:07Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"PhD"
+],
+"degree": "PhD",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4483214383",
+"source": "LinkedIn",
+"title": "2027 Summer Engineering Intern",
+"company": "UPS",
+"location": "La Grange, IL",
+"url": "https://www.linkedin.com/jobs/view/2027-summer-engineering-intern-at-ups-4483214383",
+"posted_at": "2026-11-26T23:07Z",
+"found_at": "2026-11-27T00:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "6b08b9ee03dd5bd15ba482f9",
 "source": "Jobright",
