@@ -1,7 +1,155 @@
 {
-"generated_at": "2026-11-27T06:12Z",
-"count": 1699,
+"generated_at": "2026-11-27T07:10Z",
+"count": 1707,
 "jobs": [
+{
+"id": "4493403137",
+"source": "LinkedIn",
+"title": "Technical Sales & Consulting Intern",
+"company": "Talentrift",
+"location": "Philadelphia, PA",
+"url": "https://www.linkedin.com/jobs/view/technical-sales-consulting-intern-at-talentrift-4493403137",
+"posted_at": "2026-11-27T06:48Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4495082289",
+"source": "LinkedIn",
+"title": "Information Security Engineer Intern",
+"company": "Archer",
+"location": "McLean, VA",
+"url": "https://www.linkedin.com/jobs/view/information-security-engineer-intern-at-archer-4495082289",
+"posted_at": "2026-11-27T06:42Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4481919629",
+"source": "LinkedIn",
+"title": "Freight Broker Intern - Summer 2027",
+"company": "Schneider",
+"location": "Chicago, IL",
+"url": "https://www.linkedin.com/jobs/view/freight-broker-intern-summer-2027-at-schneider-4481919629",
+"posted_at": "2026-11-27T06:26Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4495587343",
+"source": "LinkedIn",
+"title": "2027 Enterprise Productivity Solutions Intern - Falls Church VA",
+"company": "Northrop Grumman",
+"location": "Falls Church, VA",
+"url": "https://www.linkedin.com/jobs/view/2027-enterprise-productivity-solutions-intern-falls-church-va-at-northrop-grumman-4495587343",
+"posted_at": "2026-11-27T06:07Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4495573778",
+"source": "LinkedIn",
+"title": "Grad Intern - Global Medical Program Management (Summer 2027)",
+"company": "BioSpace",
+"location": "Washington, DC",
+"url": "https://www.linkedin.com/jobs/view/grad-intern-global-medical-program-management-summer-2027-at-biospace-4495573778",
+"posted_at": "2026-11-27T06:07Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4495071530",
+"source": "LinkedIn",
+"title": "Preconstruction Intern",
+"company": "Wolverine Construction",
+"location": "Grand Rapids, MI",
+"url": "https://www.linkedin.com/jobs/view/preconstruction-intern-at-wolverine-construction-4495071530",
+"posted_at": "2026-11-27T06:07Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Volunteer"
+},
+{
+"id": "4495071493",
+"source": "LinkedIn",
+"title": "Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)",
+"company": "TikTok",
+"location": "Seattle, WA",
+"url": "https://www.linkedin.com/jobs/view/category-manager-project-intern-tiktok-shop-fashion-2026-start-bs-ms-at-tiktok-4495071493",
+"posted_at": "2026-11-27T06:07Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
+{
+"id": "4495590266",
+"source": "LinkedIn",
+"title": "2027 Configuration Management Data Analyst Intern - Falls Church VA",
+"company": "Northrop Grumman",
+"location": "Falls Church, VA",
+"url": "https://www.linkedin.com/jobs/view/2027-configuration-management-data-analyst-intern-falls-church-va-at-northrop-grumman-4495590266",
+"posted_at": "2026-11-27T06:07Z",
+"found_at": "2026-11-27T07:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
 {
 "id": "6b091c7cecb44182f0ee3fc8",
 "source": "Jobright",
