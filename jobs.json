@@ -1,7 +1,185 @@
 {
-"generated_at": "2026-11-27T09:12Z",
-"count": 1720,
+"generated_at": "2026-11-27T10:17Z",
+"count": 1730,
 "jobs": [
+{
+"id": "4461255799",
+"source": "LinkedIn",
+"title": "EIC GOS Central Summer Intern",
+"company": "Cushman & Wakefield",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/eic-gos-central-summer-intern-at-cushman-wakefield-4461255799",
+"posted_at": "2026-11-27T10:03Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493876700",
+"source": "LinkedIn",
+"title": "Application Engineering Intern",
+"company": "Horizon Lane",
+"location": "Milwaukee, WI",
+"url": "https://www.linkedin.com/jobs/view/application-engineering-intern-at-horizon-lane-4493876700",
+"posted_at": "2026-11-27T10:02Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4468572883",
+"source": "LinkedIn",
+"title": "Environmental Intern",
+"company": "TRC Companies, Inc.",
+"location": "Midland, TX",
+"url": "https://www.linkedin.com/jobs/view/environmental-intern-at-trc-companies-inc-4468572883",
+"posted_at": "2026-11-27T09:57Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4468906939",
+"source": "LinkedIn",
+"title": "Environmental Intern",
+"company": "TRC Companies, Inc.",
+"location": "Greenville, SC",
+"url": "https://www.linkedin.com/jobs/view/environmental-intern-at-trc-companies-inc-4468906939",
+"posted_at": "2026-11-27T09:57Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
+{
+"id": "4485846668",
+"source": "LinkedIn",
+"title": "Sales Data Analytics Intern",
+"company": "CrowdStrike",
+"location": "Arlington, VA",
+"url": "https://www.linkedin.com/jobs/view/sales-data-analytics-intern-at-crowdstrike-4485846668",
+"posted_at": "2026-11-27T09:46Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4469032671",
+"source": "LinkedIn",
+"title": "Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes",
+"company": "Blue Cross Blue Shield of Michigan",
+"location": "Detroit, MI",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-pharmacy-intern-%E2%80%93-emerging-therapies-and-health-outcomes-at-blue-cross-blue-shield-of-michigan-4469032671",
+"posted_at": "2026-11-27T09:26Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4459900344",
+"source": "LinkedIn",
+"title": "Risk Solutions Intern - June 2027",
+"company": "Lockton",
+"location": "St Louis, MO",
+"url": "https://www.linkedin.com/jobs/view/risk-solutions-intern-june-2027-at-lockton-4459900344",
+"posted_at": "2026-11-27T09:26Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4487784382",
+"source": "LinkedIn",
+"title": "University, Digital Transformation Analyst - Summer Intern",
+"company": "Booz Allen Hamilton",
+"location": "Arlington, VA",
+"url": "https://www.linkedin.com/jobs/view/university-digital-transformation-analyst-summer-intern-at-booz-allen-hamilton-4487784382",
+"posted_at": "2026-11-27T09:22Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4487790232",
+"source": "LinkedIn",
+"title": "University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern",
+"company": "Booz Allen Hamilton",
+"location": "McLean, VA",
+"url": "https://www.linkedin.com/jobs/view/university-%E2%80%93-summer-27-enterprise-cybersecurity-data-loss-prevention-intern-at-booz-allen-hamilton-4487790232",
+"posted_at": "2026-11-27T09:11Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Internship"
+},
+{
+"id": "4488072949",
+"source": "LinkedIn",
+"title": "Global Security Intern - Analytics (Summer 2027) Memphis, TN",
+"company": "Federal Express Corporation",
+"location": "Memphis, TN",
+"url": "https://www.linkedin.com/jobs/view/global-security-intern-analytics-summer-2027-memphis-tn-at-federal-express-corporation-4488072949",
+"posted_at": "2026-11-27T09:07Z",
+"found_at": "2026-11-27T10:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
+},
 {
 "id": "4470625546",
 "source": "LinkedIn",
@@ -30,11 +208,13 @@
 "posted_at": "2026-11-27T09:06Z",
 "found_at": "2026-11-27T09:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4462035136",
@@ -102,7 +282,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4488084572",
@@ -136,7 +316,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4462047127",
