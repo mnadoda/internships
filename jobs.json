@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-27T20:12Z",
+"generated_at": "2026-11-27T21:12Z",
 "count": 1785,
 "jobs": [
 {
@@ -206,11 +206,15 @@
 "posted_at": "2026-11-27T19:07Z",
 "found_at": "2026-11-27T20:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"degree": "Bachelor's or Master's or PhD",
+"work_auth": "Sponsorship available",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4459566161",
@@ -222,11 +226,14 @@
 "posted_at": "2026-11-27T19:07Z",
 "found_at": "2026-11-27T20:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Authorization required",
+"work_model": "Hybrid",
+"employment": "Full-time"
 },
 {
 "id": "4486911233",
