@@ -1,7 +1,199 @@
 {
-"generated_at": "2026-11-27T15:14Z",
-"count": 1747,
+"generated_at": "2026-11-27T16:11Z",
+"count": 1758,
 "jobs": [
+{
+"id": "4459298081",
+"source": "LinkedIn",
+"title": "Assistant Project Engineer Intern - Summer 2027",
+"company": "The Christman Company",
+"location": "Memphis, TN",
+"url": "https://www.linkedin.com/jobs/view/assistant-project-engineer-intern-summer-2027-at-the-christman-company-4459298081",
+"posted_at": "2026-11-27T16:01Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4459287403",
+"source": "LinkedIn",
+"title": "Assistant Project Engineer Intern - Summer 2027",
+"company": "The Christman Company",
+"location": "Oklahoma City, OK",
+"url": "https://www.linkedin.com/jobs/view/assistant-project-engineer-intern-summer-2027-at-the-christman-company-4459287403",
+"posted_at": "2026-11-27T16:01Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "6b09a8a562c6023db302213f",
+"source": "Jobright",
+"title": "Business Analyst Intern",
+"company": "McKinsey & Company",
+"location": "Houston, TX",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/15275",
+"posted_at": "2026-11-27T15:58Z",
+"found_at": "2026-11-27T16:08Z",
+"score": 92,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b09a895b80cc2b409d85259",
+"source": "Jobright",
+"title": "Associate Intern",
+"company": "McKinsey & Company",
+"location": "Philadelphia, PA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/14918",
+"posted_at": "2026-11-27T15:58Z",
+"found_at": "2026-11-27T16:08Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "6b09a89baaf0c31c7c96f7bf",
+"source": "Jobright",
+"title": "Fellow Intern",
+"company": "McKinsey & Company",
+"location": "San Jose, CA",
+"url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods/20421",
+"posted_at": "2026-11-27T15:58Z",
+"found_at": "2026-11-27T16:08Z",
+"score": 87,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4470989815",
+"source": "LinkedIn",
+"title": "Automation Intern (Summer 2027)",
+"company": "CRB",
+"location": "Kansas City, MO",
+"url": "https://www.linkedin.com/jobs/view/automation-intern-summer-2027-at-crb-4470989815",
+"posted_at": "2026-11-27T15:07Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4471496086",
+"source": "LinkedIn",
+"title": "Control Systems Integration Intern (Summer 2027)",
+"company": "CRB",
+"location": "Kansas City, MO",
+"url": "https://www.linkedin.com/jobs/view/control-systems-integration-intern-summer-2027-at-crb-4471496086",
+"posted_at": "2026-11-27T15:07Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4493888961",
+"source": "LinkedIn",
+"title": "AI Enablement Graduate Intern",
+"company": "Aether Field",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/ai-enablement-graduate-intern-at-aether-field-4493888961",
+"posted_at": "2026-11-27T15:07Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4460647519",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship - Civil Engineering",
+"company": "Pape-Dawson",
+"location": "Plano, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-civil-engineering-at-pape-dawson-4460647519",
+"posted_at": "2026-11-27T15:07Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4460649521",
+"source": "LinkedIn",
+"title": "Summer 2027 Internship - Civil Engineering",
+"company": "Pape-Dawson",
+"location": "Amarillo, TX",
+"url": "https://www.linkedin.com/jobs/view/summer-2027-internship-civil-engineering-at-pape-dawson-4460649521",
+"posted_at": "2026-11-27T15:07Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4459529148",
+"source": "LinkedIn",
+"title": "Managed Services Engineering Associate - Summer 2027 Internship Program",
+"company": "Heartland Business Systems",
+"location": "Sedalia, MO",
+"url": "https://www.linkedin.com/jobs/view/managed-services-engineering-associate-summer-2027-internship-program-at-heartland-business-systems-4459529148",
+"posted_at": "2026-11-27T15:07Z",
+"found_at": "2026-11-27T16:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Internship"
+},
 {
 "id": "4459901015",
 "source": "LinkedIn",
@@ -12,11 +204,13 @@
 "posted_at": "2026-11-27T14:07Z",
 "found_at": "2026-11-27T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4367289590",
@@ -28,11 +222,14 @@
 "posted_at": "2026-11-27T13:57Z",
 "found_at": "2026-11-27T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4488041887",
@@ -63,11 +260,14 @@
 "posted_at": "2026-11-27T13:31Z",
 "found_at": "2026-11-27T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4469060267",
@@ -118,11 +318,13 @@
 "posted_at": "2026-11-27T13:07Z",
 "found_at": "2026-11-27T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
-"work_auth": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4460056670",
@@ -134,11 +336,13 @@
 "posted_at": "2026-11-27T13:07Z",
 "found_at": "2026-11-27T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "4477023241",
@@ -150,11 +354,13 @@
 "posted_at": "2026-11-27T13:07Z",
 "found_at": "2026-11-27T14:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4469085269",
@@ -169,8 +375,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "6b0970adb80cc2b409d8460a",
