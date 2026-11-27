@@ -1,7 +1,80 @@
 {
-"generated_at": "2026-11-27T10:17Z",
-"count": 1730,
+"generated_at": "2026-11-27T11:12Z",
+"count": 1734,
 "jobs": [
+{
+"id": "4495591936",
+"source": "LinkedIn",
+"title": "Undergrad Intern – R&D Local Safety Officer (Summer 2027)",
+"company": "Amgen",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/undergrad-intern-%E2%80%93-r-d-local-safety-officer-summer-2027-at-amgen-4495591936",
+"posted_at": "2026-11-27T11:02Z",
+"found_at": "2026-11-27T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4495285289",
+"source": "LinkedIn",
+"title": "Undergrad Intern - Commercialization Technology and Decision Support (Summer 2027)",
+"company": "Amgen",
+"location": "United States",
+"url": "https://www.linkedin.com/jobs/view/undergrad-intern-commercialization-technology-and-decision-support-summer-2027-at-amgen-4495285289",
+"posted_at": "2026-11-27T11:02Z",
+"found_at": "2026-11-27T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4460038895",
+"source": "LinkedIn",
+"title": "Water/Wastewater Engineering Intern",
+"company": "Ardurra",
+"location": "Birmingham, AL",
+"url": "https://www.linkedin.com/jobs/view/water-wastewater-engineering-intern-at-ardurra-4460038895",
+"posted_at": "2026-11-27T10:54Z",
+"found_at": "2026-11-27T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Full-time"
+},
+{
+"id": "4477022340",
+"source": "LinkedIn",
+"title": "Air Monitoring Intern",
+"company": "TRC Companies, Inc.",
+"location": "Alachua, FL",
+"url": "https://www.linkedin.com/jobs/view/air-monitoring-intern-at-trc-companies-inc-4477022340",
+"posted_at": "2026-11-27T10:24Z",
+"found_at": "2026-11-27T11:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
 {
 "id": "4461255799",
 "source": "LinkedIn",
