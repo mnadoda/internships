@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-27T18:12Z",
-"count": 1771,
+"generated_at": "2026-11-27T19:12Z",
+"count": 1772,
 "jobs": [
 {
 "id": "4486911233",
@@ -176,11 +176,14 @@
 "posted_at": "2026-11-27T17:07Z",
 "found_at": "2026-11-27T18:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "6aecf806465e3d237138361d",
@@ -4582,6 +4585,22 @@
 "work_auth": "Not specified",
 "work_model": "Onsite",
 "employment": "Full-time"
+},
+{
+"id": "6aeea74840b5de2d2b30dc68",
+"source": "Jobright",
+"title": "Intern - Competition Economics",
+"company": "BRG",
+"location": "Johannesburg, CA",
+"url": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244?source=jobright",
+"posted_at": "2026-11-25T18:39Z",
+"found_at": "2026-11-27T19:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "6b072a926c5083822fdc754a",
