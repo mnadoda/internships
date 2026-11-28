@@ -1,7 +1,61 @@
 {
-"generated_at": "2026-11-28T07:09Z",
-"count": 1826,
+"generated_at": "2026-11-28T08:07Z",
+"count": 1829,
 "jobs": [
+{
+"id": "4494244287",
+"source": "LinkedIn",
+"title": "Mechanical Engineer Intern (ASC0063)",
+"company": "Ascendria Consulting",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-asc0063-at-ascendria-consulting-4494244287",
+"posted_at": "2026-11-28T07:48Z",
+"found_at": "2026-11-28T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Onsite",
+"employment": "Full-time"
+},
+{
+"id": "4494201340",
+"source": "LinkedIn",
+"title": "Key Account Management Sales Intern",
+"company": "Tenvault",
+"location": "El Segundo, CA",
+"url": "https://www.linkedin.com/jobs/view/key-account-management-sales-intern-at-tenvault-4494201340",
+"posted_at": "2026-11-28T07:12Z",
+"found_at": "2026-11-28T08:07Z",
+"score": null,
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4494241458",
+"source": "LinkedIn",
+"title": "PHARMACY/PHARMCST-INTERN",
+"company": "Smith's Food & Drug Centers",
+"location": "Albuquerque, NM",
+"url": "https://www.linkedin.com/jobs/view/pharmacy-pharmcst-intern-at-smith-s-food-drug-centers-4494241458",
+"posted_at": "2026-11-28T07:07Z",
+"found_at": "2026-11-28T08:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Part-time"
+},
 {
 "id": "4494239553",
 "source": "LinkedIn",
