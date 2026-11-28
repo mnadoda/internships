@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-28T13:12Z",
+"generated_at": "2026-11-28T14:10Z",
 "count": 1859,
 "jobs": [
 {
@@ -142,11 +142,14 @@
 "posted_at": "2026-11-28T11:54Z",
 "found_at": "2026-11-28T12:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's",
+"Master's"
+],
+"degree": "Bachelor's or Master's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4496025531",
