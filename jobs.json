@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-28T01:11Z",
+"generated_at": "2026-11-28T02:11Z",
 "count": 1796,
 "jobs": [
 {
@@ -46,9 +46,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
+"work_auth": "Authorization required",
 "work_model": "Remote",
-"employment": ""
+"employment": "Part-time"
 },
 {
 "id": "4496008020",
