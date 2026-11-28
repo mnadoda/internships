@@ -1,7 +1,75 @@
 {
-"generated_at": "2026-11-28T02:11Z",
-"count": 1796,
+"generated_at": "2026-11-28T03:09Z",
+"count": 1801,
 "jobs": [
+{
+"id": "4496011308",
+"source": "LinkedIn",
+"title": "Development Test Engineering Intern (Summer 2027)",
+"company": "Impulse Space",
+"location": "Redondo Beach, CA",
+"url": "https://www.linkedin.com/jobs/view/development-test-engineering-intern-summer-2027-at-impulse-space-4496011308",
+"posted_at": "2026-11-28T02:27Z",
+"found_at": "2026-11-28T03:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Internship"
+},
+{
+"id": "4495340576",
+"source": "LinkedIn",
+"title": "Software Engineering Internship – SI & Open-Source Construction Ecosystem",
+"company": "JERRNI",
+"location": "San Francisco Bay Area",
+"url": "https://www.linkedin.com/jobs/view/software-engineering-internship-%E2%80%93-si-open-source-construction-ecosystem-at-jerrni-4495340576",
+"posted_at": "2026-11-28T02:07Z",
+"found_at": "2026-11-28T03:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Remote",
+"employment": "Full-time"
+},
+{
+"id": "4496006445",
+"source": "LinkedIn",
+"title": "Spring 2027 Mayor's Office Internship Program - Office of the Mayor",
+"company": "City of Indianapolis",
+"location": "Indianapolis, IN",
+"url": "https://www.linkedin.com/jobs/view/spring-2027-mayor-s-office-internship-program-office-of-the-mayor-at-city-of-indianapolis-4496006445",
+"posted_at": "2026-11-28T02:07Z",
+"found_at": "2026-11-28T03:07Z",
+"score": null,
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
+{
+"id": "4495897661",
+"source": "LinkedIn",
+"title": "Human Services Job Link Intern",
+"company": "County of Sonoma",
+"location": "Santa Rosa, CA",
+"url": "https://www.linkedin.com/jobs/view/human-services-job-link-intern-at-county-of-sonoma-4495897661",
+"posted_at": "2026-11-28T02:07Z",
+"found_at": "2026-11-28T03:07Z",
+"score": null,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Not specified",
+"work_model": "Not specified",
+"employment": "Internship"
+},
 {
 "id": "4493814426",
 "source": "LinkedIn",
@@ -12,11 +80,13 @@
 "posted_at": "2026-11-28T00:28Z",
 "found_at": "2026-11-28T01:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4495359044",
@@ -30,9 +100,9 @@
 "score": null,
 "degrees": [],
 "degree": "Not specified",
-"work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_auth": "Authorization required",
+"work_model": "Onsite",
+"employment": "Volunteer"
 },
 {
 "id": "4495341740",
@@ -63,8 +133,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Part-time"
 },
 {
 "id": "4495896389",
@@ -79,8 +149,8 @@
 "degrees": [],
 "degree": "Not specified",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Remote",
+"employment": "Part-time"
 },
 {
 "id": "4495898100",
@@ -92,11 +162,13 @@
 "posted_at": "2026-11-28T00:07Z",
 "found_at": "2026-11-28T01:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "4495340543",
@@ -108,11 +180,13 @@
 "posted_at": "2026-11-28T00:07Z",
 "found_at": "2026-11-28T01:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Volunteer"
 },
 {
 "id": "4495878945",
@@ -124,11 +198,13 @@
 "posted_at": "2026-11-28T00:07Z",
 "found_at": "2026-11-28T01:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
-"work_model": "Not specified",
-"employment": ""
+"work_model": "Hybrid",
+"employment": "Volunteer"
 },
 {
 "id": "4494438608",
@@ -144,7 +220,7 @@
 "degree": "Not specified",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Internship"
 },
 {
 "id": "4495896158",
@@ -156,11 +232,13 @@
 "posted_at": "2026-11-28T00:07Z",
 "found_at": "2026-11-28T01:07Z",
 "score": null,
-"degrees": [],
-"degree": "Not specified",
+"degrees": [
+"Bachelor's"
+],
+"degree": "Bachelor's",
 "work_auth": "Not specified",
 "work_model": "Not specified",
-"employment": ""
+"employment": "Full-time"
 },
 {
 "id": "6b0a133e5f0c27a3a3cedcbf",
@@ -1119,6 +1197,24 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Full-time"
+},
+{
+"id": "6aec2268f69ea487dd5d75fb",
+"source": "Jobright",
+"title": "Strategy Intern (Monetization Strategy & Operations) - 2027 Start (MBA)",
+"company": "TikTok",
+"location": "New York, NY",
+"url": "https://lifeattiktok.com/search/7683675373903415557",
+"posted_at": "2026-11-27T10:31Z",
+"found_at": "2026-11-28T03:07Z",
+"score": 90,
+"degrees": [
+"Master's"
+],
+"degree": "Master's",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
 },
 {
 "id": "4477022340",
