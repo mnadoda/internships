@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-28T08:07Z",
-"count": 1829,
+"generated_at": "2026-11-28T09:11Z",
+"count": 1830,
 "jobs": [
 {
 "id": "4494244287",
@@ -1401,6 +1401,22 @@
 "work_auth": "Not specified",
 "work_model": "Not specified",
 "employment": "Full-time"
+},
+{
+"id": "6b0a8c120dcf7f64923b7121",
+"source": "Jobright",
+"title": "Intern, Operations as a Service (OPaaS)",
+"company": "BetaNXT",
+"location": "New York, NY",
+"url": "https://www.ziprecruiter.com/kn/AAIpsKfurBcTovd-jMleH8atOEVoLIX7dLFGLJ9xP97sDtQYVNLJ6m4pJlN3DsBsK24iwVq5f7nRxD8eusL5nlMuqVltUEFZeeMgdKng1tHIf53nuro2XajOH3labuynzdrsli0U3TZznwKAE10qwoFBi0eg2ZeeLKE7yhz-97rXl9BIIhhisSCy42j3Wn1h0UTGSx5iTujrMwiDIR3sWeBem0MiMcHE-tkpS1P8YVxjnUA4iJgaedOlEIsSG5G4HcCFbEOqznL4rZ7KEHHO_yFdDM7yc9OgddKUVKwhy4ErpwsBtpDRhjTTXiT-kUSZ5y_JYiF_vmg3Vii0ItvzEmSGHzx6yP7UG3hnl8fma4mgguQCp6VidVlXcba5xvUxDsAKE1PlHstSzP5w2ExpUAszx2rXr-kvNLeoat5dv3ottNcwWblJfy1ok8YCRPw2laqnuDrwY02PCPppd8Hr3LvjjqQlQEBBbi5Be4qd7V8MGuG8aa1oloaURDvas8EGEVMY?tsid=123468825",
+"posted_at": "2026-11-27T13:54Z",
+"found_at": "2026-11-28T09:07Z",
+"score": 82,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Hybrid",
+"employment": "Internship"
 },
 {
 "id": "4488041887",
