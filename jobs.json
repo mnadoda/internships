@@ -1,7 +1,23 @@
 {
-"generated_at": "2026-11-27T23:10Z",
-"count": 1785,
+"generated_at": "2026-11-28T00:10Z",
+"count": 1786,
 "jobs": [
+{
+"id": "6b0a133e5f0c27a3a3cedcbf",
+"source": "Jobright",
+"title": "Student Intern",
+"company": "Leyton",
+"location": "Boston, MA",
+"url": "https://www.linkedin.com/jobs/view/4495336545",
+"posted_at": "2026-11-27T21:33Z",
+"found_at": "2026-11-28T00:07Z",
+"score": 80,
+"degrees": [],
+"degree": "Not specified",
+"work_auth": "Sponsorship available",
+"work_model": "Onsite",
+"employment": "Internship"
+},
 {
 "id": "6b09e0cfaaf0c31c7c9705e7",
 "source": "Jobright",
